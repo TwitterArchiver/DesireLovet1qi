@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063946541518274560",
+        "3_2063946541534986240"
+      ],
+      "media_source_tweet_id": [
+        "2063946563731218622",
+        "2063946563731218622"
+      ]
+    },
+    "author_id": "2013209398395752448",
+    "conversation_id": "2070340168066957318",
+    "created_at": "2026-06-26T02:55:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T03:55:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070340168066957318"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2063944150165209091",
+          "start": 3,
+          "username": "Nainaidui"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bpyhYDLmqL",
+          "end": 43,
+          "expanded_url": "https://x.com/Nainaidui/status/2063946563731218622/photo/1",
+          "media_key": "3_2063946541518274560",
+          "start": 20,
+          "url": "https://t.co/bpyhYDLmqL"
+        },
+        {
+          "display_url": "pic.x.com/bpyhYDLmqL",
+          "end": 43,
+          "expanded_url": "https://x.com/Nainaidui/status/2063946563731218622/photo/1",
+          "media_key": "3_2063946541534986240",
+          "start": 20,
+          "url": "https://t.co/bpyhYDLmqL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070340168066957318",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063946563731218622",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nainaidui: 🔝1.0 https://t.co/bpyhYDLmqL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063946541518274560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKSccbqXwAAukiC.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1320,
+        "media_key": "3_2063946541534986240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKSccbuWwAA-HmI.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063946541518274560",
+            "3_2063946541534986240"
+          ],
+          "media_source_tweet_id": [
+            "2063946563731218622",
+            "2063946563731218622"
+          ]
+        },
+        "author_id": "2013209398395752448",
+        "conversation_id": "2070340168066957318",
+        "created_at": "2026-06-26T02:55:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T03:55:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070340168066957318"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2063944150165209091",
+              "start": 3,
+              "username": "Nainaidui"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bpyhYDLmqL",
+              "end": 43,
+              "expanded_url": "https://x.com/Nainaidui/status/2063946563731218622/photo/1",
+              "media_key": "3_2063946541518274560",
+              "start": 20,
+              "url": "https://t.co/bpyhYDLmqL"
+            },
+            {
+              "display_url": "pic.x.com/bpyhYDLmqL",
+              "end": 43,
+              "expanded_url": "https://x.com/Nainaidui/status/2063946563731218622/photo/1",
+              "media_key": "3_2063946541534986240",
+              "start": 20,
+              "url": "https://t.co/bpyhYDLmqL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070340168066957318",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063946563731218622",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Nainaidui: 🔝1.0 https://t.co/bpyhYDLmqL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063946541518274560",
+            "3_2063946541534986240"
+          ]
+        },
+        "author_id": "2063944150165209091",
+        "conversation_id": "2063946563731218622",
+        "created_at": "2026-06-08T11:29:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T12:29:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063946563731218622"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bpyhYDLmqL",
+              "end": 28,
+              "expanded_url": "https://x.com/Nainaidui/status/2063946563731218622/photo/1",
+              "media_key": "3_2063946541518274560",
+              "start": 5,
+              "url": "https://t.co/bpyhYDLmqL"
+            },
+            {
+              "display_url": "pic.x.com/bpyhYDLmqL",
+              "end": 28,
+              "expanded_url": "https://x.com/Nainaidui/status/2063946563731218622/photo/1",
+              "media_key": "3_2063946541534986240",
+              "start": 5,
+              "url": "https://t.co/bpyhYDLmqL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063946563731218622",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 8086,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "🔝1.0 https://t.co/bpyhYDLmqL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-19T11:20:17.000Z",
+        "description": "小咲/09/o/药理/重焦重抑 简中/English同类交友 查成分互fo喵！^ 没fo私我呀 来找我玩！主页药物均为合法渠道获取 想到啥发啥 上来骂我=你赢了☺️\n🚪52/88/128 赚点钱买药🥲\n粥好友免费扩～\n请理性探讨 提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/desirelovet1qi",
+                "end": 23,
+                "expanded_url": "https://ngl.link/desirelovet1qi",
+                "start": 0,
+                "url": "https://t.co/1k4V17YOY0"
+              }
+            ]
+          }
+        },
+        "id": "2013209398395752448",
+        "location": "^猫猫天国行くよ^",
+        "name": "愛歌",
+        "pinned_tweet_id": "2068551593046446370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043464203944747008/Seln5ql5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 810,
+          "following_count": 438,
+          "like_count": 550,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 649
+        },
+        "url": "https://t.co/1k4V17YOY0",
+        "username": "DesireLovet1qi",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-08T11:21:15.000Z",
+        "description": "请阅读完置顶带脑子私信 接任何方式验证10r",
+        "id": "2063944150165209091",
+        "name": "Nainai",
+        "pinned_tweet_id": "2063946563731218622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063945410352193537/14M9Ve43_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 3,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 20
+        },
+        "url": "",
+        "username": "Nainaidui",
+        "verified": false
+      }
+    ]
+  }
+}

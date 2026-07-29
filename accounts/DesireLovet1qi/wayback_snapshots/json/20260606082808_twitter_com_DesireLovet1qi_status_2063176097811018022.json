@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2013209398395752448",
+    "conversation_id": "2062824679669440994",
+    "created_at": "2026-06-06T08:28:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T09:28:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063176097811018022"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1334729449950961667",
+          "start": 0,
+          "username": "liu_jiu_cos"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063176097811018022",
+    "in_reply_to_user_id": "1334729449950961667",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062850097415909872",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liu_jiu_cos 宝宝🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013209398395752448",
+        "conversation_id": "2062824679669440994",
+        "created_at": "2026-06-06T08:28:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T09:28:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063176097811018022"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1334729449950961667",
+              "start": 0,
+              "username": "liu_jiu_cos"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063176097811018022",
+        "in_reply_to_user_id": "1334729449950961667",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062850097415909872",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liu_jiu_cos 宝宝🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1334729449950961667",
+        "conversation_id": "2062824679669440994",
+        "created_at": "2026-06-05T10:52:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T11:52:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062850097415909872"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2013209398395752448",
+              "start": 0,
+              "username": "DesireLovet1qi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062850097415909872",
+        "in_reply_to_user_id": "2013209398395752448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062824679669440994",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DesireLovet1qi 咪咪和老公都好萌呀我去直接美的我飞起来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-19T11:20:17.000Z",
+        "description": "小咲/09/od 割/药理/重焦重抑  简中/English同类交友 查成分互fo喵！^ 没fo私我呀 来找我玩！想到啥发啥非常喜欢评论 上来骂我=你赢了恭喜毕业☺️请理性探讨 提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/desirelovet1qi",
+                "end": 23,
+                "expanded_url": "https://ngl.link/desirelovet1qi",
+                "start": 0,
+                "url": "https://t.co/1k4V17YOY0"
+              }
+            ]
+          }
+        },
+        "id": "2013209398395752448",
+        "location": "^猫猫天国行くよ^",
+        "name": "愛歌",
+        "pinned_tweet_id": "2044175216386158879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043464203944747008/Seln5ql5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 543,
+          "following_count": 362,
+          "like_count": 477,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 533
+        },
+        "url": "https://t.co/1k4V17YOY0",
+        "username": "DesireLovet1qi",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-04T05:21:22.000Z",
+        "description": "🇨🇳cos，趣味は 취미는：Bangdream/Arknights/overwatch/closer  DM欢迎",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/liujiu696",
+                "end": 23,
+                "expanded_url": "https://lit.link/liujiu696",
+                "start": 0,
+                "url": "https://t.co/DvS3lg51dG"
+              }
+            ]
+          }
+        },
+        "id": "1334729449950961667",
+        "location": "亚马逊雨林",
+        "name": "瑠玖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986297285370929152/uzv6njUH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 474,
+          "following_count": 1446,
+          "like_count": 43270,
+          "listed_count": 2,
+          "media_count": 222,
+          "tweet_count": 2957
+        },
+        "url": "https://t.co/DvS3lg51dG",
+        "username": "liu_jiu_cos",
+        "verified": false
+      }
+    ]
+  }
+}

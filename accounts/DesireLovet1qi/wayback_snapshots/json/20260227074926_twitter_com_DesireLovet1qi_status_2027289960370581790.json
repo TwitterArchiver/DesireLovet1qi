@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2013209398395752448",
+    "conversation_id": "2027245976252219539",
+    "created_at": "2026-02-27T07:49:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T08:49:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027289960370581790"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1899082105977462784",
+          "start": 0,
+          "username": "Nullemptyset"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027289960370581790",
+    "in_reply_to_user_id": "1899082105977462784",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027275810953138595",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nullemptyset 已食用"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013209398395752448",
+        "conversation_id": "2027245976252219539",
+        "created_at": "2026-02-27T07:49:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T08:49:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027289960370581790"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1899082105977462784",
+              "start": 0,
+              "username": "Nullemptyset"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027289960370581790",
+        "in_reply_to_user_id": "1899082105977462784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027275810953138595",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nullemptyset 已食用"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1899082105977462784",
+        "conversation_id": "2027245976252219539",
+        "created_at": "2026-02-27T06:53:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T07:53:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027275810953138595"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2013209398395752448",
+              "start": 0,
+              "username": "DesireLovet1qi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027275810953138595",
+        "in_reply_to_user_id": "2013209398395752448",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027271301258457203",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DesireLovet1qi 拼多多下单即可👍🏻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-19T11:20:17.000Z",
+        "description": "小咲/09/od 割/同类fo了就回！友好一切..很想交朋友欢迎来找我玩随机爆金币，想到啥发啥非常喜欢评论 提问箱：https://t.co/1k4V17YOY0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/desirelovet1qi",
+                "end": 81,
+                "expanded_url": "https://ngl.link/desirelovet1qi",
+                "start": 58,
+                "url": "https://t.co/1k4V17YOY0"
+              }
+            ]
+          }
+        },
+        "id": "2013209398395752448",
+        "name": "愛歌",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022474411425910784/CCV0vKhw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 60,
+          "like_count": 202,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 166
+        },
+        "username": "DesireLovet1qi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-10T12:57:20.000Z",
+        "description": "＝空集，可称呼为 小空｜女｜自伤｜推文偏记录向｜不聊黄不鉴证不无差别骂人｜同类互fo",
+        "id": "1899082105977462784",
+        "location": "虚无",
+        "name": "∅",
+        "pinned_tweet_id": "2026614334399590789",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026578112507686913/AlNH6pCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 34,
+          "like_count": 97,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 81
+        },
+        "username": "Nullemptyset",
+        "verified": false
+      }
+    ]
+  }
+}

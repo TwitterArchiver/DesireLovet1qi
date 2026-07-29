@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2013209398395752448",
+    "conversation_id": "2068551593046446370",
+    "created_at": "2026-06-21T15:22:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T16:22:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068716236842865009"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1873342413315747841",
+          "start": 0,
+          "username": "hubugui"
+        },
+        {
+          "end": 17,
+          "id": "1877936070450655232",
+          "start": 9,
+          "username": "orany02"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068716236842865009",
+    "in_reply_to_user_id": "1873342413315747841",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068715270420783208",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hubugui @orany02 黑吃黑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013209398395752448",
+        "conversation_id": "2068551593046446370",
+        "created_at": "2026-06-21T15:22:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T16:22:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068716236842865009"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1873342413315747841",
+              "start": 0,
+              "username": "hubugui"
+            },
+            {
+              "end": 17,
+              "id": "1877936070450655232",
+              "start": 9,
+              "username": "orany02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068716236842865009",
+        "in_reply_to_user_id": "1873342413315747841",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068715270420783208",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hubugui @orany02 黑吃黑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1873342413315747841",
+        "conversation_id": "2068551593046446370",
+        "created_at": "2026-06-21T15:18:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T16:18:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068715270420783208"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1877936070450655232",
+              "start": 0,
+              "username": "orany02"
+            },
+            {
+              "end": 24,
+              "id": "2013209398395752448",
+              "start": 9,
+              "username": "DesireLovet1qi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068715270420783208",
+        "in_reply_to_user_id": "1877936070450655232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068699737474425068",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orany02 @DesireLovet1qi 怎么被骗的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-19T11:20:17.000Z",
+        "description": "小咲/09/o/药理/重焦重抑 简中/English同类交友 查成分互fo喵！^ 没fo私我呀 来找我玩！主页药物均为合法渠道获取 想到啥发啥 上来骂我=你赢了☺️请理性探讨 提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/desirelovet1qi",
+                "end": 23,
+                "expanded_url": "https://ngl.link/desirelovet1qi",
+                "start": 0,
+                "url": "https://t.co/1k4V17YOY0"
+              }
+            ]
+          }
+        },
+        "id": "2013209398395752448",
+        "location": "^猫猫天国行くよ^",
+        "name": "愛歌",
+        "pinned_tweet_id": "2068551593046446370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043464203944747008/Seln5ql5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 685,
+          "following_count": 431,
+          "like_count": 536,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 627
+        },
+        "url": "https://t.co/1k4V17YOY0",
+        "username": "DesireLovet1qi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-29T12:17:03.000Z",
+        "description": "",
+        "id": "1873342413315747841",
+        "name": "hu bug ui",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873342526993973248/N-PtmsNl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 94,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 6
+        },
+        "url": "",
+        "username": "hubugui",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-11T04:30:36.000Z",
+        "description": "（非绿188过门问价 ）C罩杯 全国可飞 超乖分舌妹妹已过big叔 小小佛 嫩妹等多位大v认证 防走丢@yaoyaomiaobaby",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 51,
+                "username": "yaoyaomiaobaby"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/oranyyao",
+                "end": 23,
+                "expanded_url": "https://t.me/oranyyao",
+                "start": 0,
+                "url": "https://t.co/n6dDj62lE1"
+              }
+            ]
+          }
+        },
+        "id": "1877936070450655232",
+        "location": "上海",
+        "name": "药药",
+        "pinned_tweet_id": "2066203829302129043",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050874470349545472/7W4NOleI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8958,
+          "following_count": 19,
+          "like_count": 307,
+          "listed_count": 43,
+          "media_count": 23,
+          "tweet_count": 76
+        },
+        "url": "https://t.co/n6dDj62lE1",
+        "username": "orany02",
+        "verified": false
+      }
+    ]
+  }
+}

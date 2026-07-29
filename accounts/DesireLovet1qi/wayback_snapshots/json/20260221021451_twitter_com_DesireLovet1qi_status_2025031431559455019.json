@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2013209398395752448",
+    "conversation_id": "2024875983338414128",
+    "created_at": "2026-02-21T02:14:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T03:14:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025031431559455019"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1997495772066324480",
+          "start": 0,
+          "username": "kuma02150128"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025031431559455019",
+    "in_reply_to_user_id": "1997495772066324480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024875983338414128",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kuma02150128 我真的好喜欢看流血，但是真的好烦清理"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 30351,
+        "height": 1280,
+        "media_key": "13_2024875903432654848",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2024875903432654848/img/luhBggaCFSvkuzlu.jpg",
+        "public_metrics": {
+          "view_count": 36
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2024875903432654848/vid/avc1/320x568/KdIe5jCdXt4-JUGL.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2024875903432654848/vid/avc1/480x852/djp1mWlsX5QzE_dW.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2024875903432654848/vid/avc1/720x1280/5no5HIPzAMB1QyS3.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2024875903432654848/pl/a9S9TYlqeTGaXU9R.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013209398395752448",
+        "conversation_id": "2024875983338414128",
+        "created_at": "2026-02-21T02:14:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T03:14:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025031431559455019"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1997495772066324480",
+              "start": 0,
+              "username": "kuma02150128"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025031431559455019",
+        "in_reply_to_user_id": "1997495772066324480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024875983338414128",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuma02150128 我真的好喜欢看流血，但是真的好烦清理"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2024875903432654848"
+          ]
+        },
+        "author_id": "1997495772066324480",
+        "conversation_id": "2024875983338414128",
+        "created_at": "2026-02-20T15:57:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T16:57:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024875983338414128"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/c67icljfLa",
+              "end": 112,
+              "expanded_url": "https://x.com/kuma02150128/status/2024875983338414128/video/1",
+              "media_key": "13_2024875903432654848",
+              "start": 89,
+              "url": "https://t.co/c67icljfLa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024875983338414128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 196,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "割的一瞬间然后看见血流出来的时候好爽\n但是他妈好痒啊啊啊啊啊啊\n我的伤口全部都在发痒\n我现在手一直抖\n我他妈又想割了\n你们知道吗\n我想在伤口上再来几刀我好他妈痒啊痒死我了痒死了 https://t.co/c67icljfLa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-19T11:20:17.000Z",
+        "description": "小咲/09/od 割/同类fo了就回！友好一切..很想交朋友欢迎来找我玩随机爆金币，想到啥发啥非常喜欢评论 提问箱：https://t.co/1k4V17YOY0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/desirelovet1qi",
+                "end": 81,
+                "expanded_url": "https://ngl.link/desirelovet1qi",
+                "start": 58,
+                "url": "https://t.co/1k4V17YOY0"
+              }
+            ]
+          }
+        },
+        "id": "2013209398395752448",
+        "name": "愛歌",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022474411425910784/CCV0vKhw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 54,
+          "like_count": 189,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 151
+        },
+        "username": "DesireLovet1qi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-07T02:38:15.000Z",
+        "description": "我是kuma！很高兴认识你们！！欢迎找我互fo 🥺/精神状态up/自残/我在努力生活！！！",
+        "id": "1997495772066324480",
+        "location": "熊窝",
+        "name": "ぼくわくま",
+        "pinned_tweet_id": "1997557765410349108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022950546630647808/n-FiQBx2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 118,
+          "like_count": 1833,
+          "listed_count": 1,
+          "media_count": 131,
+          "tweet_count": 524
+        },
+        "username": "kuma02150128",
+        "verified": false
+      }
+    ]
+  }
+}

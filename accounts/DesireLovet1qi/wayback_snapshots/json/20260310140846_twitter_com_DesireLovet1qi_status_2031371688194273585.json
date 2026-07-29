@@ -1,0 +1,154 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2031371676987039744",
+        "3_2031371676978737152",
+        "3_2031371676974460932"
+      ]
+    },
+    "author_id": "2013209398395752448",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2031371688194273585",
+    "created_at": "2026-03-10T14:08:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T15:08:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2031371688194273585"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/BJ5TzRxW4x",
+          "end": 26,
+          "expanded_url": "https://x.com/DesireLovet1qi/status/2031371688194273585/photo/1",
+          "media_key": "3_2031371676987039744",
+          "start": 3,
+          "url": "https://t.co/BJ5TzRxW4x"
+        },
+        {
+          "display_url": "pic.x.com/BJ5TzRxW4x",
+          "end": 26,
+          "expanded_url": "https://x.com/DesireLovet1qi/status/2031371688194273585/photo/1",
+          "media_key": "3_2031371676978737152",
+          "start": 3,
+          "url": "https://t.co/BJ5TzRxW4x"
+        },
+        {
+          "display_url": "pic.x.com/BJ5TzRxW4x",
+          "end": 26,
+          "expanded_url": "https://x.com/DesireLovet1qi/status/2031371688194273585/photo/1",
+          "media_key": "3_2031371676974460932",
+          "start": 3,
+          "url": "https://t.co/BJ5TzRxW4x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031371688194273585",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "展示 https://t.co/BJ5TzRxW4x"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2031371688194273585].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2031371688194273585",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2031371688194273585"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2031371676987039744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDDhxw2aIAAEBYZ.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2031371676978737152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDDhxw0bcAAT3P8.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2031371676974460932",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDDhxwzaMAQg2OK.jpg",
+        "width": 1536
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-19T11:20:17.000Z",
+        "description": "小咲/09/od 割/同类fo了就回！友好一切..很想交朋友欢迎来找我玩随机爆金币，想到啥发啥非常喜欢评论 提问箱：https://t.co/1k4V17YOY0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/desirelovet1qi",
+                "end": 81,
+                "expanded_url": "https://ngl.link/desirelovet1qi",
+                "start": 58,
+                "url": "https://t.co/1k4V17YOY0"
+              }
+            ]
+          }
+        },
+        "id": "2013209398395752448",
+        "name": "愛歌",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022474411425910784/CCV0vKhw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 66,
+          "like_count": 233,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 210
+        },
+        "username": "DesireLovet1qi",
+        "verified": false
+      }
+    ]
+  }
+}

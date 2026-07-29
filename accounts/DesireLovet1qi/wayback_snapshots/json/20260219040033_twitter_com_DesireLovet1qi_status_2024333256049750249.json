@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2013209398395752448",
+    "conversation_id": "2023087293842759838",
+    "created_at": "2026-02-19T04:00:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T05:00:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024333256049750249"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1997495772066324480",
+          "start": 0,
+          "username": "kuma02150128"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024333256049750249",
+    "in_reply_to_user_id": "1997495772066324480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024332859629334711",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kuma02150128 那宝宝很厉害了🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013209398395752448",
+        "conversation_id": "2023087293842759838",
+        "created_at": "2026-02-19T04:00:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T05:00:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024333256049750249"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1997495772066324480",
+              "start": 0,
+              "username": "kuma02150128"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024333256049750249",
+        "in_reply_to_user_id": "1997495772066324480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024332859629334711",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuma02150128 那宝宝很厉害了🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997495772066324480",
+        "conversation_id": "2023087293842759838",
+        "created_at": "2026-02-19T03:58:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T04:58:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024332859629334711"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2013209398395752448",
+              "start": 0,
+              "username": "DesireLovet1qi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024332859629334711",
+        "in_reply_to_user_id": "2013209398395752448",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024332742713049281",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DesireLovet1qi 很苦啊哈哈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-19T11:20:17.000Z",
+        "description": "小咲/09/od 割/同类fo了就回！很想交朋友都可以来和我玩随机爆金币，想到啥发啥非常喜欢评论",
+        "id": "2013209398395752448",
+        "name": "愛歌",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022474411425910784/CCV0vKhw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 43,
+          "like_count": 130,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 124
+        },
+        "username": "DesireLovet1qi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-07T02:38:15.000Z",
+        "description": "我是kuma！很高兴认识你们！！欢迎找我互fo 🥺/精神状态up/自残/我在努力生活！！！",
+        "id": "1997495772066324480",
+        "location": "熊窝",
+        "name": "ぼくわくま",
+        "pinned_tweet_id": "1997557765410349108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022950546630647808/n-FiQBx2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224,
+          "following_count": 115,
+          "like_count": 1785,
+          "listed_count": 1,
+          "media_count": 116,
+          "tweet_count": 475
+        },
+        "username": "kuma02150128",
+        "verified": false
+      }
+    ]
+  }
+}

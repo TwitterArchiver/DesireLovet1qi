@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2013209398395752448",
+    "conversation_id": "2017961997086928900",
+    "created_at": "2026-02-02T03:12:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T04:12:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018160564351242702"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1959893383633358848",
+          "start": 0,
+          "username": "Cbscfe"
+        },
+        {
+          "end": 21,
+          "id": "1919049320546086912",
+          "start": 8,
+          "username": "mizuame19953"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018160564351242702",
+    "in_reply_to_user_id": "1959893383633358848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017995759678104000",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cbscfe @mizuame19953 锥外体系综合症"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013209398395752448",
+        "conversation_id": "2017961997086928900",
+        "created_at": "2026-02-02T03:12:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T04:12:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018160564351242702"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1959893383633358848",
+              "start": 0,
+              "username": "Cbscfe"
+            },
+            {
+              "end": 21,
+              "id": "1919049320546086912",
+              "start": 8,
+              "username": "mizuame19953"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018160564351242702",
+        "in_reply_to_user_id": "1959893383633358848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017995759678104000",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cbscfe @mizuame19953 锥外体系综合症"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "2017961997086928900",
+        "created_at": "2026-02-01T16:17:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T17:17:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017995759678104000"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1919049320546086912",
+              "start": 0,
+              "username": "mizuame19953"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017995759678104000",
+        "in_reply_to_user_id": "1919049320546086912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 305,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017961997086928900",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mizuame19953 金刚烷胺是干嘛的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-19T11:20:17.000Z",
+        "description": "",
+        "id": "2013209398395752448",
+        "name": "愛歌",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013210516924309504/3Fq2z9qs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 6,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 15
+        },
+        "username": "DesireLovet1qi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 150,
+          "like_count": 13568,
+          "listed_count": 0,
+          "media_count": 108,
+          "tweet_count": 1877
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-04T15:20:06.000Z",
+        "description": "于45%vol泥中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xiaosong2_33",
+                "end": 23,
+                "expanded_url": "http://t.me/xiaosong2_33",
+                "start": 0,
+                "url": "https://t.co/OVc2TmiqC9"
+              }
+            ]
+          }
+        },
+        "id": "1919049320546086912",
+        "location": "珠海",
+        "name": "バタフライ 🏳️‍⚧️",
+        "pinned_tweet_id": "2018058229184680000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999857118820884480/8MrT1iRR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 300,
+          "like_count": 29359,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 899
+        },
+        "url": "https://t.co/OVc2TmiqC9",
+        "username": "mizuame19953",
+        "verified": false
+      }
+    ]
+  }
+}

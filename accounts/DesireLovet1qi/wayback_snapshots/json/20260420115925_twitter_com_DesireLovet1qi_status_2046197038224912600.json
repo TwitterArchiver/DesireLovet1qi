@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046197022567636993",
+        "3_2046197022517288960"
+      ]
+    },
+    "author_id": "2013209398395752448",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2046197038224912600",
+    "created_at": "2026-04-20T11:59:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T12:59:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046197038224912600"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xPywsCyjFB",
+          "end": 85,
+          "expanded_url": "https://x.com/DesireLovet1qi/status/2046197038224912600/photo/1",
+          "media_key": "3_2046197022567636993",
+          "start": 62,
+          "url": "https://t.co/xPywsCyjFB"
+        },
+        {
+          "display_url": "pic.x.com/xPywsCyjFB",
+          "end": 85,
+          "expanded_url": "https://x.com/DesireLovet1qi/status/2046197038224912600/photo/1",
+          "media_key": "3_2046197022517288960",
+          "start": 62,
+          "url": "https://t.co/xPywsCyjFB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046197038224912600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好他妈想死，药监局你们去死吧哈哈哈哈哈哈哈，直接弄死我们得了，想让我们死直说😈😈大阿片时代即将到来，策划药时代是将到来😈😈 https://t.co/xPywsCyjFB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2046197022567636993",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGWNWc6bIAElVVB.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2046197022517288960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGWNWcua4AAXpqy.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046197022567636993",
+            "3_2046197022517288960"
+          ]
+        },
+        "author_id": "2013209398395752448",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2046197038224912600",
+        "created_at": "2026-04-20T11:59:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T12:59:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046197038224912600"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xPywsCyjFB",
+              "end": 85,
+              "expanded_url": "https://x.com/DesireLovet1qi/status/2046197038224912600/photo/1",
+              "media_key": "3_2046197022567636993",
+              "start": 62,
+              "url": "https://t.co/xPywsCyjFB"
+            },
+            {
+              "display_url": "pic.x.com/xPywsCyjFB",
+              "end": 85,
+              "expanded_url": "https://x.com/DesireLovet1qi/status/2046197038224912600/photo/1",
+              "media_key": "3_2046197022517288960",
+              "start": 62,
+              "url": "https://t.co/xPywsCyjFB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046197038224912600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好他妈想死，药监局你们去死吧哈哈哈哈哈哈哈，直接弄死我们得了，想让我们死直说😈😈大阿片时代即将到来，策划药时代是将到来😈😈 https://t.co/xPywsCyjFB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-19T11:20:17.000Z",
+        "description": "小咲/09/od 割/药理/广泛性焦虑 简中/English同类交友 查成分互fo喵！^ 没fo私我呀 来找我玩！想到啥发啥非常喜欢评论 上来骂我=你赢了恭喜毕业☺️请理性探讨 提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/desirelovet1qi",
+                "end": 23,
+                "expanded_url": "https://ngl.link/desirelovet1qi",
+                "start": 0,
+                "url": "https://t.co/1k4V17YOY0"
+              }
+            ]
+          }
+        },
+        "id": "2013209398395752448",
+        "location": "^猫猫天国行くよ^",
+        "name": "愛歌",
+        "pinned_tweet_id": "2044175216386158879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043464203944747008/Seln5ql5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 353,
+          "following_count": 297,
+          "like_count": 402,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 395
+        },
+        "url": "https://t.co/1k4V17YOY0",
+        "username": "DesireLovet1qi",
+        "verified": false
+      }
+    ]
+  }
+}

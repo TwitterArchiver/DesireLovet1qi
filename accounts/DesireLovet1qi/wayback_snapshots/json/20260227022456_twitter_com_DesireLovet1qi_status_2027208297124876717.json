@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2013995969806045185"
+      ],
+      "media_source_tweet_id": [
+        "2013996206301610451"
+      ]
+    },
+    "author_id": "2013209398395752448",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2027208297124876717",
+    "created_at": "2026-02-27T02:24:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T03:24:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027208297124876717"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 19,
+          "normalized_text": "原创是",
+          "probability": 0.6053,
+          "start": 17,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1975232213307584513",
+          "start": 3,
+          "username": "linzongiiii"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XxzLjAPQ9J",
+          "end": 46,
+          "expanded_url": "https://x.com/linzongiiii/status/2013996206301610451/video/1",
+          "media_key": "13_2013995969806045185",
+          "start": 23,
+          "url": "https://t.co/XxzLjAPQ9J"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027208297124876717",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 460
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013996206301610451",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @linzongiiii: 原创是小漆 https://t.co/XxzLjAPQ9J"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2027208297124876717].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2027208297124876717",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2027208297124876717"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 71100,
+        "height": 720,
+        "media_key": "13_2013995969806045185",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2013995969806045185/img/1tQNyQlUIAZmetmJ.jpg",
+        "public_metrics": {
+          "view_count": 11180
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2013995969806045185/vid/avc1/276x270/L_xZlt233LFoDmkL.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2013995969806045185/vid/avc1/368x360/xmKSSQdnGxTmWvYj.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2013995969806045185/vid/avc1/738x720/ydP25IkXe5X7gA80.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2013995969806045185/pl/7Rzlj3vJEG1hdd7s.m3u8"
+          }
+        ],
+        "width": 738
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2013995969806045185"
+          ]
+        },
+        "author_id": "1975232213307584513",
+        "conversation_id": "2013996206301610451",
+        "created_at": "2026-01-21T15:24:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T16:24:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013996206301610451"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 2,
+              "normalized_text": "原创是",
+              "probability": 0.6596,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XxzLjAPQ9J",
+              "end": 29,
+              "expanded_url": "https://x.com/linzongiiii/status/2013996206301610451/video/1",
+              "media_key": "13_2013995969806045185",
+              "start": 6,
+              "url": "https://t.co/XxzLjAPQ9J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013996206301610451",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 641,
+          "impression_count": 29888,
+          "like_count": 2241,
+          "quote_count": 8,
+          "reply_count": 15,
+          "retweet_count": 460
+        },
+        "reply_settings": "everyone",
+        "text": "原创是小漆 https://t.co/XxzLjAPQ9J"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-19T11:20:17.000Z",
+        "description": "小咲/09/od 割/同类fo了就回！友好一切..很想交朋友欢迎来找我玩随机爆金币，想到啥发啥非常喜欢评论 提问箱：https://t.co/1k4V17YOY0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/desirelovet1qi",
+                "end": 81,
+                "expanded_url": "https://ngl.link/desirelovet1qi",
+                "start": 58,
+                "url": "https://t.co/1k4V17YOY0"
+              }
+            ]
+          }
+        },
+        "id": "2013209398395752448",
+        "name": "愛歌",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022474411425910784/CCV0vKhw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 60,
+          "like_count": 200,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 163
+        },
+        "username": "DesireLovet1qi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-06T16:10:44.000Z",
+        "description": "小漆 重生小号 欢迎扩列 自残od发疯  前世@linzongiii 找我再续前缘",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 23,
+                "username": "linzongiii"
+              }
+            ]
+          }
+        },
+        "id": "1975232213307584513",
+        "location": "Los Angeles, CA",
+        "name": "小漆",
+        "pinned_tweet_id": "2003383641112817829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975234245879840768/yIn7SFkH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2686,
+          "following_count": 70,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 78
+        },
+        "username": "linzongiiii",
+        "verified": false
+      }
+    ]
+  }
+}

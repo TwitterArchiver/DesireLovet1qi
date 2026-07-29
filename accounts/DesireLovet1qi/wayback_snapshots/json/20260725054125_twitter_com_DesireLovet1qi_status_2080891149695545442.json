@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2080891119211311104"
+      ]
+    },
+    "author_id": "2013209398395752448",
+    "conversation_id": "2080891149695545442",
+    "created_at": "2026-07-25T05:41:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T06:41:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080891149695545442"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/NKPUQV3v3o",
+          "end": 44,
+          "expanded_url": "https://x.com/DesireLovet1qi/status/2080891149695545442/video/1",
+          "media_key": "13_2080891119211311104",
+          "start": 21,
+          "url": "https://t.co/NKPUQV3v3o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080891149695545442",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这期其实是磕右美有点大了正在摄入酒精饮料 https://t.co/NKPUQV3v3o"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5919,
+        "height": 1280,
+        "media_key": "13_2080891119211311104",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2080891119211311104/img/WGddVkvOMgN8HbGC.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080891119211311104/vid/avc1/320x568/3gC5tZ-m3mx7GWKJ.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080891119211311104/vid/avc1/480x852/b6TjLMYBrj1llhDe.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080891119211311104/vid/avc1/720x1280/KM36t7aOFZ3Wp9PO.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2080891119211311104/pl/uSrDMfS6bHe-0I_q.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2080891119211311104"
+          ]
+        },
+        "author_id": "2013209398395752448",
+        "conversation_id": "2080891149695545442",
+        "created_at": "2026-07-25T05:41:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T06:41:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080891149695545442"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NKPUQV3v3o",
+              "end": 44,
+              "expanded_url": "https://x.com/DesireLovet1qi/status/2080891149695545442/video/1",
+              "media_key": "13_2080891119211311104",
+              "start": 21,
+              "url": "https://t.co/NKPUQV3v3o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080891149695545442",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这期其实是磕右美有点大了正在摄入酒精饮料 https://t.co/NKPUQV3v3o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-19T11:20:17.000Z",
+        "description": "小咲/09/o/药理/重焦重抑 简中/English同类交友 查成分互fo喵！^ 没fo私我呀 来找我玩！主页药物均为合法渠道获取 想到啥发啥 上来骂我=你赢了☺️\n🚪52/88/128/188/288 赚点钱买药🥲\n粥好友免费扩～\n请理性探讨 提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/desirelovet1qi",
+                "end": 23,
+                "expanded_url": "https://ngl.link/desirelovet1qi",
+                "start": 0,
+                "url": "https://t.co/1k4V17Yh8s"
+              }
+            ]
+          }
+        },
+        "id": "2013209398395752448",
+        "location": "^猫猫天国行くよ^",
+        "name": "愛歌",
+        "pinned_tweet_id": "2068551593046446370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043464203944747008/Seln5ql5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 864,
+          "following_count": 465,
+          "like_count": 703,
+          "listed_count": 1,
+          "media_count": 120,
+          "tweet_count": 868
+        },
+        "url": "https://t.co/1k4V17Yh8s",
+        "username": "DesireLovet1qi",
+        "verified": false
+      }
+    ]
+  }
+}

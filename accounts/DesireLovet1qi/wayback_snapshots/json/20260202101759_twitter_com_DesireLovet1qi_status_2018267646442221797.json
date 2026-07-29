@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2013209398395752448",
+    "conversation_id": "2018262152629649706",
+    "created_at": "2026-02-02T10:17:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T11:17:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018267646442221797"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2018267646442221797",
+    "in_reply_to_user_id": "2013209398395752448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018262152629649706",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "本来我就很恶心然后画室还很热我感觉我要吐了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2018262122082541568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAJOtPJbIAAmKpe.jpg",
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013209398395752448",
+        "conversation_id": "2018262152629649706",
+        "created_at": "2026-02-02T10:17:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T11:17:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018267646442221797"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2018267646442221797",
+        "in_reply_to_user_id": "2013209398395752448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018262152629649706",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "本来我就很恶心然后画室还很热我感觉我要吐了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018262122082541568"
+          ]
+        },
+        "author_id": "2013209398395752448",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2018262152629649706",
+        "created_at": "2026-02-02T09:56:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T10:56:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018262152629649706"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5uGeY3tkLI",
+              "end": 65,
+              "expanded_url": "https://x.com/DesireLovet1qi/status/2018262152629649706/photo/1",
+              "media_key": "3_2018262122082541568",
+              "start": 42,
+              "url": "https://t.co/5uGeY3tkLI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018262152629649706",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我现在看到药就恶心。。干呕半天 \n之前总喜欢自己记录药效后的感觉但是不知道给谁看？ https://t.co/5uGeY3tkLI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-19T11:20:17.000Z",
+        "description": "割手od啥都发 我是很温良女子想交朋友",
+        "id": "2013209398395752448",
+        "name": "愛歌",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013210516924309504/3Fq2z9qs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 9,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 26
+        },
+        "username": "DesireLovet1qi",
+        "verified": false
+      }
+    ]
+  }
+}

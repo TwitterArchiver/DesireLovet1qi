@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2013209398395752448",
+    "conversation_id": "2033462033975542000",
+    "created_at": "2026-03-16T08:35:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T09:35:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2033462033975542000"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2033462033975542000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我好想被爱着 好想有人只爱我一个人 但是我太下贱了我不配得到爱不配被爱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013209398395752448",
+        "conversation_id": "2033462033975542000",
+        "created_at": "2026-03-16T08:35:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T09:35:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033462033975542000"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2033462033975542000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我好想被爱着 好想有人只爱我一个人 但是我太下贱了我不配得到爱不配被爱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-19T11:20:17.000Z",
+        "description": "小咲/09/od 割/已有主人 小狗爱主人 想到啥发啥非常喜欢评论 提问箱：https://t.co/1k4V17YOY0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/desirelovet1qi",
+                "end": 61,
+                "expanded_url": "https://ngl.link/desirelovet1qi",
+                "start": 38,
+                "url": "https://t.co/1k4V17YOY0"
+              }
+            ]
+          }
+        },
+        "id": "2013209398395752448",
+        "name": "愛歌",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022474411425910784/CCV0vKhw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 70,
+          "like_count": 234,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 201
+        },
+        "username": "DesireLovet1qi",
+        "verified": false
+      }
+    ]
+  }
+}

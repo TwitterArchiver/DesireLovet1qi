@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2013209398395752448",
+    "conversation_id": "2052603061294735612",
+    "created_at": "2026-05-08T04:14:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T05:14:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052603061294735612"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2002418519242424320",
+          "start": 3,
+          "username": "lVVkCuTprH59255"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/ha",
+          "end": 139,
+          "start": 124,
+          "url": "https://t.co/ha"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052603061294735612",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 39
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022231956675862816",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lVVkCuTprH59255: Hi我是茉莉 🐿️  \n我在深圳很想你…\n御萝双修 可甜可骚 反差萌一只\n福利均漏点 陪聊无敌用心 聊天模式就跟谈恋爱没什么区别 甜如蜜૮⁔.  ̫ .⁔ა . ⁺ . ✦\n可免费语音验证 视频验证20🥕 https://t.co/ha…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2052603061294735612].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2052603061294735612",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2052603061294735612"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2022231948773703680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBBpPkAaQAATPY4.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1203,
+        "media_key": "3_2022231948769599488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBBpPj_boAAwwYB.jpg",
+        "width": 1027
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022231948773703680",
+            "3_2022231948769599488"
+          ]
+        },
+        "author_id": "2002418519242424320",
+        "conversation_id": "2022231956675862816",
+        "created_at": "2026-02-13T08:50:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T09:50:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022231956675862816"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hagVm76S9B",
+              "end": 126,
+              "expanded_url": "https://x.com/lVVkCuTprH59255/status/2022231956675862816/photo/1",
+              "media_key": "3_2022231948773703680",
+              "start": 103,
+              "url": "https://t.co/hagVm76S9B"
+            },
+            {
+              "display_url": "pic.x.com/hagVm76S9B",
+              "end": 126,
+              "expanded_url": "https://x.com/lVVkCuTprH59255/status/2022231956675862816/photo/1",
+              "media_key": "3_2022231948769599488",
+              "start": 103,
+              "url": "https://t.co/hagVm76S9B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022231956675862816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 21522,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 39
+        },
+        "reply_settings": "everyone",
+        "text": "Hi我是茉莉 🐿️  \n我在深圳很想你…\n御萝双修 可甜可骚 反差萌一只\n福利均漏点 陪聊无敌用心 聊天模式就跟谈恋爱没什么区别 甜如蜜૮⁔.  ̫ .⁔ა . ⁺ . ✦\n可免费语音验证 视频验证20🥕 https://t.co/hagVm76S9B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-19T11:20:17.000Z",
+        "description": "小咲/09/od 割/药理/重焦重抑  简中/English同类交友 查成分互fo喵！^ 没fo私我呀 来找我玩！想到啥发啥非常喜欢评论 上来骂我=你赢了恭喜毕业☺️请理性探讨 提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/desirelovet1qi",
+                "end": 23,
+                "expanded_url": "https://ngl.link/desirelovet1qi",
+                "start": 0,
+                "url": "https://t.co/1k4V17YOY0"
+              }
+            ]
+          }
+        },
+        "id": "2013209398395752448",
+        "location": "^猫猫天国行くよ^",
+        "name": "愛歌",
+        "pinned_tweet_id": "2044175216386158879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043464203944747008/Seln5ql5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 490,
+          "following_count": 358,
+          "like_count": 466,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 486
+        },
+        "url": "https://t.co/1k4V17YOY0",
+        "username": "DesireLovet1qi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-20T16:39:33.000Z",
+        "description": "拒绝免费撸猫 请自觉付费入🚪详看置顶‼️我很好说话也很好相处 可以免费问我问题 咨询都会耐心去回复 但是请礼貌一点 不要问我一大堆 骚扰完又已读不回 那我真的会很伤心…毕竟我只是想混口饭吃没有别的坏心思 ꒦ິ^꒦ິ",
+        "id": "2002418519242424320",
+        "name": "茉莉调",
+        "pinned_tweet_id": "2022231956675862816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002420227787927553/JEujUe6W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 11,
+          "like_count": 0,
+          "listed_count": 3,
+          "media_count": 15,
+          "tweet_count": 127
+        },
+        "username": "lVVkCuTprH59255",
+        "verified": false
+      }
+    ]
+  }
+}

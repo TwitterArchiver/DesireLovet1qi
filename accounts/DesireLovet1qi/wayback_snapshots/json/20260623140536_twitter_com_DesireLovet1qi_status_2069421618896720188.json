@@ -1,0 +1,413 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062861200984276992",
+        "3_2062861200975966208",
+        "3_2062861201584058368",
+        "3_2062861201005252608"
+      ],
+      "media_source_tweet_id": [
+        "2062861227588825502",
+        "2062861227588825502",
+        "2062861227588825502",
+        "2062861227588825502"
+      ]
+    },
+    "author_id": "2013209398395752448",
+    "conversation_id": "2069421618896720188",
+    "created_at": "2026-06-23T14:05:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T15:05:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069421618896720188"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 79,
+          "start": 76,
+          "tag": "门槛"
+        },
+        {
+          "end": 110,
+          "start": 106,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 114,
+          "start": 111,
+          "tag": "反差"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "986715189201588226",
+          "start": 3,
+          "username": "justina_scales"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LE1sbm9l4v",
+          "end": 138,
+          "expanded_url": "https://x.com/justina_scales/status/2062861227588825502/photo/1",
+          "media_key": "3_2062861200984276992",
+          "start": 115,
+          "url": "https://t.co/LE1sbm9l4v"
+        },
+        {
+          "display_url": "pic.x.com/LE1sbm9l4v",
+          "end": 138,
+          "expanded_url": "https://x.com/justina_scales/status/2062861227588825502/photo/1",
+          "media_key": "3_2062861200975966208",
+          "start": 115,
+          "url": "https://t.co/LE1sbm9l4v"
+        },
+        {
+          "display_url": "pic.x.com/LE1sbm9l4v",
+          "end": 138,
+          "expanded_url": "https://x.com/justina_scales/status/2062861227588825502/photo/1",
+          "media_key": "3_2062861201584058368",
+          "start": 115,
+          "url": "https://t.co/LE1sbm9l4v"
+        },
+        {
+          "display_url": "pic.x.com/LE1sbm9l4v",
+          "end": 138,
+          "expanded_url": "https://x.com/justina_scales/status/2062861227588825502/photo/1",
+          "media_key": "3_2062861201005252608",
+          "start": 115,
+          "url": "https://t.co/LE1sbm9l4v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069421618896720188",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 28
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062861227588825502",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @justina_scales: 发什么都被封，我真没办法了520解锁线下加图包粘人精一枚，1314送线下非绿加以上，坐标20，入🚪的哥哥私信我 #门槛 98好友位 198，398都接，欢迎小宝互转互fo #爸爸活 #反差 https://t.co/LE1sbm9l4v"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1747,
+        "media_key": "3_2062861200984276992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKDBVTGagAA37Vk.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1546,
+        "media_key": "3_2062861200975966208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKDBVTEbsAArvRM.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1546,
+        "media_key": "3_2062861201584058368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKDBVVVacAAg0GC.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1563,
+        "media_key": "3_2062861201005252608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKDBVTLakAAwGJx.jpg",
+        "width": 1178
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062861200984276992",
+            "3_2062861200975966208",
+            "3_2062861201584058368",
+            "3_2062861201005252608"
+          ],
+          "media_source_tweet_id": [
+            "2062861227588825502",
+            "2062861227588825502",
+            "2062861227588825502",
+            "2062861227588825502"
+          ]
+        },
+        "author_id": "2013209398395752448",
+        "conversation_id": "2069421618896720188",
+        "created_at": "2026-06-23T14:05:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T15:05:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069421618896720188"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 79,
+              "start": 76,
+              "tag": "门槛"
+            },
+            {
+              "end": 110,
+              "start": 106,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 114,
+              "start": 111,
+              "tag": "反差"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "986715189201588226",
+              "start": 3,
+              "username": "justina_scales"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LE1sbm9l4v",
+              "end": 138,
+              "expanded_url": "https://x.com/justina_scales/status/2062861227588825502/photo/1",
+              "media_key": "3_2062861200984276992",
+              "start": 115,
+              "url": "https://t.co/LE1sbm9l4v"
+            },
+            {
+              "display_url": "pic.x.com/LE1sbm9l4v",
+              "end": 138,
+              "expanded_url": "https://x.com/justina_scales/status/2062861227588825502/photo/1",
+              "media_key": "3_2062861200975966208",
+              "start": 115,
+              "url": "https://t.co/LE1sbm9l4v"
+            },
+            {
+              "display_url": "pic.x.com/LE1sbm9l4v",
+              "end": 138,
+              "expanded_url": "https://x.com/justina_scales/status/2062861227588825502/photo/1",
+              "media_key": "3_2062861201584058368",
+              "start": 115,
+              "url": "https://t.co/LE1sbm9l4v"
+            },
+            {
+              "display_url": "pic.x.com/LE1sbm9l4v",
+              "end": 138,
+              "expanded_url": "https://x.com/justina_scales/status/2062861227588825502/photo/1",
+              "media_key": "3_2062861201005252608",
+              "start": 115,
+              "url": "https://t.co/LE1sbm9l4v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069421618896720188",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 28
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062861227588825502",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @justina_scales: 发什么都被封，我真没办法了520解锁线下加图包粘人精一枚，1314送线下非绿加以上，坐标20，入🚪的哥哥私信我 #门槛 98好友位 198，398都接，欢迎小宝互转互fo #爸爸活 #反差 https://t.co/LE1sbm9l4v"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062861200984276992",
+            "3_2062861200975966208",
+            "3_2062861201584058368",
+            "3_2062861201005252608"
+          ]
+        },
+        "author_id": "986715189201588226",
+        "conversation_id": "2062861227588825502",
+        "created_at": "2026-06-05T11:36:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T12:36:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062861227588825502"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 59,
+              "start": 56,
+              "tag": "门槛"
+            },
+            {
+              "end": 90,
+              "start": 86,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 94,
+              "start": 91,
+              "tag": "反差"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LE1sbm9l4v",
+              "end": 118,
+              "expanded_url": "https://x.com/justina_scales/status/2062861227588825502/photo/1",
+              "media_key": "3_2062861200984276992",
+              "start": 95,
+              "url": "https://t.co/LE1sbm9l4v"
+            },
+            {
+              "display_url": "pic.x.com/LE1sbm9l4v",
+              "end": 118,
+              "expanded_url": "https://x.com/justina_scales/status/2062861227588825502/photo/1",
+              "media_key": "3_2062861200975966208",
+              "start": 95,
+              "url": "https://t.co/LE1sbm9l4v"
+            },
+            {
+              "display_url": "pic.x.com/LE1sbm9l4v",
+              "end": 118,
+              "expanded_url": "https://x.com/justina_scales/status/2062861227588825502/photo/1",
+              "media_key": "3_2062861201584058368",
+              "start": 95,
+              "url": "https://t.co/LE1sbm9l4v"
+            },
+            {
+              "display_url": "pic.x.com/LE1sbm9l4v",
+              "end": 118,
+              "expanded_url": "https://x.com/justina_scales/status/2062861227588825502/photo/1",
+              "media_key": "3_2062861201005252608",
+              "start": 95,
+              "url": "https://t.co/LE1sbm9l4v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062861227588825502",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 6571,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 28
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "发什么都被封，我真没办法了520解锁线下加图包粘人精一枚，1314送线下非绿加以上，坐标20，入🚪的哥哥私信我 #门槛 98好友位 198，398都接，欢迎小宝互转互fo #爸爸活 #反差 https://t.co/LE1sbm9l4v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-19T11:20:17.000Z",
+        "description": "小咲/09/o/药理/重焦重抑 简中/English同类交友 查成分互fo喵！^ 没fo私我呀 来找我玩！主页药物均为合法渠道获取 想到啥发啥 上来骂我=你赢了☺️\n🚪52/88/128 赚点钱买药🥲\n粥好友免费扩～\n请理性探讨 提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/desirelovet1qi",
+                "end": 23,
+                "expanded_url": "https://ngl.link/desirelovet1qi",
+                "start": 0,
+                "url": "https://t.co/1k4V17YOY0"
+              }
+            ]
+          }
+        },
+        "id": "2013209398395752448",
+        "location": "^猫猫天国行くよ^",
+        "name": "愛歌",
+        "pinned_tweet_id": "2068551593046446370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043464203944747008/Seln5ql5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 809,
+          "following_count": 439,
+          "like_count": 545,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 640
+        },
+        "url": "https://t.co/1k4V17YOY0",
+        "username": "DesireLovet1qi",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-18T21:16:48.000Z",
+        "description": "比较粘人线上线下都可以，口嗨不要来哦\n欢迎宝宝们互转互fo，欢迎爸爸入我🚪",
+        "id": "986715189201588226",
+        "location": "3.21km",
+        "name": "kk(2.0不被封版)",
+        "pinned_tweet_id": "2062861227588825502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062134594858811392/nA6lAVtJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 4,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 66
+        },
+        "url": "",
+        "username": "justina_scales",
+        "verified": false
+      }
+    ]
+  }
+}

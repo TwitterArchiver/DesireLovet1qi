@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2013209398395752448",
+    "conversation_id": "2017408195552285177",
+    "created_at": "2026-01-31T01:22:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T02:22:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017408195552285177"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "454656004",
+          "start": 3,
+          "username": "taikongjile001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017408195552285177",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015598060186042750",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @taikongjile001: “打入”，凭什么不愿意开诚布公地表明想要了解的意愿，偏要当“卧底”？原因还是歧视，怕和这些人打交道降低了自己的身价。“暗语”将欧迪讲的如同地下组织；“成瘾”更是带有呼之欲出的贬义色彩，其污名化本质我们已经在前文提到了。\n\n当然这也不完全怪…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2017408195552285177].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2017408195552285177",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2017408195552285177"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 199,
+        "media_key": "3_2015598008768053248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_jXtbqawAAbRoO.jpg",
+        "width": 436
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015598008768053248"
+          ]
+        },
+        "author_id": "454656004",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2015598060186042750",
+        "created_at": "2026-01-26T01:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T02:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015598060186042750"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dRcrwV1XmP",
+              "end": 165,
+              "expanded_url": "https://x.com/taikonjile001/status/2015598060186042750/photo/1",
+              "media_key": "3_2015598008768053248",
+              "start": 142,
+              "url": "https://t.co/dRcrwV1XmP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015598060186042750",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2023,
+          "like_count": 40,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "“打入”，凭什么不愿意开诚布公地表明想要了解的意愿，偏要当“卧底”？原因还是歧视，怕和这些人打交道降低了自己的身价。“暗语”将欧迪讲的如同地下组织；“成瘾”更是带有呼之欲出的贬义色彩，其污名化本质我们已经在前文提到了。\n\n当然这也不完全怪作者，娱乐性内容是具有本质困境的，详见如下。 https://t.co/dRcrwV1XmP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-19T11:20:17.000Z",
+        "description": "",
+        "id": "2013209398395752448",
+        "name": "愛歌",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013210516924309504/3Fq2z9qs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 6,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 10
+        },
+        "username": "DesireLovet1qi",
+        "verified": false
+      },
+      {
+        "created_at": "2012-01-04T07:09:27.000Z",
+        "description": "官网：https://t.co/ahdCIHHRJD\n交流群：https://t.co/0dHnh4NwZx",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 26,
+                "expanded_url": "https://overdose.day/",
+                "start": 3,
+                "url": "https://t.co/ahdCIHHRJD"
+              },
+              {
+                "display_url": "t.me/huaxuejilebaik…",
+                "end": 54,
+                "expanded_url": "https://t.me/huaxuejilebaike666",
+                "start": 31,
+                "url": "https://t.co/0dHnh4NwZx"
+              }
+            ]
+          }
+        },
+        "id": "454656004",
+        "location": "memphis, Tn",
+        "name": "太空极乐百科",
+        "pinned_tweet_id": "256432078848151552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015596343691972609/3AX9GPcF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 39,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 14
+        },
+        "username": "taikongjile001",
+        "verified": false
+      }
+    ]
+  }
+}

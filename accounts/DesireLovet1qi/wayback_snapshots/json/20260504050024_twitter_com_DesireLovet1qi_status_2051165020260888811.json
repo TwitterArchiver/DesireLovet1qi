@@ -1,0 +1,404 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2044286333913640960",
+        "3_2044286333917724672",
+        "3_2044286333909426176"
+      ],
+      "media_source_tweet_id": [
+        "2044286349302477020",
+        "2044286349302477020",
+        "2044286349302477020"
+      ]
+    },
+    "author_id": "2013209398395752448",
+    "conversation_id": "2051165020260888811",
+    "created_at": "2026-05-04T05:00:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T06:00:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051165020260888811"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 91,
+          "start": 87,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 97,
+          "start": 93,
+          "tag": "门槛哥"
+        },
+        {
+          "end": 101,
+          "start": 98,
+          "tag": "线上"
+        },
+        {
+          "end": 105,
+          "start": 102,
+          "tag": "线下"
+        },
+        {
+          "end": 109,
+          "start": 106,
+          "tag": "入门"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2043732384152199168",
+          "start": 3,
+          "username": "wwzopop"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xwNoynq2U4",
+          "end": 133,
+          "expanded_url": "https://x.com/wwzopop/status/2044286349302477020/photo/1",
+          "media_key": "3_2044286333913640960",
+          "start": 110,
+          "url": "https://t.co/xwNoynq2U4"
+        },
+        {
+          "display_url": "pic.x.com/xwNoynq2U4",
+          "end": 133,
+          "expanded_url": "https://x.com/wwzopop/status/2044286349302477020/photo/1",
+          "media_key": "3_2044286333917724672",
+          "start": 110,
+          "url": "https://t.co/xwNoynq2U4"
+        },
+        {
+          "display_url": "pic.x.com/xwNoynq2U4",
+          "end": 133,
+          "expanded_url": "https://x.com/wwzopop/status/2044286349302477020/photo/1",
+          "media_key": "3_2044286333909426176",
+          "start": 110,
+          "url": "https://t.co/xwNoynq2U4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051165020260888811",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 32
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044286349302477020",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wwzopop: 置顶🔝\n这里小惠，ip江浙沪，欢迎小姐妹和我互转，欢迎🚪哥来过我门，谢谢大家我真的非常需要帮助，刚玩推不是很懂，语音验证免费 视频验证10元。谢谢 #门槛妹  #门槛哥 #线上 #线下 #入门 https://t.co/xwNoynq2U4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2044286333913640960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF7DlvAbsAA0P8A.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1601,
+        "media_key": "3_2044286333917724672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF7DlvBaAAA_EY-.jpg",
+        "width": 1178
+      },
+      {
+        "height": 1333,
+        "media_key": "3_2044286333909426176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF7Dlu_bYAA0KM1.jpg",
+        "width": 1114
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044286333913640960",
+            "3_2044286333917724672",
+            "3_2044286333909426176"
+          ],
+          "media_source_tweet_id": [
+            "2044286349302477020",
+            "2044286349302477020",
+            "2044286349302477020"
+          ]
+        },
+        "author_id": "2013209398395752448",
+        "conversation_id": "2051165020260888811",
+        "created_at": "2026-05-04T05:00:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T06:00:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051165020260888811"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 91,
+              "start": 87,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 97,
+              "start": 93,
+              "tag": "门槛哥"
+            },
+            {
+              "end": 101,
+              "start": 98,
+              "tag": "线上"
+            },
+            {
+              "end": 105,
+              "start": 102,
+              "tag": "线下"
+            },
+            {
+              "end": 109,
+              "start": 106,
+              "tag": "入门"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2043732384152199168",
+              "start": 3,
+              "username": "wwzopop"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xwNoynq2U4",
+              "end": 133,
+              "expanded_url": "https://x.com/wwzopop/status/2044286349302477020/photo/1",
+              "media_key": "3_2044286333913640960",
+              "start": 110,
+              "url": "https://t.co/xwNoynq2U4"
+            },
+            {
+              "display_url": "pic.x.com/xwNoynq2U4",
+              "end": 133,
+              "expanded_url": "https://x.com/wwzopop/status/2044286349302477020/photo/1",
+              "media_key": "3_2044286333917724672",
+              "start": 110,
+              "url": "https://t.co/xwNoynq2U4"
+            },
+            {
+              "display_url": "pic.x.com/xwNoynq2U4",
+              "end": 133,
+              "expanded_url": "https://x.com/wwzopop/status/2044286349302477020/photo/1",
+              "media_key": "3_2044286333909426176",
+              "start": 110,
+              "url": "https://t.co/xwNoynq2U4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051165020260888811",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 32
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044286349302477020",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wwzopop: 置顶🔝\n这里小惠，ip江浙沪，欢迎小姐妹和我互转，欢迎🚪哥来过我门，谢谢大家我真的非常需要帮助，刚玩推不是很懂，语音验证免费 视频验证10元。谢谢 #门槛妹  #门槛哥 #线上 #线下 #入门 https://t.co/xwNoynq2U4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044286333913640960",
+            "3_2044286333917724672",
+            "3_2044286333909426176"
+          ]
+        },
+        "author_id": "2043732384152199168",
+        "conversation_id": "2044286349302477020",
+        "created_at": "2026-04-15T05:27:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T06:27:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044286349302477020"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 78,
+              "start": 74,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 84,
+              "start": 80,
+              "tag": "门槛哥"
+            },
+            {
+              "end": 88,
+              "start": 85,
+              "tag": "线上"
+            },
+            {
+              "end": 92,
+              "start": 89,
+              "tag": "线下"
+            },
+            {
+              "end": 96,
+              "start": 93,
+              "tag": "入门"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xwNoynq2U4",
+              "end": 120,
+              "expanded_url": "https://x.com/wwzopop/status/2044286349302477020/photo/1",
+              "media_key": "3_2044286333913640960",
+              "start": 97,
+              "url": "https://t.co/xwNoynq2U4"
+            },
+            {
+              "display_url": "pic.x.com/xwNoynq2U4",
+              "end": 120,
+              "expanded_url": "https://x.com/wwzopop/status/2044286349302477020/photo/1",
+              "media_key": "3_2044286333917724672",
+              "start": 97,
+              "url": "https://t.co/xwNoynq2U4"
+            },
+            {
+              "display_url": "pic.x.com/xwNoynq2U4",
+              "end": 120,
+              "expanded_url": "https://x.com/wwzopop/status/2044286349302477020/photo/1",
+              "media_key": "3_2044286333909426176",
+              "start": 97,
+              "url": "https://t.co/xwNoynq2U4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044286349302477020",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 7840,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "置顶🔝\n这里小惠，ip江浙沪，欢迎小姐妹和我互转，欢迎🚪哥来过我门，谢谢大家我真的非常需要帮助，刚玩推不是很懂，语音验证免费 视频验证10元。谢谢 #门槛妹  #门槛哥 #线上 #线下 #入门 https://t.co/xwNoynq2U4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-19T11:20:17.000Z",
+        "description": "小咲/09/od 割/药理/重焦重抑  简中/English同类交友 查成分互fo喵！^ 没fo私我呀 来找我玩！想到啥发啥非常喜欢评论 上来骂我=你赢了恭喜毕业☺️请理性探讨 提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/desirelovet1qi",
+                "end": 23,
+                "expanded_url": "https://ngl.link/desirelovet1qi",
+                "start": 0,
+                "url": "https://t.co/1k4V17YOY0"
+              }
+            ]
+          }
+        },
+        "id": "2013209398395752448",
+        "location": "^猫猫天国行くよ^",
+        "name": "愛歌",
+        "pinned_tweet_id": "2044175216386158879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043464203944747008/Seln5ql5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 480,
+          "following_count": 359,
+          "like_count": 455,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 479
+        },
+        "url": "https://t.co/1k4V17YOY0",
+        "username": "DesireLovet1qi",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-13T16:46:08.000Z",
+        "description": "20 158 90 ip江浙沪🚪188/288/520/1314 口令红包优先",
+        "id": "2043732384152199168",
+        "name": "惠存",
+        "pinned_tweet_id": "2044286349302477020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043995806299299840/_Fr9rYkC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 3,
+          "like_count": 35,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 42
+        },
+        "username": "wwzopop",
+        "verified": false
+      }
+    ]
+  }
+}

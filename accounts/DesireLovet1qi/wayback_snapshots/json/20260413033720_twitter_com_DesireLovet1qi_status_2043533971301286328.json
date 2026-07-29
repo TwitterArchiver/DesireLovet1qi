@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2013209398395752448",
+    "conversation_id": "2043279893476331915",
+    "created_at": "2026-04-13T03:37:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T04:37:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043533971301286328"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2043533971301286328",
+    "in_reply_to_user_id": "2013209398395752448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043279893476331915",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "一浪一浪 死不完的 只是死的前后罢了 跟社会一样吃人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013209398395752448",
+        "conversation_id": "2043279893476331915",
+        "created_at": "2026-04-13T03:37:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T04:37:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043533971301286328"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043533971301286328",
+        "in_reply_to_user_id": "2013209398395752448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043279893476331915",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一浪一浪 死不完的 只是死的前后罢了 跟社会一样吃人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013209398395752448",
+        "conversation_id": "2043279893476331915",
+        "created_at": "2026-04-12T10:47:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T11:47:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043279893476331915"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043279893476331915",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3343,
+          "like_count": 109,
+          "quote_count": 4,
+          "reply_count": 6,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "其实没有人在乎oder的死活，闹钟巴不得这群人全都死掉，因为你买便宜的药不赚钱，有这些药吃了抗抑郁药咋赚钱，带不来经济效益的底层人自然就被抛弃了，他们从来没有正视过青少年的心理问题。最后有钱人自会润走或者封存吸毒记录，剩下的是底层人尸体垒成的尸山#广州禁毒"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-19T11:20:17.000Z",
+        "description": "小咲/09/od 割/药理/广泛性焦虑 喜欢交朋友 查成分互fo喵！不鉴证^ 但友好一切，没fo私我呀 来找我玩！想到啥发啥非常喜欢评论 上来骂我等于你赢了☺️请理性探讨",
+        "id": "2013209398395752448",
+        "name": "愛歌",
+        "pinned_tweet_id": "2042460888620548527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043464203944747008/Seln5ql5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 179,
+          "like_count": 296,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 305
+        },
+        "username": "DesireLovet1qi",
+        "verified": false
+      }
+    ]
+  }
+}

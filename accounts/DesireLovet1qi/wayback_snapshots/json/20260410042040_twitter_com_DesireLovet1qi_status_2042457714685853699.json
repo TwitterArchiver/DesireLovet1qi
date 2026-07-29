@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2013209398395752448",
+    "conversation_id": "2042364622846771360",
+    "created_at": "2026-04-10T04:20:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T05:20:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042457714685853699"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2037842553148502017",
+          "start": 0,
+          "username": "yghibin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042457714685853699",
+    "in_reply_to_user_id": "2037842553148502017",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042437522589171960",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yghibin 我认为还好？起码我自己来说还好 更多的是上精神大脑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013209398395752448",
+        "conversation_id": "2042364622846771360",
+        "created_at": "2026-04-10T04:20:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T05:20:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042457714685853699"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2037842553148502017",
+              "start": 0,
+              "username": "yghibin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042457714685853699",
+        "in_reply_to_user_id": "2037842553148502017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042437522589171960",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yghibin 我认为还好？起码我自己来说还好 更多的是上精神大脑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037842553148502017",
+        "conversation_id": "2042364622846771360",
+        "created_at": "2026-04-10T03:00:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T04:00:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042437522589171960"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2013209398395752448",
+              "start": 0,
+              "username": "DesireLovet1qi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042437522589171960",
+        "in_reply_to_user_id": "2013209398395752448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042364622846771360",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DesireLovet1qi OD不会伤身体吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-19T11:20:17.000Z",
+        "description": "小咲/09/od 割/喜欢交朋友 互fo 来找我玩！想到啥发啥非常喜欢评论 提问箱：https://t.co/1k4V17YOY0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/desirelovet1qi",
+                "end": 65,
+                "expanded_url": "https://ngl.link/desirelovet1qi",
+                "start": 42,
+                "url": "https://t.co/1k4V17YOY0"
+              }
+            ]
+          }
+        },
+        "id": "2013209398395752448",
+        "name": "愛歌",
+        "pinned_tweet_id": "2042011047994044708",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022474411425910784/CCV0vKhw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 134,
+          "like_count": 279,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 275
+        },
+        "username": "DesireLovet1qi",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-28T10:41:58.000Z",
+        "description": "私は日本語ができません。日本語の投稿と返事はすべて私が翻訳ソフトで翻訳しました。本当に申し訳ありません。😔ですが、日本のアニメ文化が好きで日本語を勉強したいです。皆さんと楽しく交流したいです🔥🔥🔥🔥",
+        "id": "2037842553148502017",
+        "name": "Jonas Villager",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037843970378940416/bPBbd3fx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 39,
+          "like_count": 129,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 71
+        },
+        "username": "yghibin",
+        "verified": false
+      }
+    ]
+  }
+}

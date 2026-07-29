@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2013209398395752448",
+    "conversation_id": "2043226684791636373",
+    "created_at": "2026-04-12T13:38:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T14:38:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043322891119509926"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1714186500953583616",
+          "start": 0,
+          "username": "Butterfly19975"
+        },
+        {
+          "end": 29,
+          "id": "1372154768",
+          "start": 16,
+          "username": "taufiqarsyal"
+        },
+        {
+          "end": 35,
+          "id": "1720665183188922368",
+          "start": 30,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043322891119509926",
+    "in_reply_to_user_id": "1714186500953583616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043322532733080023",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Butterfly19975 @taufiqarsyal @grok 谢谢！我以为他还会有一些后续🥹因为很好看"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013209398395752448",
+        "conversation_id": "2043226684791636373",
+        "created_at": "2026-04-12T13:38:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T14:38:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043322891119509926"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1714186500953583616",
+              "start": 0,
+              "username": "Butterfly19975"
+            },
+            {
+              "end": 29,
+              "id": "1372154768",
+              "start": 16,
+              "username": "taufiqarsyal"
+            },
+            {
+              "end": 35,
+              "id": "1720665183188922368",
+              "start": 30,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043322891119509926",
+        "in_reply_to_user_id": "1714186500953583616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043322532733080023",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Butterfly19975 @taufiqarsyal @grok 谢谢！我以为他还会有一些后续🥹因为很好看"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1714186500953583616",
+        "conversation_id": "2043226684791636373",
+        "created_at": "2026-04-12T13:37:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T14:37:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043322532733080023"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2013209398395752448",
+              "start": 0,
+              "username": "DesireLovet1qi"
+            },
+            {
+              "end": 29,
+              "id": "1372154768",
+              "start": 16,
+              "username": "taufiqarsyal"
+            },
+            {
+              "end": 35,
+              "id": "1720665183188922368",
+              "start": 30,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043322532733080023",
+        "in_reply_to_user_id": "2013209398395752448",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043247292694896960",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DesireLovet1qi @taufiqarsyal @grok It's the complete clip"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-19T11:20:17.000Z",
+        "description": "小咲/09/od 割/药理/餐券 喜欢交朋友 查成分互fo喵！没fo私我呀 来找我玩！想到啥发啥非常喜欢评论",
+        "id": "2013209398395752448",
+        "name": "愛歌",
+        "pinned_tweet_id": "2042011047994044708",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022474411425910784/CCV0vKhw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 176,
+          "like_count": 290,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 295
+        },
+        "username": "DesireLovet1qi",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-17T07:48:21.000Z",
+        "description": "",
+        "id": "1714186500953583616",
+        "name": "Butterfly",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1714186754230788097/qNj8k4Gp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 1897,
+          "like_count": 13901,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 482
+        },
+        "username": "Butterfly19975",
+        "verified": false
+      },
+      {
+        "created_at": "2013-04-22T13:33:49.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "c35m.top",
+                "end": 23,
+                "expanded_url": "https://c35m.top",
+                "start": 0,
+                "url": "https://t.co/vJCc2z2Njp"
+              }
+            ]
+          }
+        },
+        "id": "1372154768",
+        "name": "云漓动漫",
+        "pinned_tweet_id": "2042930476818796576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035273238641876996/_YbtNnd6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2785,
+          "following_count": 286,
+          "like_count": 73,
+          "listed_count": 3,
+          "media_count": 10,
+          "tweet_count": 20
+        },
+        "url": "https://t.co/vJCc2z2Njp",
+        "username": "taufiqarsyal",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8500148,
+          "following_count": 4,
+          "like_count": 87,
+          "listed_count": 6589,
+          "media_count": 8811539,
+          "tweet_count": 122337720
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

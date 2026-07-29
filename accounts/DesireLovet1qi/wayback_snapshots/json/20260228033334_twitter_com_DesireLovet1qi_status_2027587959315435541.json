@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2013209398395752448",
+    "conversation_id": "2026980125460549943",
+    "created_at": "2026-02-28T03:33:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T04:33:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027587959315435541"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1766084836572172288",
+          "start": 0,
+          "username": "Smertkakput12"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027587959315435541",
+    "in_reply_to_user_id": "1766084836572172288",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026980125460549943",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Smertkakput12 好萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13300,
+        "height": 1280,
+        "media_key": "13_2026980047287209984",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2026980047287209984/img/42ZY3U5UguDJmQxc.jpg",
+        "public_metrics": {
+          "view_count": 160
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2026980047287209984/vid/avc1/320x568/azkVoBXwXsjgTiiB.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2026980047287209984/vid/avc1/480x852/80PN9VQCPwblUCEh.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2026980047287209984/vid/avc1/720x1280/iRQsc6L8H8BAKJAc.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2026980047287209984/pl/KEziYpxP5_5v8ekl.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013209398395752448",
+        "conversation_id": "2026980125460549943",
+        "created_at": "2026-02-28T03:33:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T04:33:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027587959315435541"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1766084836572172288",
+              "start": 0,
+              "username": "Smertkakput12"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027587959315435541",
+        "in_reply_to_user_id": "1766084836572172288",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026980125460549943",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Smertkakput12 好萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2026980047287209984"
+          ]
+        },
+        "author_id": "1766084836572172288",
+        "conversation_id": "2026980125460549943",
+        "created_at": "2026-02-26T11:18:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T12:18:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026980125460549943"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TZi9qB5K2r",
+              "end": 28,
+              "expanded_url": "https://x.com/Smertkakput12/status/2026980125460549943/video/1",
+              "media_key": "13_2026980047287209984",
+              "start": 5,
+              "url": "https://t.co/TZi9qB5K2r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026980125460549943",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 431,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "适合我吗 https://t.co/TZi9qB5K2r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-19T11:20:17.000Z",
+        "description": "小咲/09/od 割/同类fo了就回！友好一切..很想交朋友欢迎来找我玩随机爆金币，想到啥发啥非常喜欢评论 提问箱：https://t.co/1k4V17YOY0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/desirelovet1qi",
+                "end": 81,
+                "expanded_url": "https://ngl.link/desirelovet1qi",
+                "start": 58,
+                "url": "https://t.co/1k4V17YOY0"
+              }
+            ]
+          }
+        },
+        "id": "2013209398395752448",
+        "name": "愛歌",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022474411425910784/CCV0vKhw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 61,
+          "like_count": 204,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 168
+        },
+        "username": "DesireLovet1qi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-08T12:53:44.000Z",
+        "description": "林鴿｜mha gbc oc｜18歲休學中…在更新負能血圖貓狗和女友姐日常、想互fo我就會直接關注🥺🏳️‍⚧️🏳️‍🌈友好、田力滚 …直fo查成分回",
+        "id": "1766084836572172288",
+        "name": "活到冇瘾TTttt（互fo版",
+        "pinned_tweet_id": "1967935615565172840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930245186359304192/oZHhagy1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 304,
+          "like_count": 588,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 503
+        },
+        "username": "Smertkakput12",
+        "verified": false
+      }
+    ]
+  }
+}

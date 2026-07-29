@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2013209398395752448",
+    "conversation_id": "2081317817547432432",
+    "created_at": "2026-07-27T05:35:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T06:35:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081614555869016182"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "313395121",
+          "start": 0,
+          "username": "yu_fatai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081614555869016182",
+    "in_reply_to_user_id": "313395121",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081317817547432432",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yu_fatai 我发o完谁和我打电话也给我封了。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 738,
+        "media_key": "3_2081317408040767488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOJTJ8MbUAAw26q.png",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013209398395752448",
+        "conversation_id": "2081317817547432432",
+        "created_at": "2026-07-27T05:35:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T06:35:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081614555869016182"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "313395121",
+              "start": 0,
+              "username": "yu_fatai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081614555869016182",
+        "in_reply_to_user_id": "313395121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081317817547432432",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yu_fatai 我发o完谁和我打电话也给我封了。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081317408040767488"
+          ]
+        },
+        "author_id": "313395121",
+        "conversation_id": "2081317817547432432",
+        "created_at": "2026-07-26T09:56:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T10:56:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081317817547432432"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IP0SA645rj",
+              "end": 71,
+              "expanded_url": "https://x.com/yu_fatai/status/2081317817547432432/photo/1",
+              "media_key": "3_2081317408040767488",
+              "start": 48,
+              "url": "https://t.co/IP0SA645rj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081317817547432432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 212,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我准备写一个推特违禁词表，推友们还知道哪些可以分享一下（图片为ai生成，无引导倾向，请勿模仿） https://t.co/IP0SA645rj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-19T11:20:17.000Z",
+        "description": "小咲/09/o/药理/重焦重抑 简中/English同类交友 查成分互fo喵！^ 没fo私我呀 来找我玩！主页药物均为合法渠道获取 想到啥发啥 上来骂我=你赢了☺️\n🚪52/88/128/188/288 赚点钱买药🥲\n粥好友免费扩～\n请理性探讨 提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/desirelovet1qi",
+                "end": 23,
+                "expanded_url": "https://ngl.link/desirelovet1qi",
+                "start": 0,
+                "url": "https://t.co/1k4V17Yh8s"
+              }
+            ]
+          }
+        },
+        "id": "2013209398395752448",
+        "location": "^猫猫天国行くよ^",
+        "name": "愛歌",
+        "pinned_tweet_id": "2068551593046446370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043464203944747008/Seln5ql5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 911,
+          "following_count": 484,
+          "like_count": 738,
+          "listed_count": 1,
+          "media_count": 122,
+          "tweet_count": 907
+        },
+        "url": "https://t.co/1k4V17Yh8s",
+        "username": "DesireLovet1qi",
+        "verified": false
+      },
+      {
+        "created_at": "2011-06-08T15:56:08.000Z",
+        "description": "此号为避难所，大号：@wndsfefoumxlw6\n买电子烟➕v：c313s852j0976",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 10,
+                "username": "wndsfefoumxlw6"
+              }
+            ]
+          }
+        },
+        "id": "313395121",
+        "name": "云（洛4.0）",
+        "pinned_tweet_id": "2081287700259410422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075116662051995649/t1MTpwrz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 28,
+          "like_count": 231,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 91
+        },
+        "url": "",
+        "username": "yu_fatai",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2013209398395752448",
+    "conversation_id": "2042912574971482176",
+    "created_at": "2026-04-11T10:28:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T11:28:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042912574971482176"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1792595886683672576",
+          "start": 3,
+          "username": "Tingo120"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042912574971482176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 60
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042529828973482450",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Tingo120: 安全詞用對方名字真的超色"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013209398395752448",
+        "conversation_id": "2042912574971482176",
+        "created_at": "2026-04-11T10:28:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T11:28:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042912574971482176"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1792595886683672576",
+              "start": 3,
+              "username": "Tingo120"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042912574971482176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 60
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042529828973482450",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Tingo120: 安全詞用對方名字真的超色"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792595886683672576",
+        "conversation_id": "2042529828973482450",
+        "created_at": "2026-04-10T09:07:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T10:07:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042529828973482450"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042529828973482450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 71,
+          "impression_count": 127627,
+          "like_count": 1005,
+          "quote_count": 30,
+          "reply_count": 47,
+          "retweet_count": 60
+        },
+        "reply_settings": "everyone",
+        "text": "安全詞用對方名字真的超色"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-19T11:20:17.000Z",
+        "description": "小咲/09/od 割/药理/餐券 喜欢交朋友 查成分互fo喵！没fo私我呀 来找我玩！想到啥发啥非常喜欢评论",
+        "id": "2013209398395752448",
+        "name": "愛歌",
+        "pinned_tweet_id": "2042011047994044708",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022474411425910784/CCV0vKhw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 162,
+          "like_count": 284,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 289
+        },
+        "username": "DesireLovet1qi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-20T16:39:11.000Z",
+        "description": "Dom/S｜養狗也養貓｜文字比照片還多的地方｜日常/廢文/碎念｜不約",
+        "id": "1792595886683672576",
+        "location": "喵",
+        "name": "Ting",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036759835900059648/b6DGIzge_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13054,
+          "following_count": 142,
+          "like_count": 3140,
+          "listed_count": 15,
+          "media_count": 452,
+          "tweet_count": 2409
+        },
+        "username": "Tingo120",
+        "verified": true
+      }
+    ]
+  }
+}

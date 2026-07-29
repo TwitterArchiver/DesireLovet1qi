@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042553765035937792"
+      ]
+    },
+    "author_id": "2013209398395752448",
+    "conversation_id": "2042553771885236331",
+    "created_at": "2026-04-10T10:42:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T11:42:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042553771885236331"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/hUaFpCFPO0",
+          "end": 42,
+          "expanded_url": "https://x.com/DesireLovet1qi/status/2042553771885236331/photo/1",
+          "media_key": "3_2042553765035937792",
+          "start": 19,
+          "url": "https://t.co/hUaFpCFPO0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042553771885236331",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好呀好呀私信我就好啦！一切都欢迎💕💕 https://t.co/hUaFpCFPO0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2042553765035937792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFib08-akAA6vkQ.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042553765035937792"
+          ]
+        },
+        "author_id": "2013209398395752448",
+        "conversation_id": "2042553771885236331",
+        "created_at": "2026-04-10T10:42:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T11:42:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042553771885236331"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hUaFpCFPO0",
+              "end": 42,
+              "expanded_url": "https://x.com/DesireLovet1qi/status/2042553771885236331/photo/1",
+              "media_key": "3_2042553765035937792",
+              "start": 19,
+              "url": "https://t.co/hUaFpCFPO0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042553771885236331",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好呀好呀私信我就好啦！一切都欢迎💕💕 https://t.co/hUaFpCFPO0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-19T11:20:17.000Z",
+        "description": "小咲/09/od 割/药理/餐券 喜欢交朋友 查成分互fo喵！没fo私我呀 来找我玩！想到啥发啥非常喜欢评论",
+        "id": "2013209398395752448",
+        "name": "愛歌",
+        "pinned_tweet_id": "2042011047994044708",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022474411425910784/CCV0vKhw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 151,
+          "like_count": 281,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 283
+        },
+        "username": "DesireLovet1qi",
+        "verified": false
+      }
+    ]
+  }
+}

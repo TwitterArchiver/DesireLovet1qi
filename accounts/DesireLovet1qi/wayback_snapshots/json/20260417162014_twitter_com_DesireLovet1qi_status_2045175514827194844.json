@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2013209398395752448",
+    "conversation_id": "2045175514827194844",
+    "created_at": "2026-04-17T16:20:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T17:20:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045175514827194844"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1656224072051863554",
+          "start": 3,
+          "username": "24105F4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045175514827194844",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045168274535764037",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @24105F4: 幸せってなんだと思う？\n幸せについて考えたけど、みんなの幸せが自分の幸せであることに気づいたよ♪\n\n幸せを味に例えるなら、味覚が死んでいるから噛み締めても味がしない。\n\nでもでも、他の人が幸せを感じて笑顔でいるとこっちも幸せに思えるの！\nだから頑張って…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013209398395752448",
+        "conversation_id": "2045175514827194844",
+        "created_at": "2026-04-17T16:20:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T17:20:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045175514827194844"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1656224072051863554",
+              "start": 3,
+              "username": "24105F4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045175514827194844",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045168274535764037",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @24105F4: 幸せってなんだと思う？\n幸せについて考えたけど、みんなの幸せが自分の幸せであることに気づいたよ♪\n\n幸せを味に例えるなら、味覚が死んでいるから噛み締めても味がしない。\n\nでもでも、他の人が幸せを感じて笑顔でいるとこっちも幸せに思えるの！\nだから頑張って…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1656224072051863554",
+        "conversation_id": "2045168274535764037",
+        "created_at": "2026-04-17T15:51:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T16:51:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045168274535764037"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045168274535764037",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "幸せってなんだと思う？\n幸せについて考えたけど、みんなの幸せが自分の幸せであることに気づいたよ♪\n\n幸せを味に例えるなら、味覚が死んでいるから噛み締めても味がしない。\n\nでもでも、他の人が幸せを感じて笑顔でいるとこっちも幸せに思えるの！\nだから頑張って生きるみんなの幸せを願ってる！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-19T11:20:17.000Z",
+        "description": "小咲/09/od 割/药理/广泛性焦虑 简中/English同类交友 查成分互fo喵！^ 没fo私我呀 来找我玩！想到啥发啥非常喜欢评论 上来骂我=你赢了恭喜毕业☺️请理性探讨 提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/desirelovet1qi",
+                "end": 23,
+                "expanded_url": "https://ngl.link/desirelovet1qi",
+                "start": 0,
+                "url": "https://t.co/1k4V17YOY0"
+              }
+            ]
+          }
+        },
+        "id": "2013209398395752448",
+        "location": "^猫猫天国行くよ^",
+        "name": "愛歌",
+        "pinned_tweet_id": "2044175216386158879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043464203944747008/Seln5ql5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351,
+          "following_count": 296,
+          "like_count": 390,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 386
+        },
+        "url": "https://t.co/1k4V17YOY0",
+        "username": "DesireLovet1qi",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-10T09:08:44.000Z",
+        "description": "友達を探しています♪\n※シラフの時はこのアカウントを開きません/日本人/出会い厨は求めて無いです！\n趣味:💊🎮🚬🏍️📷",
+        "id": "1656224072051863554",
+        "location": "❤︎ブロン❤︎メジコン❤︎ウット❤︎ハイプロン❤︎",
+        "name": "みーる",
+        "pinned_tweet_id": "2040782768494514452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040474779321516032/e4oPyPnm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 36,
+          "like_count": 1486,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 29
+        },
+        "username": "24105F4",
+        "verified": false
+      }
+    ]
+  }
+}

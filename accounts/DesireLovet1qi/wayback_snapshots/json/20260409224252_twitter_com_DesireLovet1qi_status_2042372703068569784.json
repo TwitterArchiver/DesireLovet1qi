@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2013209398395752448",
+    "conversation_id": "2042107747593023994",
+    "created_at": "2026-04-09T22:42:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T23:42:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042372703068569784"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1908653241489121286",
+          "start": 0,
+          "username": "chnkixn1034469"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042372703068569784",
+    "in_reply_to_user_id": "1908653241489121286",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042371941341020193",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chnkixn1034469 有可能是体质过敏哦不建议o复方玉米了..可以试试单方"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013209398395752448",
+        "conversation_id": "2042107747593023994",
+        "created_at": "2026-04-09T22:42:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T23:42:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042372703068569784"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1908653241489121286",
+              "start": 0,
+              "username": "chnkixn1034469"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042372703068569784",
+        "in_reply_to_user_id": "1908653241489121286",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042371941341020193",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chnkixn1034469 有可能是体质过敏哦不建议o复方玉米了..可以试试单方"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1908653241489121286",
+        "conversation_id": "2042107747593023994",
+        "created_at": "2026-04-09T22:39:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T23:39:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042371941341020193"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2013209398395752448",
+              "start": 0,
+              "username": "DesireLovet1qi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042371941341020193",
+        "in_reply_to_user_id": "2013209398395752448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042362305007272174",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DesireLovet1qi 有🥺，长那个啥红疹痒死了，太命苦了我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-19T11:20:17.000Z",
+        "description": "小咲/09/od 割/喜欢交朋友 互fo 来找我玩！想到啥发啥非常喜欢评论 提问箱：https://t.co/1k4V17YOY0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/desirelovet1qi",
+                "end": 65,
+                "expanded_url": "https://ngl.link/desirelovet1qi",
+                "start": 42,
+                "url": "https://t.co/1k4V17YOY0"
+              }
+            ]
+          }
+        },
+        "id": "2013209398395752448",
+        "name": "愛歌",
+        "pinned_tweet_id": "2042011047994044708",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022474411425910784/CCV0vKhw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 126,
+          "like_count": 274,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 271
+        },
+        "username": "DesireLovet1qi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-05T22:50:09.000Z",
+        "description": "没啥好说的，互fo",
+        "id": "1908653241489121286",
+        "location": "Sichuan(Province)",
+        "name": "dzero🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039700243399487489/vi3CVa8G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 113,
+          "like_count": 44,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 36
+        },
+        "username": "chnkixn1034469",
+        "verified": false
+      }
+    ]
+  }
+}

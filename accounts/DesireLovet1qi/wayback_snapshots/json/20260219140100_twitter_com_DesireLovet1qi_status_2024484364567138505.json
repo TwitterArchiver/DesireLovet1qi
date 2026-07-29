@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024484349102739459"
+      ]
+    },
+    "author_id": "2013209398395752448",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2024484364567138505",
+    "created_at": "2026-02-19T14:01:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T15:01:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024484364567138505"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/tOSA4cbcmk",
+          "end": 30,
+          "expanded_url": "https://x.com/DesireLovet1qi/status/2024484364567138505/photo/1",
+          "media_key": "3_2024484349102739459",
+          "start": 7,
+          "url": "https://t.co/tOSA4cbcmk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024484364567138505",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "救我狗命一把 https://t.co/tOSA4cbcmk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2024484349102739459",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBhpyhGbUAM9CWd.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024484349102739459"
+          ]
+        },
+        "author_id": "2013209398395752448",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2024484364567138505",
+        "created_at": "2026-02-19T14:01:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T15:01:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024484364567138505"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tOSA4cbcmk",
+              "end": 30,
+              "expanded_url": "https://x.com/DesireLovet1qi/status/2024484364567138505/photo/1",
+              "media_key": "3_2024484349102739459",
+              "start": 7,
+              "url": "https://t.co/tOSA4cbcmk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024484364567138505",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "救我狗命一把 https://t.co/tOSA4cbcmk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-19T11:20:17.000Z",
+        "description": "小咲/09/od 割/同类fo了就回！很想交朋友都可以来和我玩随机爆金币，想到啥发啥非常喜欢评论",
+        "id": "2013209398395752448",
+        "name": "愛歌",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022474411425910784/CCV0vKhw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 44,
+          "like_count": 174,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 143
+        },
+        "username": "DesireLovet1qi",
+        "verified": false
+      }
+    ]
+  }
+}

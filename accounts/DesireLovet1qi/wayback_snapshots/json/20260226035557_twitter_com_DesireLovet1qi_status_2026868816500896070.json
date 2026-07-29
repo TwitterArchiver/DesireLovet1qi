@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2013209398395752448",
+    "conversation_id": "2026478483527057654",
+    "created_at": "2026-02-26T03:55:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T04:55:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026868816500896070"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2008181604360003584",
+          "start": 0,
+          "username": "Fayoubaike000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026868816500896070",
+    "in_reply_to_user_id": "2008181604360003584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026478483527057654",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fayoubaike000 这曲马多还是羟考酮啊笑死了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 25233,
+        "height": 1280,
+        "media_key": "7_2026478273556000770",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2026478273556000770/pu/img/gLmObs9tdQ1llpyM.jpg",
+        "public_metrics": {
+          "view_count": 271
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2026478273556000770/pu/vid/avc1/320x568/TPRp60RdX3tQp6mE.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2026478273556000770/pu/vid/avc1/480x852/HLg4CXcgE85dijPn.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2026478273556000770/pu/vid/avc1/720x1280/qG-ihy0bSQ4BFutQ.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2026478273556000770/pu/pl/bGFw1iMzt6EkZ2qo.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 41445,
+        "height": 1280,
+        "media_key": "7_2026478317717827585",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2026478317717827585/pu/img/XGpfV8ZDTOs8KXtI.jpg",
+        "public_metrics": {
+          "view_count": 91
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2026478317717827585/pu/vid/avc1/320x568/ea4cSg7Pz_lXK7vM.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2026478317717827585/pu/vid/avc1/480x852/0H1Y34P-NYznxJ4v.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2026478317717827585/pu/vid/avc1/720x1280/YhRJM00rFGwGp0yE.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2026478317717827585/pu/pl/b1vP3eThcvXWvq-6.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013209398395752448",
+        "conversation_id": "2026478483527057654",
+        "created_at": "2026-02-26T03:55:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T04:55:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026868816500896070"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2008181604360003584",
+              "start": 0,
+              "username": "Fayoubaike000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026868816500896070",
+        "in_reply_to_user_id": "2008181604360003584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026478483527057654",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fayoubaike000 这曲马多还是羟考酮啊笑死了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2026478273556000770",
+            "7_2026478317717827585"
+          ]
+        },
+        "author_id": "2008181604360003584",
+        "conversation_id": "2026478483527057654",
+        "created_at": "2026-02-25T02:04:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T03:04:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026478483527057654"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SWkAy2rW72",
+              "end": 23,
+              "expanded_url": "https://x.com/Fayoubaike000/status/2026478483527057654/video/1",
+              "media_key": "7_2026478273556000770",
+              "start": 0,
+              "url": "https://t.co/SWkAy2rW72"
+            },
+            {
+              "display_url": "pic.x.com/SWkAy2rW72",
+              "end": 23,
+              "expanded_url": "https://x.com/Fayoubaike000/status/2026478483527057654/video/1",
+              "media_key": "7_2026478317717827585",
+              "start": 0,
+              "url": "https://t.co/SWkAy2rW72"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026478483527057654",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 571,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/SWkAy2rW72"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-19T11:20:17.000Z",
+        "description": "小咲/09/od 割/同类fo了就回！友好一切..很想交朋友欢迎来找我玩随机爆金币，想到啥发啥非常喜欢评论 提问箱：https://t.co/1k4V17YOY0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/desirelovet1qi",
+                "end": 81,
+                "expanded_url": "https://ngl.link/desirelovet1qi",
+                "start": 58,
+                "url": "https://t.co/1k4V17YOY0"
+              }
+            ]
+          }
+        },
+        "id": "2013209398395752448",
+        "name": "愛歌",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022474411425910784/CCV0vKhw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 60,
+          "like_count": 198,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 160
+        },
+        "username": "DesireLovet1qi",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-05T14:19:49.000Z",
+        "description": "官网：https://t.co/1RO0a8YP2H\n法友百科：https://t.co/mcutyAEVMJ\n法友俱乐部：https://t.co/pSWgN6XYgr\n人生就是法天 法地 法空气 神会平等救赎每一个磕药的法友",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "fayou.club",
+                "end": 26,
+                "expanded_url": "https://fayou.club/",
+                "start": 3,
+                "url": "https://t.co/1RO0a8YP2H"
+              },
+              {
+                "display_url": "t.me/fayoubaike",
+                "end": 55,
+                "expanded_url": "https://t.me/fayoubaike",
+                "start": 32,
+                "url": "https://t.co/mcutyAEVMJ"
+              },
+              {
+                "display_url": "t.me/fayoujulebu",
+                "end": 85,
+                "expanded_url": "https://t.me/fayoujulebu",
+                "start": 62,
+                "url": "https://t.co/pSWgN6XYgr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fayou.club",
+                "end": 23,
+                "expanded_url": "https://fayou.club/",
+                "start": 0,
+                "url": "https://t.co/1RO0a8YP2H"
+              }
+            ]
+          }
+        },
+        "id": "2008181604360003584",
+        "name": "法友百科",
+        "pinned_tweet_id": "2023738279305376090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022318060871495680/kSSLcw97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 743,
+          "following_count": 392,
+          "like_count": 177,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 292
+        },
+        "url": "https://t.co/1RO0a8YP2H",
+        "username": "Fayoubaike000",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2013209398395752448",
+    "conversation_id": "2016703063143387461",
+    "created_at": "2026-01-31T01:13:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T02:13:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017405859492728902"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "488823839",
+          "start": 0,
+          "username": "taikongjile000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017405859492728902",
+    "in_reply_to_user_id": "488823839",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016703063143387461",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@taikongjile000 已深刻反省"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013209398395752448",
+        "conversation_id": "2016703063143387461",
+        "created_at": "2026-01-31T01:13:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T02:13:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017405859492728902"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "488823839",
+              "start": 0,
+              "username": "taikongjile000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017405859492728902",
+        "in_reply_to_user_id": "488823839",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016703063143387461",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@taikongjile000 已深刻反省"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "488823839",
+        "conversation_id": "2016703063143387461",
+        "created_at": "2026-01-29T02:40:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T03:40:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016703063143387461"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2016703063143387461",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 40577,
+          "like_count": 278,
+          "quote_count": 12,
+          "reply_count": 31,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "现如今，政府已经安排好社区戒药物滥用组织了，各种od药的验尿板还有发检都有，如果你购买或o大了发疯被家人或在幻觉里跑出去街上被警察抓到，或被人举报，那么迎接你的将是社区戒毒关上一阵子，并且药物滥用史会录入你的个人档案会影响工作等等\n请大家不要以身试险！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-19T11:20:17.000Z",
+        "description": "",
+        "id": "2013209398395752448",
+        "name": "愛歌",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013210516924309504/3Fq2z9qs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 6,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 9
+        },
+        "username": "DesireLovet1qi",
+        "verified": false
+      },
+      {
+        "created_at": "2012-02-10T21:51:18.000Z",
+        "description": "上海市禁毒委托上海司法鉴定中心已对本人多批次产品检验合规。本人不向买家销售不符合当地法律法规的化学品，也没有税务问题，请DEA/FDA/IRS不要在本人身上浪费\n官网：https://t.co/yJOEtw5Bi3\n交流群：https://t.co/kaCNpFerhN\n备用号：@taikongjile001",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 155,
+                "start": 140,
+                "username": "taikongjile001"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "taikong.mom",
+                "end": 107,
+                "expanded_url": "https://taikong.mom/",
+                "start": 84,
+                "url": "https://t.co/yJOEtw5Bi3"
+              },
+              {
+                "display_url": "t.me/huaxuejilebaik…",
+                "end": 135,
+                "expanded_url": "https://t.me/huaxuejilebaike666",
+                "start": 112,
+                "url": "https://t.co/kaCNpFerhN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "taikong.mom",
+                "end": 23,
+                "expanded_url": "https://taikong.mom/",
+                "start": 0,
+                "url": "https://t.co/yJOEtw5Bi3"
+              }
+            ]
+          }
+        },
+        "id": "488823839",
+        "location": "天国",
+        "name": "太空极乐百科",
+        "pinned_tweet_id": "2017190056562422104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015653690779271168/3qPtJUOt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 709,
+          "following_count": 153,
+          "like_count": 73,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 115
+        },
+        "url": "https://t.co/yJOEtw5Bi3",
+        "username": "taikongjile000",
+        "verified": false
+      }
+    ]
+  }
+}

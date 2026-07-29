@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2013209398395752448",
+    "conversation_id": "2079854444636999706",
+    "created_at": "2026-07-22T09:01:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T10:01:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079854444636999706"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1661418553801580544",
+          "start": 3,
+          "username": "Nzstz53"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079854444636999706",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060521102418616325",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nzstz53: 300mg 氟伏沙明+180mg 美金刚，大概2小时起效初期效果比 DXM 更亢奋和好动，音乐欣赏能力增强，社交能力提升，中等的共情能力提升，肠胃剧烈蠕动20分钟左右解离站主导，自发的感觉整个人在漂浮状态中旋转，音乐节奏变得很动听，身体从头到脚都很舒服…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013209398395752448",
+        "conversation_id": "2079854444636999706",
+        "created_at": "2026-07-22T09:01:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T10:01:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079854444636999706"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1661418553801580544",
+              "start": 3,
+              "username": "Nzstz53"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079854444636999706",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060521102418616325",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Nzstz53: 300mg 氟伏沙明+180mg 美金刚，大概2小时起效初期效果比 DXM 更亢奋和好动，音乐欣赏能力增强，社交能力提升，中等的共情能力提升，肠胃剧烈蠕动20分钟左右解离站主导，自发的感觉整个人在漂浮状态中旋转，音乐节奏变得很动听，身体从头到脚都很舒服…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1661418553801580544",
+        "conversation_id": "2060521102418616325",
+        "created_at": "2026-05-30T00:38:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T01:38:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060521102418616325"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Nzstz53/status…",
+              "end": 177,
+              "expanded_url": "https://twitter.com/Nzstz53/status/2055304187500691549",
+              "start": 154,
+              "url": "https://t.co/yKJEy16z49"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060521102418616325",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1887,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055304187500691549",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "300mg 氟伏沙明+180mg 美金刚，大概2小时起效初期效果比 DXM 更亢奋和好动，音乐欣赏能力增强，社交能力提升，中等的共情能力提升，肠胃剧烈蠕动20分钟左右解离站主导，自发的感觉整个人在漂浮状态中旋转，音乐节奏变得很动听，身体从头到脚都很舒服和轻盈，区别与 DXM 的是在暗光环境可以看到轻微外幻 https://t.co/yKJEy16z49"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-19T11:20:17.000Z",
+        "description": "小咲/09/o/药理/重焦重抑 简中/English同类交友 查成分互fo喵！^ 没fo私我呀 来找我玩！主页药物均为合法渠道获取 想到啥发啥 上来骂我=你赢了☺️\n🚪52/88/128/188/288 赚点钱买药🥲\n粥好友免费扩～\n请理性探讨 提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/desirelovet1qi",
+                "end": 23,
+                "expanded_url": "https://ngl.link/desirelovet1qi",
+                "start": 0,
+                "url": "https://t.co/1k4V17Yh8s"
+              }
+            ]
+          }
+        },
+        "id": "2013209398395752448",
+        "location": "^猫猫天国行くよ^",
+        "name": "愛歌",
+        "pinned_tweet_id": "2068551593046446370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043464203944747008/Seln5ql5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 826,
+          "following_count": 451,
+          "like_count": 677,
+          "listed_count": 1,
+          "media_count": 113,
+          "tweet_count": 825
+        },
+        "url": "https://t.co/1k4V17Yh8s",
+        "username": "DesireLovet1qi",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-24T17:07:22.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/2k77043",
+                "end": 23,
+                "expanded_url": "https://ngl.link/2k77043",
+                "start": 0,
+                "url": "https://t.co/c2ydAShFlf"
+              }
+            ]
+          }
+        },
+        "id": "1661418553801580544",
+        "name": "κ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004932256914440197/Z0wcEEtk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 26,
+          "like_count": 279,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 163
+        },
+        "url": "https://t.co/c2ydAShFlf",
+        "username": "Nzstz53",
+        "verified": false
+      }
+    ]
+  }
+}

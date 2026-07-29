@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1976060594454183936"
+      ],
+      "media_source_tweet_id": [
+        "1976060610262515862"
+      ]
+    },
+    "author_id": "2013209398395752448",
+    "conversation_id": "2027236131591590128",
+    "created_at": "2026-02-27T04:15:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T05:15:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027236131591590128"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 27,
+          "start": 20,
+          "tag": "shtwtᅠ"
+        },
+        {
+          "end": 73,
+          "start": 28,
+          "tag": "shtなりきりさんがrtしてくれてそれを見たshtなりきりさんがきっとフォローしてくれる"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1960978396110098432",
+          "start": 3,
+          "username": "Hikikomori_vvv"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Fv7uReyCqi",
+          "end": 97,
+          "expanded_url": "https://x.com/Hikikomori_vvv/status/1976060610262515862/video/1",
+          "media_key": "7_1976060594454183936",
+          "start": 74,
+          "url": "https://t.co/Fv7uReyCqi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027236131591590128",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 710
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976060610262515862",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Hikikomori_vvv: #shtwtᅠ #shtなりきりさんがrtしてくれてそれを見たshtなりきりさんがきっとフォローしてくれる https://t.co/Fv7uReyCqi"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2027236131591590128].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2027236131591590128",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2027236131591590128"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 34782,
+        "height": 639,
+        "media_key": "7_1976060594454183936",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1976060594454183936/pu/img/nLVTIota8aO3YOA0.jpg",
+        "public_metrics": {
+          "view_count": 23120
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1976060594454183936/pu/vid/avc1/320x568/iNe5ZwjCW1yvXyj0.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1976060594454183936/pu/vid/avc1/360x638/AFz5UuHT8XTGtBAU.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1976060594454183936/pu/pl/Vgl3cgF2CadzWzsv.m3u8?tag=12"
+          }
+        ],
+        "width": 360
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1976060594454183936"
+          ]
+        },
+        "author_id": "1960978396110098432",
+        "conversation_id": "1976060610262515862",
+        "created_at": "2025-10-08T23:02:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T00:02:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976060610262515862"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "shtwtᅠ"
+            },
+            {
+              "end": 53,
+              "start": 8,
+              "tag": "shtなりきりさんがrtしてくれてそれを見たshtなりきりさんがきっとフォローしてくれる"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Fv7uReyCqi",
+              "end": 77,
+              "expanded_url": "https://x.com/Hikikomori_vvv/status/1976060610262515862/video/1",
+              "media_key": "7_1976060594454183936",
+              "start": 54,
+              "url": "https://t.co/Fv7uReyCqi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976060610262515862",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 690,
+          "impression_count": 50480,
+          "like_count": 2956,
+          "quote_count": 7,
+          "reply_count": 10,
+          "retweet_count": 710
+        },
+        "reply_settings": "everyone",
+        "text": "#shtwtᅠ #shtなりきりさんがrtしてくれてそれを見たshtなりきりさんがきっとフォローしてくれる https://t.co/Fv7uReyCqi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-19T11:20:17.000Z",
+        "description": "小咲/09/od 割/同类fo了就回！友好一切..很想交朋友欢迎来找我玩随机爆金币，想到啥发啥非常喜欢评论 提问箱：https://t.co/1k4V17YOY0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/desirelovet1qi",
+                "end": 81,
+                "expanded_url": "https://ngl.link/desirelovet1qi",
+                "start": 58,
+                "url": "https://t.co/1k4V17YOY0"
+              }
+            ]
+          }
+        },
+        "id": "2013209398395752448",
+        "name": "愛歌",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022474411425910784/CCV0vKhw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 60,
+          "like_count": 200,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 164
+        },
+        "username": "DesireLovet1qi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-28T08:11:11.000Z",
+        "description": "✌︎˶╹ꇴ╹˶✌︎ ᗯᗴᒪᑕᒪᑕOᗰᗴ.... \n        ┈┈┈┈․° ☣ °․┈┈┈┈\n  \n                            #shtwt #subtwt #goretwt\n               ‿︵‿︵‿︵‿︵‿︵‿︵",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 86,
+                "start": 80,
+                "tag": "shtwt"
+              },
+              {
+                "end": 94,
+                "start": 87,
+                "tag": "subtwt"
+              },
+              {
+                "end": 103,
+                "start": 95,
+                "tag": "goretwt"
+              }
+            ]
+          }
+        },
+        "id": "1960978396110098432",
+        "name": "🎭💥 𝐇¡¡𝐤𝐢𝐤𝟎𝐦𝐨𝐫𝐢 💥🪄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988434967215366144/zV3f00W7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1971,
+          "following_count": 183,
+          "like_count": 745,
+          "listed_count": 2,
+          "media_count": 74,
+          "tweet_count": 203
+        },
+        "username": "Hikikomori_vvv",
+        "verified": false
+      }
+    ]
+  }
+}

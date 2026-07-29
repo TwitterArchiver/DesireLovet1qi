@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2013209398395752448",
+    "conversation_id": "2075146854862594542",
+    "created_at": "2026-07-09T11:56:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T12:56:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075187336934273430"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2074568420574851072",
+          "start": 0,
+          "username": "jinshi778899"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075187336934273430",
+    "in_reply_to_user_id": "2074568420574851072",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075146854862594542",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jinshi778899 私信没开qvq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2075146847128338432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMxnEBfbQAAFaMT.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013209398395752448",
+        "conversation_id": "2075146854862594542",
+        "created_at": "2026-07-09T11:56:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T12:56:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075187336934273430"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2074568420574851072",
+              "start": 0,
+              "username": "jinshi778899"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075187336934273430",
+        "in_reply_to_user_id": "2074568420574851072",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075146854862594542",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jinshi778899 私信没开qvq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075146847128338432"
+          ]
+        },
+        "author_id": "2074568420574851072",
+        "conversation_id": "2075146854862594542",
+        "created_at": "2026-07-09T09:15:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T10:15:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075146854862594542"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BwJZ2uSZlr",
+              "end": 99,
+              "expanded_url": "https://x.com/jinshi778899/status/2075146854862594542/photo/1",
+              "media_key": "3_2075146847128338432",
+              "start": 76,
+              "url": "https://t.co/BwJZ2uSZlr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075146854862594542",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "账号逐步建设中…\n\n单方右美即将上线…\n\n规格 国外版单方右美沙芬 15mg/t 30t/板 20板/盒\n\n说我是骗子的可以观望一下\n\n让子弹飞一会… https://t.co/BwJZ2uSZlr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-19T11:20:17.000Z",
+        "description": "小咲/09/o/药理/重焦重抑 简中/English同类交友 查成分互fo喵！^ 没fo私我呀 来找我玩！主页药物均为合法渠道获取 想到啥发啥 上来骂我=你赢了☺️\n🚪52/88/128 赚点钱买药🥲\n粥好友免费扩～\n请理性探讨 提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/desirelovet1qi",
+                "end": 23,
+                "expanded_url": "https://ngl.link/desirelovet1qi",
+                "start": 0,
+                "url": "https://t.co/1k4V17YOY0"
+              }
+            ]
+          }
+        },
+        "id": "2013209398395752448",
+        "location": "^猫猫天国行くよ^",
+        "name": "愛歌",
+        "pinned_tweet_id": "2068551593046446370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043464203944747008/Seln5ql5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 819,
+          "following_count": 441,
+          "like_count": 626,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 754
+        },
+        "url": "https://t.co/1k4V17YOY0",
+        "username": "DesireLovet1qi",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-07T18:57:55.000Z",
+        "description": "资深老oder 欢迎各种询问 | 🈲政｜出售单方右美沙芬 需要的私 私信常开 请确保了解药理后再服用 备用号@yinshi778899",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 54,
+                "username": "yinshi778899"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/i/chat/group_j…",
+                "end": 23,
+                "expanded_url": "https://x.com/i/chat/group_join/g2075147292433404247/3678XNSDuo",
+                "start": 0,
+                "url": "https://t.co/KDxHo16TRg"
+              }
+            ]
+          }
+        },
+        "id": "2074568420574851072",
+        "location": "新加坡",
+        "name": "金时",
+        "pinned_tweet_id": "2075146854862594542",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074569945795747840/kOiJ_Z_v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 55,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 18
+        },
+        "url": "https://t.co/KDxHo16TRg",
+        "username": "jinshi778899",
+        "verified": true
+      }
+    ]
+  }
+}

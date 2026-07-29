@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2013209398395752448",
+    "conversation_id": "2024373342980198540",
+    "created_at": "2026-02-19T06:39:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T07:39:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024373342980198540"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2020173367773724672",
+          "start": 3,
+          "username": "fu_gc78361"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024373342980198540",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024050885198770469",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fu_gc78361: 特别想问。有人为你们嗑药自残你们啥感觉。是害怕还是讨厌。真的有人是心疼吗。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013209398395752448",
+        "conversation_id": "2024373342980198540",
+        "created_at": "2026-02-19T06:39:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T07:39:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024373342980198540"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2020173367773724672",
+              "start": 3,
+              "username": "fu_gc78361"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024373342980198540",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024050885198770469",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fu_gc78361: 特别想问。有人为你们嗑药自残你们啥感觉。是害怕还是讨厌。真的有人是心疼吗。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020173367773724672",
+        "conversation_id": "2024050885198770469",
+        "created_at": "2026-02-18T09:18:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T10:18:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024050885198770469"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024050885198770469",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2697,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "特别想问。有人为你们嗑药自残你们啥感觉。是害怕还是讨厌。真的有人是心疼吗。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-19T11:20:17.000Z",
+        "description": "小咲/09/od 割/同类fo了就回！很想交朋友都可以来和我玩随机爆金币，想到啥发啥非常喜欢评论",
+        "id": "2013209398395752448",
+        "name": "愛歌",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022474411425910784/CCV0vKhw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 44,
+          "like_count": 149,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 134
+        },
+        "username": "DesireLovet1qi",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-07T16:30:48.000Z",
+        "description": "🚪52纯圈",
+        "id": "2020173367773724672",
+        "name": "依赖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021269041428705280/9ba-LsA__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 353,
+          "following_count": 8,
+          "like_count": 74,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 442
+        },
+        "username": "fu_gc78361",
+        "verified": false
+      }
+    ]
+  }
+}

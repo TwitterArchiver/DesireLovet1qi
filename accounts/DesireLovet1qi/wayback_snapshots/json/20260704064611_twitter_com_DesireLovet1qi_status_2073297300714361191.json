@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2013209398395752448",
+    "conversation_id": "2072715893709426915",
+    "created_at": "2026-07-04T06:46:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T07:46:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073297300714361191"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1780831626991460352",
+          "start": 0,
+          "username": "baozhasuiboli"
+        },
+        {
+          "end": 30,
+          "id": "1911421629122433024",
+          "start": 15,
+          "username": "zhangyixuanTvT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073297300714361191",
+    "in_reply_to_user_id": "1780831626991460352",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073238095433216400",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@baozhasuiboli @zhangyixuanTvT 蹲一下.."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013209398395752448",
+        "conversation_id": "2072715893709426915",
+        "created_at": "2026-07-04T06:46:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T07:46:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073297300714361191"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1780831626991460352",
+              "start": 0,
+              "username": "baozhasuiboli"
+            },
+            {
+              "end": 30,
+              "id": "1911421629122433024",
+              "start": 15,
+              "username": "zhangyixuanTvT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073297300714361191",
+        "in_reply_to_user_id": "1780831626991460352",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073238095433216400",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baozhasuiboli @zhangyixuanTvT 蹲一下.."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780831626991460352",
+        "conversation_id": "2072715893709426915",
+        "created_at": "2026-07-04T02:50:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T03:50:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073238095433216400"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1911421629122433024",
+              "start": 0,
+              "username": "zhangyixuanTvT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073238095433216400",
+        "in_reply_to_user_id": "1911421629122433024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 140,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072715893709426915",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhangyixuanTvT 我真的求告知药效和起效期药效期半衰期，半衰期什么感觉，求求你了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-19T11:20:17.000Z",
+        "description": "小咲/09/o/药理/重焦重抑 简中/English同类交友 查成分互fo喵！^ 没fo私我呀 来找我玩！主页药物均为合法渠道获取 想到啥发啥 上来骂我=你赢了☺️\n🚪52/88/128 赚点钱买药🥲\n粥好友免费扩～\n请理性探讨 提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/desirelovet1qi",
+                "end": 23,
+                "expanded_url": "https://ngl.link/desirelovet1qi",
+                "start": 0,
+                "url": "https://t.co/1k4V17YOY0"
+              }
+            ]
+          }
+        },
+        "id": "2013209398395752448",
+        "location": "^猫猫天国行くよ^",
+        "name": "愛歌",
+        "pinned_tweet_id": "2068551593046446370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043464203944747008/Seln5ql5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 818,
+          "following_count": 435,
+          "like_count": 593,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 698
+        },
+        "url": "https://t.co/1k4V17YOY0",
+        "username": "DesireLovet1qi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-18T05:32:08.000Z",
+        "description": "和很阳光开朗的妹子聊不来，铁t和健身t勿扰，纯绿🚪52",
+        "id": "1780831626991460352",
+        "location": "Macau",
+        "name": "嗜睡症患者8号",
+        "pinned_tweet_id": "2022098515745509785",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066131758740045824/8L_P-Pfv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 47,
+          "like_count": 5424,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 165
+        },
+        "url": "",
+        "username": "baozhasuiboli",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-13T14:10:34.000Z",
+        "description": "我是綾子 09抽烟磕药自残 欢迎女孩互fo呀！匿名消息在这里https://t.co/XKAbX5DLZ3",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%BB%AB%E5%A…",
+                "end": 53,
+                "expanded_url": "https://ngl.link/%E7%BB%AB%E5%AD%90ayako",
+                "start": 30,
+                "url": "https://t.co/XKAbX5DLZ3"
+              }
+            ]
+          }
+        },
+        "id": "1911421629122433024",
+        "name": "綾子ayako",
+        "pinned_tweet_id": "2034657851222917529",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911423831496855552/EI1UuIqM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 80,
+          "like_count": 628,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 223
+        },
+        "url": "",
+        "username": "zhangyixuanTvT",
+        "verified": false
+      }
+    ]
+  }
+}

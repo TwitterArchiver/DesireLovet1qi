@@ -1,0 +1,362 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068377621914849280",
+        "3_2068377645835051008",
+        "3_2068377683311169536",
+        "3_2068377762507968512"
+      ],
+      "media_source_tweet_id": [
+        "2068377770565235181",
+        "2068377770565235181",
+        "2068377770565235181",
+        "2068377770565235181"
+      ]
+    },
+    "author_id": "2013209398395752448",
+    "conversation_id": "2068817290737705337",
+    "created_at": "2026-06-21T22:04:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T23:04:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068817290737705337"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1701789483669090304",
+          "start": 3,
+          "username": "RuoruoUna"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PEXIuZHwIl",
+          "end": 81,
+          "expanded_url": "https://x.com/RuoruoUna/status/2068377770565235181/photo/1",
+          "media_key": "3_2068377621914849280",
+          "start": 58,
+          "url": "https://t.co/PEXIuZHwIl"
+        },
+        {
+          "display_url": "pic.x.com/PEXIuZHwIl",
+          "end": 81,
+          "expanded_url": "https://x.com/RuoruoUna/status/2068377770565235181/photo/1",
+          "media_key": "3_2068377645835051008",
+          "start": 58,
+          "url": "https://t.co/PEXIuZHwIl"
+        },
+        {
+          "display_url": "pic.x.com/PEXIuZHwIl",
+          "end": 81,
+          "expanded_url": "https://x.com/RuoruoUna/status/2068377770565235181/photo/1",
+          "media_key": "3_2068377683311169536",
+          "start": 58,
+          "url": "https://t.co/PEXIuZHwIl"
+        },
+        {
+          "display_url": "pic.x.com/PEXIuZHwIl",
+          "end": 81,
+          "expanded_url": "https://x.com/RuoruoUna/status/2068377770565235181/photo/1",
+          "media_key": "3_2068377762507968512",
+          "start": 58,
+          "url": "https://t.co/PEXIuZHwIl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068817290737705337",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068377770565235181",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RuoruoUna: 顶置  \n我是若若   \n喜欢我请过我🚪\n坐标温州，接线下  \n小女孩互关互转大欢迎 https://t.co/PEXIuZHwIl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2068377621914849280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLRafQeaEAAmZ3H.jpg",
+        "width": 960
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2068377645835051008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLRagplbYAAWZFd.jpg",
+        "width": 960
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2068377683311169536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLRai1MbkAAPgdI.jpg",
+        "width": 960
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2068377762507968512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLRancOa0AAnEpt.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068377621914849280",
+            "3_2068377645835051008",
+            "3_2068377683311169536",
+            "3_2068377762507968512"
+          ],
+          "media_source_tweet_id": [
+            "2068377770565235181",
+            "2068377770565235181",
+            "2068377770565235181",
+            "2068377770565235181"
+          ]
+        },
+        "author_id": "2013209398395752448",
+        "conversation_id": "2068817290737705337",
+        "created_at": "2026-06-21T22:04:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T23:04:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068817290737705337"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1701789483669090304",
+              "start": 3,
+              "username": "RuoruoUna"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PEXIuZHwIl",
+              "end": 81,
+              "expanded_url": "https://x.com/RuoruoUna/status/2068377770565235181/photo/1",
+              "media_key": "3_2068377621914849280",
+              "start": 58,
+              "url": "https://t.co/PEXIuZHwIl"
+            },
+            {
+              "display_url": "pic.x.com/PEXIuZHwIl",
+              "end": 81,
+              "expanded_url": "https://x.com/RuoruoUna/status/2068377770565235181/photo/1",
+              "media_key": "3_2068377645835051008",
+              "start": 58,
+              "url": "https://t.co/PEXIuZHwIl"
+            },
+            {
+              "display_url": "pic.x.com/PEXIuZHwIl",
+              "end": 81,
+              "expanded_url": "https://x.com/RuoruoUna/status/2068377770565235181/photo/1",
+              "media_key": "3_2068377683311169536",
+              "start": 58,
+              "url": "https://t.co/PEXIuZHwIl"
+            },
+            {
+              "display_url": "pic.x.com/PEXIuZHwIl",
+              "end": 81,
+              "expanded_url": "https://x.com/RuoruoUna/status/2068377770565235181/photo/1",
+              "media_key": "3_2068377762507968512",
+              "start": 58,
+              "url": "https://t.co/PEXIuZHwIl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068817290737705337",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068377770565235181",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RuoruoUna: 顶置  \n我是若若   \n喜欢我请过我🚪\n坐标温州，接线下  \n小女孩互关互转大欢迎 https://t.co/PEXIuZHwIl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068377621914849280",
+            "3_2068377645835051008",
+            "3_2068377683311169536",
+            "3_2068377762507968512"
+          ]
+        },
+        "author_id": "1701789483669090304",
+        "conversation_id": "2068377770565235181",
+        "created_at": "2026-06-20T16:57:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T17:57:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068377770565235181"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PEXIuZHwIl",
+              "end": 66,
+              "expanded_url": "https://x.com/RuoruoUna/status/2068377770565235181/photo/1",
+              "media_key": "3_2068377621914849280",
+              "start": 43,
+              "url": "https://t.co/PEXIuZHwIl"
+            },
+            {
+              "display_url": "pic.x.com/PEXIuZHwIl",
+              "end": 66,
+              "expanded_url": "https://x.com/RuoruoUna/status/2068377770565235181/photo/1",
+              "media_key": "3_2068377645835051008",
+              "start": 43,
+              "url": "https://t.co/PEXIuZHwIl"
+            },
+            {
+              "display_url": "pic.x.com/PEXIuZHwIl",
+              "end": 66,
+              "expanded_url": "https://x.com/RuoruoUna/status/2068377770565235181/photo/1",
+              "media_key": "3_2068377683311169536",
+              "start": 43,
+              "url": "https://t.co/PEXIuZHwIl"
+            },
+            {
+              "display_url": "pic.x.com/PEXIuZHwIl",
+              "end": 66,
+              "expanded_url": "https://x.com/RuoruoUna/status/2068377770565235181/photo/1",
+              "media_key": "3_2068377762507968512",
+              "start": 43,
+              "url": "https://t.co/PEXIuZHwIl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068377770565235181",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 178,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "顶置  \n我是若若   \n喜欢我请过我🚪\n坐标温州，接线下  \n小女孩互关互转大欢迎 https://t.co/PEXIuZHwIl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-19T11:20:17.000Z",
+        "description": "小咲/09/o/药理/重焦重抑 简中/English同类交友 查成分互fo喵！^ 没fo私我呀 来找我玩！主页药物均为合法渠道获取 想到啥发啥 上来骂我=你赢了☺️请理性探讨 提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/desirelovet1qi",
+                "end": 23,
+                "expanded_url": "https://ngl.link/desirelovet1qi",
+                "start": 0,
+                "url": "https://t.co/1k4V17YOY0"
+              }
+            ]
+          }
+        },
+        "id": "2013209398395752448",
+        "location": "^猫猫天国行くよ^",
+        "name": "愛歌",
+        "pinned_tweet_id": "2068551593046446370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043464203944747008/Seln5ql5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 758,
+          "following_count": 432,
+          "like_count": 539,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 630
+        },
+        "url": "https://t.co/1k4V17YOY0",
+        "username": "DesireLovet1qi",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-13T02:46:53.000Z",
+        "description": "私信只回口令",
+        "id": "1701789483669090304",
+        "location": "🚪188",
+        "name": "若若2.0",
+        "pinned_tweet_id": "2068727760567320965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1804571019505504257/s3YCnghI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 658,
+          "following_count": 63,
+          "like_count": 0,
+          "listed_count": 2,
+          "media_count": 27,
+          "tweet_count": 347
+        },
+        "url": "",
+        "username": "RuoruoUna",
+        "verified": false
+      }
+    ]
+  }
+}

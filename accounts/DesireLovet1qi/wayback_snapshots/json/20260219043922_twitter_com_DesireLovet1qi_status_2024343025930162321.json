@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024343013988978688",
+        "3_2024343013959618563"
+      ]
+    },
+    "author_id": "2013209398395752448",
+    "conversation_id": "2024343025930162321",
+    "created_at": "2026-02-19T04:39:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T05:39:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024343025930162321"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/i2GB31wKNm",
+          "end": 38,
+          "expanded_url": "https://x.com/DesireLovet1qi/status/2024343025930162321/photo/1",
+          "media_key": "3_2024343013988978688",
+          "start": 15,
+          "url": "https://t.co/i2GB31wKNm"
+        },
+        {
+          "display_url": "pic.x.com/i2GB31wKNm",
+          "end": 38,
+          "expanded_url": "https://x.com/DesireLovet1qi/status/2024343025930162321/photo/1",
+          "media_key": "3_2024343013959618563",
+          "start": 15,
+          "url": "https://t.co/i2GB31wKNm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024343025930162321",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一个好老的图勾引我一会割一下 https://t.co/i2GB31wKNm"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2024343025930162321].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2024343025930162321",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2024343025930162321"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2024343013988978688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBfpPuxbUAAEJqd.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2024343013959618563",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBfpPuqbUAMRjnN.jpg",
+        "width": 1536
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-19T11:20:17.000Z",
+        "description": "小咲/09/od 割/同类fo了就回！很想交朋友都可以来和我玩随机爆金币，想到啥发啥非常喜欢评论",
+        "id": "2013209398395752448",
+        "name": "愛歌",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022474411425910784/CCV0vKhw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 43,
+          "like_count": 134,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 127
+        },
+        "username": "DesireLovet1qi",
+        "verified": false
+      }
+    ]
+  }
+}

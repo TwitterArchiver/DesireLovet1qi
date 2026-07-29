@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2013209398395752448",
+    "conversation_id": "2019632236098953338",
+    "created_at": "2026-02-07T00:19:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T01:19:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019928957253255471"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2008943608695840768",
+          "start": 0,
+          "username": "electronic_dirt"
+        },
+        {
+          "end": 28,
+          "id": "1999504877337395200",
+          "start": 17,
+          "username": "chuan_0123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019928957253255471",
+    "in_reply_to_user_id": "2008943608695840768",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019632236098953338",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@electronic_dirt @chuan_0123 我想.."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013209398395752448",
+        "conversation_id": "2019632236098953338",
+        "created_at": "2026-02-07T00:19:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T01:19:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019928957253255471"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2008943608695840768",
+              "start": 0,
+              "username": "electronic_dirt"
+            },
+            {
+              "end": 28,
+              "id": "1999504877337395200",
+              "start": 17,
+              "username": "chuan_0123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019928957253255471",
+        "in_reply_to_user_id": "2008943608695840768",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019632236098953338",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@electronic_dirt @chuan_0123 我想.."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008943608695840768",
+        "conversation_id": "2019632236098953338",
+        "created_at": "2026-02-06T04:40:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T05:40:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019632236098953338"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/electronic_dir…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/electronic_dirt/status/2018738437592117394",
+              "start": 12,
+              "url": "https://t.co/dD8iulwBUr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019632236098953338",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 328,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018738437592117394",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "请和我互fo喵awa！ https://t.co/dD8iulwBUr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-19T11:20:17.000Z",
+        "description": "小咲/ 碎碎念和一些od相关 无雷我是很温良女子来和我互fo 刷推喜欢评论点赞..",
+        "id": "2013209398395752448",
+        "name": "愛歌",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013210516924309504/3Fq2z9qs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 22,
+          "like_count": 50,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 75
+        },
+        "username": "DesireLovet1qi",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-07T16:47:44.000Z",
+        "description": "💉𓂋 我是电子垢/通缉喵 可以找我互fo捏( ^ω^ ) 09休学中 内含画画｜废话｜od｜自伤｜果",
+        "id": "2008943608695840768",
+        "name": "通缉电子垢💡",
+        "pinned_tweet_id": "2018738437592117394",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018785279499497472/GMU_7D_F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 79,
+          "like_count": 408,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 363
+        },
+        "username": "electronic_dirt",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-12T15:41:53.000Z",
+        "description": "我是川川 怎么称呼我都ok！/20↑/病み垢/直fo＝喜欢你/自娱自乐型不用fo我！取我请双取，祝你以后开心！/脑子不好啥都发 有自伤&od内容 会码/接受不了的可以随意拉黑我😸",
+        "id": "1999504877337395200",
+        "location": "╰(⇀‸↼)╯",
+        "name": "虚空薯条教主",
+        "pinned_tweet_id": "2019866408440721484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019020107985620992/ssr2cUEK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 237,
+          "like_count": 5455,
+          "listed_count": 1,
+          "media_count": 124,
+          "tweet_count": 3021
+        },
+        "username": "chuan_0123",
+        "verified": false
+      }
+    ]
+  }
+}

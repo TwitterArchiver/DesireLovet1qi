@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2013209398395752448",
+    "conversation_id": "2022721581903155432",
+    "created_at": "2026-02-15T10:49:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T11:49:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022986612918140949"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2020145473324204032",
+          "start": 0,
+          "username": "cctv0nx"
+        },
+        {
+          "end": 14,
+          "id": "1720665183188922368",
+          "start": 9,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022986612918140949",
+    "in_reply_to_user_id": "2020145473324204032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022721581903155432",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cctv0nx @grok 该视频主要描述了什么"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 32213,
+        "height": 852,
+        "media_key": "7_2022721489871716352",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2022721489871716352/pu/img/fY17pCsKlJd7m0Hv.jpg",
+        "public_metrics": {
+          "view_count": 500263
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2022721489871716352/pu/vid/avc1/320x568/-Dw0eOubrx3uW_PF.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2022721489871716352/pu/vid/avc1/480x852/bJCM94-pApFQc8wa.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2022721489871716352/pu/pl/NnG5H2i3J0ROvSnb.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013209398395752448",
+        "conversation_id": "2022721581903155432",
+        "created_at": "2026-02-15T10:49:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T11:49:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022986612918140949"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2020145473324204032",
+              "start": 0,
+              "username": "cctv0nx"
+            },
+            {
+              "end": 14,
+              "id": "1720665183188922368",
+              "start": 9,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022986612918140949",
+        "in_reply_to_user_id": "2020145473324204032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022721581903155432",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cctv0nx @grok 该视频主要描述了什么"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2022721489871716352"
+          ]
+        },
+        "author_id": "2020145473324204032",
+        "conversation_id": "2022721581903155432",
+        "created_at": "2026-02-14T17:16:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T18:16:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022721581903155432"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7SGJJScu9Q",
+              "end": 23,
+              "expanded_url": "https://x.com/cctv0nx/status/2022721581903155432/video/1",
+              "media_key": "7_2022721489871716352",
+              "start": 0,
+              "url": "https://t.co/7SGJJScu9Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022721581903155432",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1062,
+          "impression_count": 276536,
+          "like_count": 4838,
+          "quote_count": 0,
+          "reply_count": 22,
+          "retweet_count": 228
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/7SGJJScu9Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-19T11:20:17.000Z",
+        "description": "小咲/ 碎碎念和一些od相关 无雷我是很温良女子来和我互fo 刷推喜欢评论点赞..",
+        "id": "2013209398395752448",
+        "name": "愛歌",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022474411425910784/CCV0vKhw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 32,
+          "like_count": 94,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 108
+        },
+        "username": "DesireLovet1qi",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-07T14:40:14.000Z",
+        "description": "",
+        "id": "2020145473324204032",
+        "name": "CC TV ON X",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022718242520006656/mN8QOETd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1264,
+          "following_count": 1,
+          "like_count": 8,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 3
+        },
+        "username": "cctv0nx",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "pinned_tweet_id": "1955006865332638036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7935761,
+          "following_count": 3,
+          "like_count": 85,
+          "listed_count": 6097,
+          "media_count": 8253487,
+          "tweet_count": 103616069
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

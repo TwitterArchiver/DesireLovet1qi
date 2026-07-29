@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2013209398395752448",
+    "conversation_id": "2018175956058583066",
+    "created_at": "2026-02-02T06:17:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T07:17:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018207094596608224"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1881307287769509888",
+          "start": 0,
+          "username": "Fwyuwusjehsioow"
+        },
+        {
+          "end": 32,
+          "id": "1796937387899064320",
+          "start": 17,
+          "username": "CleverFf050755"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018207094596608224",
+    "in_reply_to_user_id": "1881307287769509888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018188229703618975",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fwyuwusjehsioow @CleverFf050755 我也是我的妈呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013209398395752448",
+        "conversation_id": "2018175956058583066",
+        "created_at": "2026-02-02T06:17:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T07:17:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018207094596608224"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1881307287769509888",
+              "start": 0,
+              "username": "Fwyuwusjehsioow"
+            },
+            {
+              "end": 32,
+              "id": "1796937387899064320",
+              "start": 17,
+              "username": "CleverFf050755"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018207094596608224",
+        "in_reply_to_user_id": "1881307287769509888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018188229703618975",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fwyuwusjehsioow @CleverFf050755 我也是我的妈呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1881307287769509888",
+        "conversation_id": "2018175956058583066",
+        "created_at": "2026-02-02T05:02:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T06:02:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018188229703618975"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1796937387899064320",
+              "start": 0,
+              "username": "CleverFf050755"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018188229703618975",
+        "in_reply_to_user_id": "1796937387899064320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 82,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018175956058583066",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CleverFf050755 （）我因为禁毒品视频才开始odd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-19T11:20:17.000Z",
+        "description": "欢迎交友来找我玩呀",
+        "id": "2013209398395752448",
+        "name": "愛歌",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013210516924309504/3Fq2z9qs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 6,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 17
+        },
+        "username": "DesireLovet1qi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-20T11:46:36.000Z",
+        "description": "/OD / 自残/重度抑郁症/不登校/泛性恋/肥ed/\n我人很好来找我交朋友呀",
+        "id": "1881307287769509888",
+        "location": "天国",
+        "name": "人。",
+        "pinned_tweet_id": "1991893332273045660",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990977366341136387/__o2qXBh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 1403,
+          "like_count": 17638,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 745
+        },
+        "username": "Fwyuwusjehsioow",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-01T16:11:39.000Z",
+        "description": "完全理解一个人是异常困难的，你所能做的只能是理解，再理解。妈妈@Akinoyo_desu  \n提问盒：https://t.co/ZSBub0L9dM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 31,
+                "username": "Akinoyo_desu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/texas96541",
+                "end": 74,
+                "expanded_url": "https://ngl.link/texas96541",
+                "start": 51,
+                "url": "https://t.co/ZSBub0L9dM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/T0F6hSuwLZ"
+              }
+            ]
+          }
+        },
+        "id": "1796937387899064320",
+        "location": "普瑞巴林生产制造区A3车间",
+        "name": "Texas#缄默",
+        "pinned_tweet_id": "2000592634600149206",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009457486680760321/2cLUiZf9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 690,
+          "following_count": 264,
+          "like_count": 204,
+          "listed_count": 2,
+          "media_count": 218,
+          "tweet_count": 2215
+        },
+        "url": "https://t.co/T0F6hSuwLZ",
+        "username": "CleverFf050755",
+        "verified": false
+      }
+    ]
+  }
+}

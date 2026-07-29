@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2013209398395752448",
+    "conversation_id": "2043279893476331915",
+    "created_at": "2026-04-13T03:32:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T04:32:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043532858686583202"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1443248707487469575",
+          "start": 0,
+          "username": "595i_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043532858686583202",
+    "in_reply_to_user_id": "1443248707487469575",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043512699620090225",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@595i_ 死不完的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013209398395752448",
+        "conversation_id": "2043279893476331915",
+        "created_at": "2026-04-13T03:32:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T04:32:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043532858686583202"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1443248707487469575",
+              "start": 0,
+              "username": "595i_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043532858686583202",
+        "in_reply_to_user_id": "1443248707487469575",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043512699620090225",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@595i_ 死不完的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1443248707487469575",
+        "conversation_id": "2043279893476331915",
+        "created_at": "2026-04-13T02:12:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T03:12:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043512699620090225"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2013209398395752448",
+              "start": 0,
+              "username": "DesireLovet1qi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043512699620090225",
+        "in_reply_to_user_id": "2013209398395752448",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043279893476331915",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DesireLovet1qi 全死了得了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-19T11:20:17.000Z",
+        "description": "小咲/09/od 割/药理/广泛性焦虑 喜欢交朋友 查成分互fo喵！不鉴证^ 但友好一切，没fo私我呀 来找我玩！想到啥发啥非常喜欢评论 上来骂我等于你赢了☺️请理性探讨",
+        "id": "2013209398395752448",
+        "name": "愛歌",
+        "pinned_tweet_id": "2042460888620548527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043464203944747008/Seln5ql5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 178,
+          "like_count": 296,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 304
+        },
+        "username": "DesireLovet1qi",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-29T16:18:26.000Z",
+        "description": "Gg",
+        "id": "1443248707487469575",
+        "name": "595i",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1443248818397478912/ppEqZKr9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 78,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 475
+        },
+        "username": "595i_",
+        "verified": false
+      }
+    ]
+  }
+}

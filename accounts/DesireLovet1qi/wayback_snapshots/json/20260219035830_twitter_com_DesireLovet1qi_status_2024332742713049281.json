@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2013209398395752448",
+    "conversation_id": "2023087293842759838",
+    "created_at": "2026-02-19T03:58:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T04:58:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024332742713049281"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1997495772066324480",
+          "start": 0,
+          "username": "kuma02150128"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024332742713049281",
+    "in_reply_to_user_id": "1997495772066324480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023087293842759838",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kuma02150128 不苦嘛宝宝根本不敢让口水和药混合.."
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5560,
+        "height": 1280,
+        "media_key": "13_2023087236292743168",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2023087236292743168/img/c0Gh2dgSG-abjcDL.jpg",
+        "public_metrics": {
+          "view_count": 149
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2023087236292743168/vid/avc1/320x568/bPKA25AqwiR3dOvw.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2023087236292743168/vid/avc1/480x852/tnXwc72Ix0_b5DnA.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2023087236292743168/vid/avc1/720x1280/XoL4wcayR85cQsU0.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2023087236292743168/pl/v6o6xQQyV7ewMm7w.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013209398395752448",
+        "conversation_id": "2023087293842759838",
+        "created_at": "2026-02-19T03:58:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T04:58:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024332742713049281"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1997495772066324480",
+              "start": 0,
+              "username": "kuma02150128"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024332742713049281",
+        "in_reply_to_user_id": "1997495772066324480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023087293842759838",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuma02150128 不苦嘛宝宝根本不敢让口水和药混合.."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2023087236292743168"
+          ]
+        },
+        "author_id": "1997495772066324480",
+        "conversation_id": "2023087293842759838",
+        "created_at": "2026-02-15T17:29:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T18:29:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023087293842759838"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5vehwzoMGC",
+              "end": 48,
+              "expanded_url": "https://x.com/kuma02150128/status/2023087293842759838/video/1",
+              "media_key": "13_2023087236292743168",
+              "start": 25,
+              "url": "https://t.co/5vehwzoMGC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023087293842759838",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 323,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实我一直都觉得吞药的样子很性感…\n我操谁懂我… https://t.co/5vehwzoMGC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-19T11:20:17.000Z",
+        "description": "小咲/09/od 割/同类fo了就回！很想交朋友都可以来和我玩随机爆金币，想到啥发啥非常喜欢评论",
+        "id": "2013209398395752448",
+        "name": "愛歌",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022474411425910784/CCV0vKhw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 43,
+          "like_count": 130,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 124
+        },
+        "username": "DesireLovet1qi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-07T02:38:15.000Z",
+        "description": "我是kuma！很高兴认识你们！！欢迎找我互fo 🥺/精神状态up/自残/我在努力生活！！！",
+        "id": "1997495772066324480",
+        "location": "熊窝",
+        "name": "ぼくわくま",
+        "pinned_tweet_id": "1997557765410349108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022950546630647808/n-FiQBx2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224,
+          "following_count": 115,
+          "like_count": 1785,
+          "listed_count": 1,
+          "media_count": 116,
+          "tweet_count": 474
+        },
+        "username": "kuma02150128",
+        "verified": false
+      }
+    ]
+  }
+}

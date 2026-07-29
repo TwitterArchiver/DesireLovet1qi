@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2013209398395752448",
+    "conversation_id": "2033502945241936150",
+    "created_at": "2026-03-17T02:06:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T03:06:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033726640212349022"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1324190854085369857",
+          "start": 0,
+          "username": "2541404751Hiko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033726640212349022",
+    "in_reply_to_user_id": "1324190854085369857",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033502945241936150",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2541404751Hiko 买"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013209398395752448",
+        "conversation_id": "2033502945241936150",
+        "created_at": "2026-03-17T02:06:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T03:06:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033726640212349022"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1324190854085369857",
+              "start": 0,
+              "username": "2541404751Hiko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033726640212349022",
+        "in_reply_to_user_id": "1324190854085369857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033502945241936150",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2541404751Hiko 买"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1324190854085369857",
+        "conversation_id": "2033502945241936150",
+        "created_at": "2026-03-16T11:17:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T12:17:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033502945241936150"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2033502945241936150",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1330,
+          "like_count": 16,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "sns 氯硝西泮开售\nsns2盒14t，140r\n氯硝西泮2盒40t，100r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-19T11:20:17.000Z",
+        "description": "小咲/09/od 割/已有主人 想到啥发啥非常喜欢评论 提问箱：https://t.co/1k4V17YOY0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/desirelovet1qi",
+                "end": 55,
+                "expanded_url": "https://ngl.link/desirelovet1qi",
+                "start": 32,
+                "url": "https://t.co/1k4V17YOY0"
+              }
+            ]
+          }
+        },
+        "id": "2013209398395752448",
+        "name": "愛歌",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022474411425910784/CCV0vKhw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 71,
+          "like_count": 237,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 209
+        },
+        "username": "DesireLovet1qi",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-05T03:24:51.000Z",
+        "description": "2002大龄mtf/无证含糖hrt2025.5.18-7.5 8.20-?/178 60/intj/od成瘾/双相二型 解离型人格障碍 ptsd 边缘性人格障碍 状态已完全失控/我要努力做个不割手不自杀的乖孩子/vtuber/画师/制药/此账号封禁后联系@Floraino020717",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 142,
+                "start": 127,
+                "username": "Floraino020717"
+              }
+            ]
+          }
+        },
+        "id": "1324190854085369857",
+        "location": "天堂或地狱",
+        "name": "HYiko🏳️‍⚧️🍥（九命猫）",
+        "pinned_tweet_id": "2027727932089864408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004211053370978304/pjWevk_m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 165,
+          "like_count": 147,
+          "listed_count": 2,
+          "media_count": 47,
+          "tweet_count": 502
+        },
+        "username": "2541404751Hiko",
+        "verified": false
+      }
+    ]
+  }
+}

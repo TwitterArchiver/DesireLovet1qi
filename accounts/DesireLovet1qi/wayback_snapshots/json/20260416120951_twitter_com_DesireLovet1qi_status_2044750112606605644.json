@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2044750083674255361",
+        "3_2044750083753951232"
+      ]
+    },
+    "author_id": "2013209398395752448",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2044750112606605644",
+    "created_at": "2026-04-16T12:09:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T13:09:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044750112606605644"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4Q0M3VwkvY",
+          "end": 41,
+          "expanded_url": "https://x.com/DesireLovet1qi/status/2044750112606605644/photo/1",
+          "media_key": "3_2044750083674255361",
+          "start": 18,
+          "url": "https://t.co/4Q0M3VwkvY"
+        },
+        {
+          "display_url": "pic.x.com/4Q0M3VwkvY",
+          "end": 41,
+          "expanded_url": "https://x.com/DesireLovet1qi/status/2044750112606605644/photo/1",
+          "media_key": "3_2044750083753951232",
+          "start": 18,
+          "url": "https://t.co/4Q0M3VwkvY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044750112606605644",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "嗯对大概就是已经给抽到的宝宝发了耶 https://t.co/4Q0M3VwkvY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1782,
+        "media_key": "3_2044750083674255361",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGBpXhfasAE0vTr.jpg",
+        "width": 1320
+      },
+      {
+        "height": 315,
+        "media_key": "3_2044750083753951232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGBpXhyawAAvdf3.jpg",
+        "width": 886
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044750083674255361",
+            "3_2044750083753951232"
+          ]
+        },
+        "author_id": "2013209398395752448",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2044750112606605644",
+        "created_at": "2026-04-16T12:09:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T13:09:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044750112606605644"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4Q0M3VwkvY",
+              "end": 41,
+              "expanded_url": "https://x.com/DesireLovet1qi/status/2044750112606605644/photo/1",
+              "media_key": "3_2044750083674255361",
+              "start": 18,
+              "url": "https://t.co/4Q0M3VwkvY"
+            },
+            {
+              "display_url": "pic.x.com/4Q0M3VwkvY",
+              "end": 41,
+              "expanded_url": "https://x.com/DesireLovet1qi/status/2044750112606605644/photo/1",
+              "media_key": "3_2044750083753951232",
+              "start": 18,
+              "url": "https://t.co/4Q0M3VwkvY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044750112606605644",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嗯对大概就是已经给抽到的宝宝发了耶 https://t.co/4Q0M3VwkvY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-19T11:20:17.000Z",
+        "description": "小咲/09/od 割/药理/广泛性焦虑 简中/English同类交友 查成分互fo喵！^ 没fo私我呀 来找我玩！想到啥发啥非常喜欢评论 上来骂我=你赢了恭喜毕业☺️请理性探讨 提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/desirelovet1qi",
+                "end": 23,
+                "expanded_url": "https://ngl.link/desirelovet1qi",
+                "start": 0,
+                "url": "https://t.co/1k4V17YOY0"
+              }
+            ]
+          }
+        },
+        "id": "2013209398395752448",
+        "location": "^猫猫天国行くよ^",
+        "name": "愛歌",
+        "pinned_tweet_id": "2044175216386158879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043464203944747008/Seln5ql5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 341,
+          "following_count": 285,
+          "like_count": 372,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 368
+        },
+        "url": "https://t.co/1k4V17YOY0",
+        "username": "DesireLovet1qi",
+        "verified": false
+      }
+    ]
+  }
+}

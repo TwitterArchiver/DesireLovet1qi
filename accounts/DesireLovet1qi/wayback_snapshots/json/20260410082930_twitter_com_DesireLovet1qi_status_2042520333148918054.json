@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2013209398395752448",
+    "conversation_id": "2042107747593023994",
+    "created_at": "2026-04-10T08:29:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T09:29:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042520333148918054"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1596072093073870848",
+          "start": 0,
+          "username": "LjoiVpF2myZozmY"
+        },
+        {
+          "end": 26,
+          "id": "2008420775204896768",
+          "start": 17,
+          "username": "saki7999"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042520333148918054",
+    "in_reply_to_user_id": "1596072093073870848",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042515645020147857",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LjoiVpF2myZozmY @saki7999 我还好能控制住自己"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013209398395752448",
+        "conversation_id": "2042107747593023994",
+        "created_at": "2026-04-10T08:29:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T09:29:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042520333148918054"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1596072093073870848",
+              "start": 0,
+              "username": "LjoiVpF2myZozmY"
+            },
+            {
+              "end": 26,
+              "id": "2008420775204896768",
+              "start": 17,
+              "username": "saki7999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042520333148918054",
+        "in_reply_to_user_id": "1596072093073870848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042515645020147857",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LjoiVpF2myZozmY @saki7999 我还好能控制住自己"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596072093073870848",
+        "conversation_id": "2042107747593023994",
+        "created_at": "2026-04-10T08:10:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T09:10:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042515645020147857"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2013209398395752448",
+              "start": 0,
+              "username": "DesireLovet1qi"
+            },
+            {
+              "end": 25,
+              "id": "2008420775204896768",
+              "start": 16,
+              "username": "saki7999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042515645020147857",
+        "in_reply_to_user_id": "2013209398395752448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042157356411449454",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DesireLovet1qi @saki7999 在学校药效起了不会像那个大傻逼吗🤔🤔🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-19T11:20:17.000Z",
+        "description": "小咲/09/od 割/药理/餐券 喜欢交朋友 查成分互fo喵！没fo私我呀 来找我玩！想到啥发啥非常喜欢评论",
+        "id": "2013209398395752448",
+        "name": "愛歌",
+        "pinned_tweet_id": "2042011047994044708",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022474411425910784/CCV0vKhw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 142,
+          "like_count": 281,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 282
+        },
+        "username": "DesireLovet1qi",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-25T09:23:45.000Z",
+        "description": "/",
+        "id": "1596072093073870848",
+        "name": "C₄H₄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041516274820521985/aMIgSUNS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 5,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 9
+        },
+        "username": "LjoiVpF2myZozmY",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "此人成分复杂一男的",
+        "id": "2008420775204896768",
+        "name": "荼蘼花",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040377325158801408/BOYfFeq2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 33,
+          "like_count": 879,
+          "listed_count": 0,
+          "media_count": 120,
+          "tweet_count": 1183
+        },
+        "username": "saki7999",
+        "verified": false
+      }
+    ]
+  }
+}

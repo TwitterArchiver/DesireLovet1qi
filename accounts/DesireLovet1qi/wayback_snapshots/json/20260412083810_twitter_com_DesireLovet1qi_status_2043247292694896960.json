@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2013209398395752448",
+    "conversation_id": "2043226684791636373",
+    "created_at": "2026-04-12T08:38:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T09:38:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043247292694896960"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1372154768",
+          "start": 0,
+          "username": "taufiqarsyal"
+        },
+        {
+          "end": 19,
+          "id": "1720665183188922368",
+          "start": 14,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043247292694896960",
+    "in_reply_to_user_id": "1372154768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043226684791636373",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@taufiqarsyal @grok 帮我找到原视频"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 500970,
+        "height": 720,
+        "media_key": "13_2043225364458319875",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2043225364458319875/img/aK-4GPwTNdqOBpGm.jpg",
+        "public_metrics": {
+          "view_count": 2621
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2043225364458319875/vid/avc1/470x270/LSss1fABSnmefKvs.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2043225364458319875/vid/avc1/628x360/vBvF2Z0-gcKHt8ua.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2043225364458319875/vid/avc1/1256x720/QORxnX3Wo9DVXjnU.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2043225364458319875/pl/bSRVkaBSfUsCCzBu.m3u8?tag=14"
+          }
+        ],
+        "width": 1256
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013209398395752448",
+        "conversation_id": "2043226684791636373",
+        "created_at": "2026-04-12T08:38:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T09:38:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043247292694896960"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1372154768",
+              "start": 0,
+              "username": "taufiqarsyal"
+            },
+            {
+              "end": 19,
+              "id": "1720665183188922368",
+              "start": 14,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043247292694896960",
+        "in_reply_to_user_id": "1372154768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043226684791636373",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@taufiqarsyal @grok 帮我找到原视频"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2043225364458319875"
+          ]
+        },
+        "author_id": "1372154768",
+        "conversation_id": "2043226684791636373",
+        "created_at": "2026-04-12T07:16:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T08:16:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043226684791636373"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4uPCOxeNAx",
+              "end": 29,
+              "expanded_url": "https://x.com/taufiqarsyal/status/2043226684791636373/video/1",
+              "media_key": "13_2043225364458319875",
+              "start": 6,
+              "url": "https://t.co/4uPCOxeNAx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043226684791636373",
+        "lang": "hi",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 91,
+          "impression_count": 3347,
+          "like_count": 126,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "wataa https://t.co/4uPCOxeNAx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-19T11:20:17.000Z",
+        "description": "小咲/09/od 割/药理/餐券 喜欢交朋友 查成分互fo喵！没fo私我呀 来找我玩！想到啥发啥非常喜欢评论",
+        "id": "2013209398395752448",
+        "name": "愛歌",
+        "pinned_tweet_id": "2042011047994044708",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022474411425910784/CCV0vKhw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 169,
+          "like_count": 286,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 290
+        },
+        "username": "DesireLovet1qi",
+        "verified": false
+      },
+      {
+        "created_at": "2013-04-22T13:33:49.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "c35m.top",
+                "end": 23,
+                "expanded_url": "https://c35m.top",
+                "start": 0,
+                "url": "https://t.co/vJCc2z2Njp"
+              }
+            ]
+          }
+        },
+        "id": "1372154768",
+        "name": "云漓动漫",
+        "pinned_tweet_id": "2042930476818796576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035273238641876996/_YbtNnd6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1562,
+          "following_count": 286,
+          "like_count": 72,
+          "listed_count": 3,
+          "media_count": 10,
+          "tweet_count": 20
+        },
+        "url": "https://t.co/vJCc2z2Njp",
+        "username": "taufiqarsyal",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8500498,
+          "following_count": 4,
+          "like_count": 87,
+          "listed_count": 6585,
+          "media_count": 8810527,
+          "tweet_count": 122312880
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2013209398395752448",
+    "conversation_id": "2018975697109414308",
+    "created_at": "2026-02-05T02:48:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T03:48:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019241629513928735"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1690100855653965824",
+          "start": 0,
+          "username": "iLIc5147"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019241629513928735",
+    "in_reply_to_user_id": "1690100855653965824",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018975697109414308",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iLIc5147 好似"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013209398395752448",
+        "conversation_id": "2018975697109414308",
+        "created_at": "2026-02-05T02:48:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T03:48:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019241629513928735"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1690100855653965824",
+              "start": 0,
+              "username": "iLIc5147"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019241629513928735",
+        "in_reply_to_user_id": "1690100855653965824",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018975697109414308",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iLIc5147 好似"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1690100855653965824",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "2018975697109414308",
+        "created_at": "2026-02-04T09:11:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T10:11:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018975697109414308"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/YesterdayBigca…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/YesterdayBigcat/status/2018947852580405758",
+              "start": 49,
+              "url": "https://t.co/hqBSFLVvN4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018975697109414308",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 515,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018947852580405758",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我草，50秒的聊天记录如果是真的，真是谁家毛泽东转世了。\n哪个教官不小心把真左抓进去了，直接开除 https://t.co/hqBSFLVvN4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-19T11:20:17.000Z",
+        "description": "小咲/ 碎碎念和一些od相关 无雷我是很温良女子来和我互fo 刷推喜欢评论点赞..",
+        "id": "2013209398395752448",
+        "name": "愛歌",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013210516924309504/3Fq2z9qs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 20,
+          "like_count": 40,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 62
+        },
+        "username": "DesireLovet1qi",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-11T20:40:59.000Z",
+        "description": "我的人生被临期药毁了我的人生被临期药毁了我的人生被临期药毁了我的人生被临期药毁了我的人生被临期药毁了我的人生被临期药毁了我的人生被临期药毁了我的人生被临期药毁了我的人生被临期药毁了我的人生被临期药毁了我的人生被临期药毁了我的人生被临期药毁了我的人生被临期药毁了我的人生被临期药毁了我的人生被临期药毁了我的人生被临期药毁了",
+        "id": "1690100855653965824",
+        "location": "我的人生被临期药毁了我的人生被临期药毁了我的人生被临期药毁了",
+        "name": "伍伊斯基（pr过期版）",
+        "pinned_tweet_id": "2018333613646049344",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018333180881936384/Go7zIslt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1037,
+          "following_count": 591,
+          "like_count": 26777,
+          "listed_count": 7,
+          "media_count": 997,
+          "tweet_count": 14815
+        },
+        "username": "iLIc5147",
+        "verified": false
+      }
+    ]
+  }
+}

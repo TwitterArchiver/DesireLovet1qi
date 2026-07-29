@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2021444423905878016"
+      ],
+      "media_source_tweet_id": [
+        "2021444451634462766"
+      ]
+    },
+    "author_id": "2013209398395752448",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2022174698063397319",
+    "created_at": "2026-02-13T05:03:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T06:03:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022174698063397319"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 20,
+          "start": 14,
+          "tag": "shtwt"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1753556247058472962",
+          "start": 3,
+          "username": "boillnes"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/T427fA7HUk",
+          "end": 44,
+          "expanded_url": "https://x.com/boillnes/status/2021444451634462766/video/1",
+          "media_key": "7_2021444423905878016",
+          "start": 21,
+          "url": "https://t.co/T427fA7HUk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022174698063397319",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 334
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021444451634462766",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @boillnes: #shtwt https://t.co/T427fA7HUk"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2022174698063397319].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2022174698063397319",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2022174698063397319"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7105,
+        "height": 1280,
+        "media_key": "7_2021444423905878016",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2021444423905878016/pu/img/EhMcIwjCRQF-fL2h.jpg",
+        "public_metrics": {
+          "view_count": 4330
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2021444423905878016/pu/vid/avc1/320x568/Mmv_ut280qVnWWlv.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2021444423905878016/pu/vid/avc1/480x852/w44_Yw1mAzeWNnLB.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2021444423905878016/pu/vid/avc1/720x1280/MoeE99Z9ivhSXGrn.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2021444423905878016/pu/pl/vJ7TiSybufnT2myT.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2021444423905878016"
+          ]
+        },
+        "author_id": "1753556247058472962",
+        "conversation_id": "2021444451634462766",
+        "created_at": "2026-02-11T04:41:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T05:41:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021444451634462766"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "shtwt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/T427fA7HUk",
+              "end": 30,
+              "expanded_url": "https://x.com/boillnes/status/2021444451634462766/video/1",
+              "media_key": "7_2021444423905878016",
+              "start": 7,
+              "url": "https://t.co/T427fA7HUk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021444451634462766",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 344,
+          "impression_count": 12965,
+          "like_count": 1701,
+          "quote_count": 7,
+          "reply_count": 27,
+          "retweet_count": 334
+        },
+        "reply_settings": "everyone",
+        "text": "#shtwt https://t.co/T427fA7HUk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-19T11:20:17.000Z",
+        "description": "小咲/ 碎碎念和一些od相关 无雷我是很温良女子来和我互fo 刷推喜欢评论点赞..",
+        "id": "2013209398395752448",
+        "name": "愛歌",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013210516924309504/3Fq2z9qs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 24,
+          "like_count": 60,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 83
+        },
+        "username": "DesireLovet1qi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-02T23:10:35.000Z",
+        "description": "*none of my post are mine.\n#shtwt #goretwt  !         he/him",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 33,
+                "start": 27,
+                "tag": "shtwt"
+              },
+              {
+                "end": 42,
+                "start": 34,
+                "tag": "goretwt"
+              }
+            ]
+          }
+        },
+        "id": "1753556247058472962",
+        "location": "confetti confetti confetti ",
+        "name": "iboi",
+        "pinned_tweet_id": "2013881664191988036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013890080004333568/fb6bmK69_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6802,
+          "following_count": 73,
+          "like_count": 4741,
+          "listed_count": 10,
+          "media_count": 274,
+          "tweet_count": 1240
+        },
+        "username": "boillnes",
+        "verified": false
+      }
+    ]
+  }
+}

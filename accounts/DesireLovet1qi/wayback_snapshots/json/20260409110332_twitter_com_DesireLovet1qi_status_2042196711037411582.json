@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2013209398395752448",
+    "conversation_id": "2042011047994044708",
+    "created_at": "2026-04-09T11:03:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T12:03:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042196711037411582"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1946240021696040961",
+          "start": 0,
+          "username": "Noverdose_DBD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042196711037411582",
+    "in_reply_to_user_id": "1946240021696040961",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042196085670920518",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Noverdose_DBD 病友也好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013209398395752448",
+        "conversation_id": "2042011047994044708",
+        "created_at": "2026-04-09T11:03:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T12:03:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042196711037411582"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1946240021696040961",
+              "start": 0,
+              "username": "Noverdose_DBD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042196711037411582",
+        "in_reply_to_user_id": "1946240021696040961",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042196085670920518",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Noverdose_DBD 病友也好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946240021696040961",
+        "conversation_id": "2042011047994044708",
+        "created_at": "2026-04-09T11:01:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T12:01:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042196085670920518"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2013209398395752448",
+              "start": 0,
+              "username": "DesireLovet1qi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042196085670920518",
+        "in_reply_to_user_id": "2013209398395752448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042011047994044708",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DesireLovet1qi 中推没有朋友只有病友和违法者，我建议找个内网圈子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-19T11:20:17.000Z",
+        "description": "小咲/09/od 割/喜欢交朋友 互fo 来找我玩！想到啥发啥非常喜欢评论 提问箱：https://t.co/1k4V17YOY0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/desirelovet1qi",
+                "end": 65,
+                "expanded_url": "https://ngl.link/desirelovet1qi",
+                "start": 42,
+                "url": "https://t.co/1k4V17YOY0"
+              }
+            ]
+          }
+        },
+        "id": "2013209398395752448",
+        "name": "愛歌",
+        "pinned_tweet_id": "2042011047994044708",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022474411425910784/CCV0vKhw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 108,
+          "like_count": 268,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 266
+        },
+        "username": "DesireLovet1qi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-18T16:06:07.000Z",
+        "description": "该页面触犯了中华人民共和国刑法",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Noverdose_DBD",
+                "end": 23,
+                "expanded_url": "http://t.me/Noverdose_DBD",
+                "start": 0,
+                "url": "https://t.co/P1KKvJSoY1"
+              }
+            ]
+          }
+        },
+        "id": "1946240021696040961",
+        "location": "终之空",
+        "name": "违法百科",
+        "pinned_tweet_id": "2034529964557808079",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041593174582308865/8D_qw6Fq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1368,
+          "following_count": 244,
+          "like_count": 938,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 748
+        },
+        "url": "https://t.co/P1KKvJSoY1",
+        "username": "Noverdose_DBD",
+        "verified": false
+      }
+    ]
+  }
+}

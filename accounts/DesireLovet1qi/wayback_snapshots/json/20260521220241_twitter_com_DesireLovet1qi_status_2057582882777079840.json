@@ -1,0 +1,345 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057439249625141248",
+        "3_2057439249625165824"
+      ],
+      "media_source_tweet_id": [
+        "2057439259368587603",
+        "2057439259368587603"
+      ]
+    },
+    "author_id": "2013209398395752448",
+    "conversation_id": "2057582882777079840",
+    "created_at": "2026-05-21T22:02:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T23:02:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057582882777079840"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 43,
+          "start": 39,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 48,
+          "start": 44,
+          "tag": "爸爸活"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1688104374042836992",
+          "start": 3,
+          "username": "ovocaize"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yNbaauiWgh",
+          "end": 72,
+          "expanded_url": "https://x.com/ovocaize/status/2057439259368587603/photo/1",
+          "media_key": "3_2057439249625141248",
+          "start": 49,
+          "url": "https://t.co/yNbaauiWgh"
+        },
+        {
+          "display_url": "pic.x.com/yNbaauiWgh",
+          "end": 72,
+          "expanded_url": "https://x.com/ovocaize/status/2057439259368587603/photo/1",
+          "media_key": "3_2057439249625165824",
+          "start": 49,
+          "url": "https://t.co/yNbaauiWgh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057582882777079840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057439259368587603",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ovocaize: 我又开始了。求互转呀爸爸妈妈们。不接线下。可验证。#门槛妹 #爸爸活 https://t.co/yNbaauiWgh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1342,
+        "media_key": "3_2057439249625141248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI1-GMTaUAA6NA1.jpg",
+        "width": 1242
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2057439249625165824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI1-GMTasAAxMYY.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057439249625141248",
+            "3_2057439249625165824"
+          ],
+          "media_source_tweet_id": [
+            "2057439259368587603",
+            "2057439259368587603"
+          ]
+        },
+        "author_id": "2013209398395752448",
+        "conversation_id": "2057582882777079840",
+        "created_at": "2026-05-21T22:02:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T23:02:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057582882777079840"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 43,
+              "start": 39,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 48,
+              "start": 44,
+              "tag": "爸爸活"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1688104374042836992",
+              "start": 3,
+              "username": "ovocaize"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yNbaauiWgh",
+              "end": 72,
+              "expanded_url": "https://x.com/ovocaize/status/2057439259368587603/photo/1",
+              "media_key": "3_2057439249625141248",
+              "start": 49,
+              "url": "https://t.co/yNbaauiWgh"
+            },
+            {
+              "display_url": "pic.x.com/yNbaauiWgh",
+              "end": 72,
+              "expanded_url": "https://x.com/ovocaize/status/2057439259368587603/photo/1",
+              "media_key": "3_2057439249625165824",
+              "start": 49,
+              "url": "https://t.co/yNbaauiWgh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057582882777079840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057439259368587603",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ovocaize: 我又开始了。求互转呀爸爸妈妈们。不接线下。可验证。#门槛妹 #爸爸活 https://t.co/yNbaauiWgh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057439249625141248",
+            "3_2057439249625165824"
+          ]
+        },
+        "author_id": "1688104374042836992",
+        "conversation_id": "2057439259368587603",
+        "created_at": "2026-05-21T12:31:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T13:31:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057439259368587603"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 25,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 34,
+              "start": 30,
+              "tag": "爸爸活"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yNbaauiWgh",
+              "end": 58,
+              "expanded_url": "https://x.com/ovocaize/status/2057439259368587603/photo/1",
+              "media_key": "3_2057439249625141248",
+              "start": 35,
+              "url": "https://t.co/yNbaauiWgh"
+            },
+            {
+              "display_url": "pic.x.com/yNbaauiWgh",
+              "end": 58,
+              "expanded_url": "https://x.com/ovocaize/status/2057439259368587603/photo/1",
+              "media_key": "3_2057439249625165824",
+              "start": 35,
+              "url": "https://t.co/yNbaauiWgh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057439259368587603",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1981,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "我又开始了。求互转呀爸爸妈妈们。不接线下。可验证。#门槛妹 #爸爸活 https://t.co/yNbaauiWgh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-19T11:20:17.000Z",
+        "description": "小咲/09/od 割/药理/重焦重抑  简中/English同类交友 查成分互fo喵！^ 没fo私我呀 来找我玩！想到啥发啥非常喜欢评论 上来骂我=你赢了恭喜毕业☺️请理性探讨 提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/desirelovet1qi",
+                "end": 23,
+                "expanded_url": "https://ngl.link/desirelovet1qi",
+                "start": 0,
+                "url": "https://t.co/1k4V17YOY0"
+              }
+            ]
+          }
+        },
+        "id": "2013209398395752448",
+        "location": "^猫猫天国行くよ^",
+        "name": "愛歌",
+        "pinned_tweet_id": "2044175216386158879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043464203944747008/Seln5ql5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 495,
+          "following_count": 353,
+          "like_count": 471,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 515
+        },
+        "url": "https://t.co/1k4V17YOY0",
+        "username": "DesireLovet1qi",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-06T08:27:09.000Z",
+        "description": "妈妈 @Naijin66998/我不线下我不线下不要来问非绿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Naijin66998"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gogochun",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gogochun",
+                "start": 0,
+                "url": "https://t.co/rMh869vg8F"
+              }
+            ]
+          }
+        },
+        "id": "1688104374042836992",
+        "name": "鼠灭龙",
+        "pinned_tweet_id": "2057439259368587603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051701010310307840/P6Anfarv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 332,
+          "following_count": 235,
+          "like_count": 9441,
+          "listed_count": 1,
+          "media_count": 157,
+          "tweet_count": 2479
+        },
+        "url": "https://t.co/rMh869vg8F",
+        "username": "ovocaize",
+        "verified": false
+      }
+    ]
+  }
+}

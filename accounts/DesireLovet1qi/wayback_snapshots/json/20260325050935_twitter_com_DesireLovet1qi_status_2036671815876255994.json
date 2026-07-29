@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2013209398395752448",
+    "conversation_id": "2036671815876255994",
+    "created_at": "2026-03-25T05:09:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T06:09:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036671815876255994"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1855822524673900544",
+          "start": 3,
+          "username": "HaraYayoiii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036671815876255994",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036660850761863644",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HaraYayoiii: 决定提前开抽奖！好多人fo我太开心了\n一等奖1位:橙普一盒（折现33\n二等奖2位:晚安一盒（折现25\n三等奖5位:鱼丑一盒（折现15\n转发评论参与(´-ω-`)\n200fo开奖 可能会晚一点因为最近比较忙"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013209398395752448",
+        "conversation_id": "2036671815876255994",
+        "created_at": "2026-03-25T05:09:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T06:09:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036671815876255994"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1855822524673900544",
+              "start": 3,
+              "username": "HaraYayoiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036671815876255994",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036660850761863644",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HaraYayoiii: 决定提前开抽奖！好多人fo我太开心了\n一等奖1位:橙普一盒（折现33\n二等奖2位:晚安一盒（折现25\n三等奖5位:鱼丑一盒（折现15\n转发评论参与(´-ω-`)\n200fo开奖 可能会晚一点因为最近比较忙"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1855822524673900544",
+        "conversation_id": "2036660850761863644",
+        "created_at": "2026-03-25T04:26:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T05:26:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036660850761863644"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036660850761863644",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 193,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "决定提前开抽奖！好多人fo我太开心了\n一等奖1位:橙普一盒（折现33\n二等奖2位:晚安一盒（折现25\n三等奖5位:鱼丑一盒（折现15\n转发评论参与(´-ω-`)\n200fo开奖 可能会晚一点因为最近比较忙"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-19T11:20:17.000Z",
+        "description": "小咲/09/od 割/喜欢交朋友 互fo 来找我玩！想到啥发啥非常喜欢评论 提问箱：https://t.co/1k4V17YOY0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/desirelovet1qi",
+                "end": 65,
+                "expanded_url": "https://ngl.link/desirelovet1qi",
+                "start": 42,
+                "url": "https://t.co/1k4V17YOY0"
+              }
+            ]
+          }
+        },
+        "id": "2013209398395752448",
+        "name": "愛歌",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022474411425910784/CCV0vKhw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 82,
+          "like_count": 239,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 239
+        },
+        "username": "DesireLovet1qi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-11T03:59:12.000Z",
+        "description": "MHA相澤消太全否定全肯定，🚪52",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pome.vip/Yayoii",
+                "end": 23,
+                "expanded_url": "https://www.pome.vip/Yayoii",
+                "start": 0,
+                "url": "https://t.co/iSiJbWDMVR"
+              }
+            ]
+          }
+        },
+        "id": "1855822524673900544",
+        "location": "原点",
+        "name": "HaraYayoi",
+        "pinned_tweet_id": "2034181821785595929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960388138033180672/grf-sfv8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 106,
+          "like_count": 631,
+          "listed_count": 0,
+          "media_count": 123,
+          "tweet_count": 1479
+        },
+        "url": "https://t.co/iSiJbWDMVR",
+        "username": "HaraYayoiii",
+        "verified": false
+      }
+    ]
+  }
+}

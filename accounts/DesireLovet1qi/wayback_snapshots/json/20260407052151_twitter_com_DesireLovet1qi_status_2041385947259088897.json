@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2013209398395752448",
+    "conversation_id": "2041382011655631033",
+    "created_at": "2026-04-07T05:21:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T06:21:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041385947259088897"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1782247418353926145",
+          "start": 0,
+          "username": "saaaki1_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041385947259088897",
+    "in_reply_to_user_id": "1782247418353926145",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041385754786771088",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@saaaki1_ 我也不想麦b但是想了一下好像除了麦b没法养活自己"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013209398395752448",
+        "conversation_id": "2041382011655631033",
+        "created_at": "2026-04-07T05:21:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T06:21:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041385947259088897"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1782247418353926145",
+              "start": 0,
+              "username": "saaaki1_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041385947259088897",
+        "in_reply_to_user_id": "1782247418353926145",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041385754786771088",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@saaaki1_ 我也不想麦b但是想了一下好像除了麦b没法养活自己"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782247418353926145",
+        "conversation_id": "2041382011655631033",
+        "created_at": "2026-04-07T05:21:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T06:21:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041385754786771088"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2013209398395752448",
+              "start": 0,
+              "username": "DesireLovet1qi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041385754786771088",
+        "in_reply_to_user_id": "2013209398395752448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041382011655631033",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DesireLovet1qi 我就这样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-19T11:20:17.000Z",
+        "description": "小咲/09/od 割/喜欢交朋友 互fo 来找我玩！想到啥发啥非常喜欢评论 提问箱：https://t.co/1k4V17YOY0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/desirelovet1qi",
+                "end": 65,
+                "expanded_url": "https://ngl.link/desirelovet1qi",
+                "start": 42,
+                "url": "https://t.co/1k4V17YOY0"
+              }
+            ]
+          }
+        },
+        "id": "2013209398395752448",
+        "name": "愛歌",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022474411425910784/CCV0vKhw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 82,
+          "like_count": 251,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 248
+        },
+        "username": "DesireLovet1qi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-22T03:18:13.000Z",
+        "description": "叫我言言/saki 欢迎匿名提问",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sakxxx_w0e",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sakxxx_w0e",
+                "start": 0,
+                "url": "https://t.co/BzSfgR3PFy"
+              }
+            ]
+          }
+        },
+        "id": "1782247418353926145",
+        "name": "kikiller",
+        "pinned_tweet_id": "2040857704349188227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966741918119079936/TkCTCvVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2261,
+          "following_count": 433,
+          "like_count": 16220,
+          "listed_count": 5,
+          "media_count": 330,
+          "tweet_count": 9495
+        },
+        "url": "https://t.co/BzSfgR3PFy",
+        "username": "saaaki1_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-22T03:18:13.000Z",
+        "description": "叫我言言/saki 欢迎匿名提问",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sakxxx_w0e",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sakxxx_w0e",
+                "start": 0,
+                "url": "https://t.co/BzSfgR3PFy"
+              }
+            ]
+          }
+        },
+        "id": "1782247418353926145",
+        "name": "kikiller",
+        "pinned_tweet_id": "2040857704349188227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966741918119079936/TkCTCvVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2261,
+          "following_count": 433,
+          "like_count": 16220,
+          "listed_count": 5,
+          "media_count": 330,
+          "tweet_count": 9495
+        },
+        "url": "https://t.co/BzSfgR3PFy",
+        "username": "saaaki1_",
+        "verified": true
+      }
+    ]
+  }
+}

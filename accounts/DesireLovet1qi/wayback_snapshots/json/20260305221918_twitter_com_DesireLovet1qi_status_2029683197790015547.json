@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2013209398395752448",
+    "conversation_id": "2029132143062884533",
+    "created_at": "2026-03-05T22:19:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-05T23:19:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029683197790015547"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1946240021696040961",
+          "start": 0,
+          "username": "odday_official"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029683197790015547",
+    "in_reply_to_user_id": "1946240021696040961",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029132143062884533",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@odday_official 所以到底是晚安好还是美金刚好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013209398395752448",
+        "conversation_id": "2029132143062884533",
+        "created_at": "2026-03-05T22:19:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T23:19:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029683197790015547"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1946240021696040961",
+              "start": 0,
+              "username": "odday_official"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029683197790015547",
+        "in_reply_to_user_id": "1946240021696040961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029132143062884533",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@odday_official 所以到底是晚安好还是美金刚好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946240021696040961",
+        "conversation_id": "2029132143062884533",
+        "created_at": "2026-03-04T09:49:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T10:49:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029132143062884533"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2029132143062884533",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 835,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "为什么苯海拉明和金刚烷胺可以加入od药物，金刚烷胺不用太大的剂量就可以导致抗胆碱中毒，苯海拉明虽然需要大剂量但是有抗组胺镇静吃完就睡，这两种药都不建议超过量，超过1g就需要去医院，相比之下美金刚很安全（2g也没事），这就是为什么有人鼓吹美金刚，美金刚的长药效脑泡还有交感神经异常是傻逼。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-19T11:20:17.000Z",
+        "description": "小咲/09/od 割/同类fo了就回！友好一切..很想交朋友欢迎来找我玩随机爆金币，想到啥发啥非常喜欢评论 提问箱：https://t.co/1k4V17YOY0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/desirelovet1qi",
+                "end": 81,
+                "expanded_url": "https://ngl.link/desirelovet1qi",
+                "start": 58,
+                "url": "https://t.co/1k4V17YOY0"
+              }
+            ]
+          }
+        },
+        "id": "2013209398395752448",
+        "name": "愛歌",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022474411425910784/CCV0vKhw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 65,
+          "like_count": 221,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 194
+        },
+        "username": "DesireLovet1qi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-18T16:06:07.000Z",
+        "description": "💊\noverdoseに集中しています............",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fayou.sbs",
+                "end": 23,
+                "expanded_url": "http://fayou.sbs",
+                "start": 0,
+                "url": "https://t.co/tIuGV3nGTI"
+              }
+            ]
+          }
+        },
+        "id": "1946240021696040961",
+        "location": "终之空",
+        "name": "超法友百科.ver",
+        "pinned_tweet_id": "2027962506409312409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984269351256473600/z_4Rg7td_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1041,
+          "following_count": 159,
+          "like_count": 695,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 442
+        },
+        "url": "https://t.co/tIuGV3nGTI",
+        "username": "odday_official",
+        "verified": false
+      }
+    ]
+  }
+}

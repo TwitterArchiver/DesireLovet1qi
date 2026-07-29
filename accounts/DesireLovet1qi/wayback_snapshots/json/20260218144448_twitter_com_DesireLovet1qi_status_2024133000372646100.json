@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2013209398395752448",
+    "conversation_id": "2023996210957201832",
+    "created_at": "2026-02-18T14:44:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T15:44:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024133000372646100"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1916824571128287232",
+          "start": 0,
+          "username": "Spr1ngWlnd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024133000372646100",
+    "in_reply_to_user_id": "1916824571128287232",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023996210957201832",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Spr1ngWlnd 一瓶可以o几次呀大概"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1112,
+        "media_key": "3_2023996206758981633",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBat05KbcAEy23E.jpg",
+        "width": 720
+      },
+      {
+        "height": 1000,
+        "media_key": "3_2023996206398271489",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBat030bcAEWZr6.jpg",
+        "width": 1000
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2023996206536667136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBat04VbMAA5_L5.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013209398395752448",
+        "conversation_id": "2023996210957201832",
+        "created_at": "2026-02-18T14:44:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T15:44:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024133000372646100"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1916824571128287232",
+              "start": 0,
+              "username": "Spr1ngWlnd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024133000372646100",
+        "in_reply_to_user_id": "1916824571128287232",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023996210957201832",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Spr1ngWlnd 一瓶可以o几次呀大概"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023996206758981633",
+            "3_2023996206398271489",
+            "3_2023996206536667136"
+          ]
+        },
+        "author_id": "1916824571128287232",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596740190208",
+              "name": "CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027048428",
+              "name": "Delsym"
+            }
+          }
+        ],
+        "conversation_id": "2023996210957201832",
+        "created_at": "2026-02-18T05:41:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T06:41:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023996210957201832"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lfR6lbltr2",
+              "end": 67,
+              "expanded_url": "https://x.com/Spr1ngWlnd/status/2023996210957201832/photo/1",
+              "media_key": "3_2023996206758981633",
+              "start": 44,
+              "url": "https://t.co/lfR6lbltr2"
+            },
+            {
+              "display_url": "pic.x.com/lfR6lbltr2",
+              "end": 67,
+              "expanded_url": "https://x.com/Spr1ngWlnd/status/2023996210957201832/photo/1",
+              "media_key": "3_2023996206398271489",
+              "start": 44,
+              "url": "https://t.co/lfR6lbltr2"
+            },
+            {
+              "display_url": "pic.x.com/lfR6lbltr2",
+              "end": 67,
+              "expanded_url": "https://x.com/Spr1ngWlnd/status/2023996210957201832/photo/1",
+              "media_key": "3_2023996206536667136",
+              "start": 44,
+              "url": "https://t.co/lfR6lbltr2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023996210957201832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 2208,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "Delsym 单方dxm糖浆\n5ML含有30mg成分\n能用  不苦 橘子味\n购买在淘宝 https://t.co/lfR6lbltr2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-19T11:20:17.000Z",
+        "description": "小咲/09/od 割/同类fo了就回！很想交朋友都可以来和我玩随机爆金币，想到啥发啥非常喜欢评论",
+        "id": "2013209398395752448",
+        "name": "愛歌",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022474411425910784/CCV0vKhw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 40,
+          "like_count": 116,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 120
+        },
+        "username": "DesireLovet1qi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-28T11:59:48.000Z",
+        "description": "谨以此号，纪念我的童年，那是一段小有遗憾的幸福时光...",
+        "id": "1916824571128287232",
+        "location": "Japan",
+        "name": "Spring风#物质研究版",
+        "pinned_tweet_id": "2023996995975684451",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023980914729254912/9d2mun2U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 17,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 13
+        },
+        "username": "Spr1ngWlnd",
+        "verified": false
+      }
+    ]
+  }
+}

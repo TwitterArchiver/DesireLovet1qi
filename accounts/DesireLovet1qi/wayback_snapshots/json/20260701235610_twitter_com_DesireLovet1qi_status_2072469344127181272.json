@@ -1,0 +1,379 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2013209398395752448",
+    "conversation_id": "2072469344127181272",
+    "created_at": "2026-07-01T23:56:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T00:56:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072469344127181272"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 98,
+          "start": 94,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 103,
+          "start": 99,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 109,
+          "start": 104,
+          "tag": "线下约会"
+        },
+        {
+          "end": 113,
+          "start": 110,
+          "tag": "白丝"
+        },
+        {
+          "end": 116,
+          "start": 114,
+          "tag": "m"
+        },
+        {
+          "end": 120,
+          "start": 117,
+          "tag": "包养"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2062190597423923200",
+          "start": 3,
+          "username": "xuanxuan17443"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/jP5IK",
+          "end": 139,
+          "start": 121,
+          "url": "https://t.co/jP5IK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072469344127181272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071616496510672914",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xuanxuan17443: 08身体原因休学女高，接纯绿半绿线下，非绿线下 入门是为了治病吃和生活，爱我请给我入🚪='人'=\n窝很会提供情绪价值哒！欢迎女宝宝们来找我互关互fo #门槛妹 #爸爸活 #线下约会 #白丝 #m #包养 https://t.co/jP5IK…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1365,
+        "media_key": "3_2071616473353814016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL_cNOUaAAAYCS0.jpg",
+        "width": 1024
+      },
+      {
+        "height": 770,
+        "media_key": "3_2071616473370611712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL_cNOYaUAASD7A.jpg",
+        "width": 1024
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2071616474092130304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL_cNREb0AAJxiC.jpg",
+        "width": 2048
+      },
+      {
+        "height": 590,
+        "media_key": "3_2071616473370632192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL_cNOYaoAAD_H4.jpg",
+        "width": 1180
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013209398395752448",
+        "conversation_id": "2072469344127181272",
+        "created_at": "2026-07-01T23:56:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T00:56:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072469344127181272"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 98,
+              "start": 94,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 103,
+              "start": 99,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 109,
+              "start": 104,
+              "tag": "线下约会"
+            },
+            {
+              "end": 113,
+              "start": 110,
+              "tag": "白丝"
+            },
+            {
+              "end": 116,
+              "start": 114,
+              "tag": "m"
+            },
+            {
+              "end": 120,
+              "start": 117,
+              "tag": "包养"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2062190597423923200",
+              "start": 3,
+              "username": "xuanxuan17443"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/jP5IK",
+              "end": 139,
+              "start": 121,
+              "url": "https://t.co/jP5IK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072469344127181272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071616496510672914",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xuanxuan17443: 08身体原因休学女高，接纯绿半绿线下，非绿线下 入门是为了治病吃和生活，爱我请给我入🚪='人'=\n窝很会提供情绪价值哒！欢迎女宝宝们来找我互关互fo #门槛妹 #爸爸活 #线下约会 #白丝 #m #包养 https://t.co/jP5IK…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071616473353814016",
+            "3_2071616473370611712",
+            "3_2071616474092130304",
+            "3_2071616473370632192"
+          ]
+        },
+        "author_id": "2062190597423923200",
+        "conversation_id": "2071616496510672914",
+        "created_at": "2026-06-29T15:27:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T16:27:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071616496510672914"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 79,
+              "start": 75,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 84,
+              "start": 80,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 90,
+              "start": 85,
+              "tag": "线下约会"
+            },
+            {
+              "end": 94,
+              "start": 91,
+              "tag": "白丝"
+            },
+            {
+              "end": 97,
+              "start": 95,
+              "tag": "m"
+            },
+            {
+              "end": 101,
+              "start": 98,
+              "tag": "包养"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jP5IKRmMXP",
+              "end": 125,
+              "expanded_url": "https://x.com/xuanxuan17443/status/2071616496510672914/photo/1",
+              "media_key": "3_2071616473353814016",
+              "start": 102,
+              "url": "https://t.co/jP5IKRmMXP"
+            },
+            {
+              "display_url": "pic.x.com/jP5IKRmMXP",
+              "end": 125,
+              "expanded_url": "https://x.com/xuanxuan17443/status/2071616496510672914/photo/1",
+              "media_key": "3_2071616473370611712",
+              "start": 102,
+              "url": "https://t.co/jP5IKRmMXP"
+            },
+            {
+              "display_url": "pic.x.com/jP5IKRmMXP",
+              "end": 125,
+              "expanded_url": "https://x.com/xuanxuan17443/status/2071616496510672914/photo/1",
+              "media_key": "3_2071616474092130304",
+              "start": 102,
+              "url": "https://t.co/jP5IKRmMXP"
+            },
+            {
+              "display_url": "pic.x.com/jP5IKRmMXP",
+              "end": 125,
+              "expanded_url": "https://x.com/xuanxuan17443/status/2071616496510672914/photo/1",
+              "media_key": "3_2071616473370632192",
+              "start": 102,
+              "url": "https://t.co/jP5IKRmMXP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071616496510672914",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 979,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "08身体原因休学女高，接纯绿半绿线下，非绿线下 入门是为了治病吃和生活，爱我请给我入🚪='人'=\n窝很会提供情绪价值哒！欢迎女宝宝们来找我互关互fo #门槛妹 #爸爸活 #线下约会 #白丝 #m #包养 https://t.co/jP5IKRmMXP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-19T11:20:17.000Z",
+        "description": "小咲/09/o/药理/重焦重抑 简中/English同类交友 查成分互fo喵！^ 没fo私我呀 来找我玩！主页药物均为合法渠道获取 想到啥发啥 上来骂我=你赢了☺️\n🚪52/88/128 赚点钱买药🥲\n粥好友免费扩～\n请理性探讨 提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/desirelovet1qi",
+                "end": 23,
+                "expanded_url": "https://ngl.link/desirelovet1qi",
+                "start": 0,
+                "url": "https://t.co/1k4V17YOY0"
+              }
+            ]
+          }
+        },
+        "id": "2013209398395752448",
+        "location": "^猫猫天国行くよ^",
+        "name": "愛歌",
+        "pinned_tweet_id": "2068551593046446370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043464203944747008/Seln5ql5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 817,
+          "following_count": 436,
+          "like_count": 587,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 687
+        },
+        "url": "https://t.co/1k4V17YOY0",
+        "username": "DesireLovet1qi",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-03T15:12:16.000Z",
+        "description": "@这里是轩轩 喜欢我请过门叭ww 支持口令和赞赏码@请多多爱我吧 我超会提供情绪价值哒* 🚪168/288/520/1314/2888/5200",
+        "id": "2062190597423923200",
+        "name": "轩轩sama",
+        "pinned_tweet_id": "2071616496510672914",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064543255732293632/9j9qHL1l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 365,
+          "following_count": 6,
+          "like_count": 5,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 92
+        },
+        "url": "",
+        "username": "xuanxuan17443",
+        "verified": true
+      }
+    ]
+  }
+}

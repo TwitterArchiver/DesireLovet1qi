@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2022798776314875904"
+      ],
+      "media_source_tweet_id": [
+        "2022798793452753227"
+      ]
+    },
+    "author_id": "2013209398395752448",
+    "conversation_id": "2024136292968104312",
+    "created_at": "2026-02-18T14:57:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T15:57:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024136292968104312"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1505212202822815752",
+          "start": 3,
+          "username": "thematrixwizard"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/o57Tkcwbas",
+          "end": 44,
+          "expanded_url": "https://x.com/thematrixwizard/status/2022798793452753227/photo/1",
+          "media_key": "16_2022798776314875904",
+          "start": 21,
+          "url": "https://t.co/o57Tkcwbas"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024136292968104312",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1847
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022798793452753227",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @thematrixwizard: https://t.co/o57Tkcwbas"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 700,
+        "media_key": "16_2022798776314875904",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HBJsxRJX0AAC4hA.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HBJsxRJX0AAC4hA.mp4"
+          }
+        ],
+        "width": 700
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2022798776314875904"
+          ],
+          "media_source_tweet_id": [
+            "2022798793452753227"
+          ]
+        },
+        "author_id": "2013209398395752448",
+        "conversation_id": "2024136292968104312",
+        "created_at": "2026-02-18T14:57:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T15:57:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024136292968104312"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1505212202822815752",
+              "start": 3,
+              "username": "thematrixwizard"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/o57Tkcwbas",
+              "end": 44,
+              "expanded_url": "https://x.com/thematrixwizard/status/2022798793452753227/photo/1",
+              "media_key": "16_2022798776314875904",
+              "start": 21,
+              "url": "https://t.co/o57Tkcwbas"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024136292968104312",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1847
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022798793452753227",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @thematrixwizard: https://t.co/o57Tkcwbas"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2022798776314875904"
+          ]
+        },
+        "author_id": "1505212202822815752",
+        "conversation_id": "2022798793452753227",
+        "created_at": "2026-02-14T22:23:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T23:23:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022798793452753227"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/o57Tkcwbas",
+              "end": 23,
+              "expanded_url": "https://x.com/thematrixwizard/status/2022798793452753227/photo/1",
+              "media_key": "16_2022798776314875904",
+              "start": 0,
+              "url": "https://t.co/o57Tkcwbas"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022798793452753227",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2986,
+          "impression_count": 3376095,
+          "like_count": 8908,
+          "quote_count": 385,
+          "reply_count": 51,
+          "retweet_count": 1847
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/o57Tkcwbas"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-19T11:20:17.000Z",
+        "description": "小咲/09/od 割/同类fo了就回！很想交朋友都可以来和我玩随机爆金币，想到啥发啥非常喜欢评论",
+        "id": "2013209398395752448",
+        "name": "愛歌",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022474411425910784/CCV0vKhw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 40,
+          "like_count": 118,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 121
+        },
+        "username": "DesireLovet1qi",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-19T15:59:06.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/thematrixwizard",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/thematrixwizard",
+                "start": 0,
+                "url": "https://t.co/MprYDoKggv"
+              }
+            ]
+          }
+        },
+        "id": "1505212202822815752",
+        "location": "📨 DM FOR CREDIT OR REMOVAL ✶",
+        "name": "★",
+        "pinned_tweet_id": "2023866024899342380",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911529260403064832/DBsn3a2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220837,
+          "following_count": 1730,
+          "like_count": 214702,
+          "listed_count": 516,
+          "media_count": 57255,
+          "tweet_count": 163741
+        },
+        "url": "https://t.co/MprYDoKggv",
+        "username": "thematrixwizard",
+        "verified": true
+      }
+    ]
+  }
+}

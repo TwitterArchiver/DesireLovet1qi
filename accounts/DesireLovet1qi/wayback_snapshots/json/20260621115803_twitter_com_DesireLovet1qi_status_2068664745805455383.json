@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2013209398395752448",
+    "conversation_id": "2068664745805455383",
+    "created_at": "2026-06-21T11:58:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T12:58:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068664745805455383"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lingyinauki7/s…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/lingyinauki7/status/2068651528983065057",
+          "start": 22,
+          "url": "https://t.co/Ygg9E5i2cd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068664745805455383",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068651528983065057",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "是我朋友的群呢大家可以支持一下..感谢了！ https://t.co/Ygg9E5i2cd"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013209398395752448",
+        "conversation_id": "2068664745805455383",
+        "created_at": "2026-06-21T11:58:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T12:58:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068664745805455383"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lingyinauki7/s…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/lingyinauki7/status/2068651528983065057",
+              "start": 22,
+              "url": "https://t.co/Ygg9E5i2cd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068664745805455383",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068651528983065057",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "是我朋友的群呢大家可以支持一下..感谢了！ https://t.co/Ygg9E5i2cd"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2068247094729773056",
+        "conversation_id": "2068651528983065057",
+        "created_at": "2026-06-21T11:05:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T12:05:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068651528983065057"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "You are invited to a group chat on Telegram. Click to",
+              "display_url": "t.me/+rrEo5YomAZNlN…",
+              "end": 39,
+              "expanded_url": "https://t.me/+rrEo5YomAZNlNWY1",
+              "images": [
+                {
+                  "height": 256,
+                  "url": "https://pbs.twimg.com/news_img/2066451950879805440/wDY9y1Ud?format=png&name=orig",
+                  "width": 256
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2066451950879805440/wDY9y1Ud?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 16,
+              "status": 200,
+              "title": "Join group chat on Telegram",
+              "unwound_url": "https://t.me/+rrEo5YomAZNlNWY1",
+              "url": "https://t.co/JpQT8k9xh7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068651528983065057",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我们的群组 药物咨询 药物代购\nhttps://t.co/JpQT8k9xh7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-19T11:20:17.000Z",
+        "description": "小咲/09/o/药理/重焦重抑 简中/English同类交友 查成分互fo喵！^ 没fo私我呀 来找我玩！主页药物均为合法渠道获取 想到啥发啥 上来骂我=你赢了☺️请理性探讨 提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/desirelovet1qi",
+                "end": 23,
+                "expanded_url": "https://ngl.link/desirelovet1qi",
+                "start": 0,
+                "url": "https://t.co/1k4V17YOY0"
+              }
+            ]
+          }
+        },
+        "id": "2013209398395752448",
+        "location": "^猫猫天国行くよ^",
+        "name": "愛歌",
+        "pinned_tweet_id": "2068551593046446370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043464203944747008/Seln5ql5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 662,
+          "following_count": 428,
+          "like_count": 537,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 623
+        },
+        "url": "https://t.co/1k4V17YOY0",
+        "username": "DesireLovet1qi",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-20T08:18:51.000Z",
+        "description": "原账号已寄@Ingyn448487  有事请发私信 本人不再进行任何业务\n聊天群组https://t.co/DoGDumsf4h联系方式https://t.co/ceqTWzyphn 2联系方式https://t.co/fY839WecRA",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 5,
+                "username": "Ingyn448487"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+LCJrmHTZ78VjM…",
+                "end": 64,
+                "expanded_url": "https://t.me/+LCJrmHTZ78VjMWU1",
+                "start": 41,
+                "url": "https://t.co/DoGDumsf4h"
+              },
+              {
+                "display_url": "t.me/lingyina1",
+                "end": 91,
+                "expanded_url": "http://t.me/lingyina1",
+                "start": 68,
+                "url": "https://t.co/ceqTWzyphn"
+              },
+              {
+                "display_url": "t.me/Klonopinas",
+                "end": 120,
+                "expanded_url": "http://t.me/Klonopinas",
+                "start": 97,
+                "url": "https://t.co/fY839WecRA"
+              }
+            ]
+          }
+        },
+        "id": "2068247094729773056",
+        "name": "lingyina",
+        "pinned_tweet_id": "2068651528983065057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068247475983699968/NI8k8MqP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 3,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 3
+        },
+        "url": "",
+        "username": "lingyinauki7",
+        "verified": false
+      }
+    ]
+  }
+}

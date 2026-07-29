@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2013209398395752448",
+    "conversation_id": "2074876292160483562",
+    "created_at": "2026-07-09T00:36:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T01:36:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075016284316799455"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1914611702747779072",
+          "start": 0,
+          "username": "nox8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075016284316799455",
+    "in_reply_to_user_id": "1914611702747779072",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074882893818843309",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nox8964 感谢喵！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013209398395752448",
+        "conversation_id": "2074876292160483562",
+        "created_at": "2026-07-09T00:36:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T01:36:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075016284316799455"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1914611702747779072",
+              "start": 0,
+              "username": "nox8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075016284316799455",
+        "in_reply_to_user_id": "1914611702747779072",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074882893818843309",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nox8964 感谢喵！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1914611702747779072",
+        "conversation_id": "2074876292160483562",
+        "created_at": "2026-07-08T15:46:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T16:46:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074882893818843309"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2013209398395752448",
+              "start": 0,
+              "username": "DesireLovet1qi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074882893818843309",
+        "in_reply_to_user_id": "2013209398395752448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074876292160483562",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DesireLovet1qi 主播漂亮漂亮，喜欢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-19T11:20:17.000Z",
+        "description": "小咲/09/o/药理/重焦重抑 简中/English同类交友 查成分互fo喵！^ 没fo私我呀 来找我玩！主页药物均为合法渠道获取 想到啥发啥 上来骂我=你赢了☺️\n🚪52/88/128 赚点钱买药🥲\n粥好友免费扩～\n请理性探讨 提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/desirelovet1qi",
+                "end": 23,
+                "expanded_url": "https://ngl.link/desirelovet1qi",
+                "start": 0,
+                "url": "https://t.co/1k4V17YOY0"
+              }
+            ]
+          }
+        },
+        "id": "2013209398395752448",
+        "location": "^猫猫天国行くよ^",
+        "name": "愛歌",
+        "pinned_tweet_id": "2068551593046446370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043464203944747008/Seln5ql5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 818,
+          "following_count": 438,
+          "like_count": 622,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 747
+        },
+        "url": "https://t.co/1k4V17YOY0",
+        "username": "DesireLovet1qi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-22T09:26:32.000Z",
+        "description": "enby｜懒得键政了随意你们喵｜酒精依赖｜德语🇩🇪学习中（目前很烂很烂）｜药物依赖戒了喵｜你喜欢我＝我喜欢你｜接受任何友善的立场和我交流｜如果心结解不开那就系成蝴蝶结吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/asukayeyezi",
+                "end": 23,
+                "expanded_url": "http://t.me/asukayeyezi",
+                "start": 0,
+                "url": "https://t.co/wdpxB4gYX8"
+              }
+            ]
+          }
+        },
+        "id": "1914611702747779072",
+        "location": "夜深寂靜之時",
+        "name": "⁺✞ʚ夜月優希 ɞ✟₊🌹🏴‍☠️#bot",
+        "pinned_tweet_id": "2031769044852871196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074485527500423170/VZFU3bTX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 653,
+          "following_count": 769,
+          "like_count": 10776,
+          "listed_count": 5,
+          "media_count": 181,
+          "tweet_count": 2961
+        },
+        "url": "https://t.co/wdpxB4gYX8",
+        "username": "nox8964",
+        "verified": false
+      }
+    ]
+  }
+}

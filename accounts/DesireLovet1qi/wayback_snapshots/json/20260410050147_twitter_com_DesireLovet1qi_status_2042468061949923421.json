@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2013209398395752448",
+    "conversation_id": "2042364622846771360",
+    "created_at": "2026-04-10T05:01:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T06:01:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042468061949923421"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2037842553148502017",
+          "start": 0,
+          "username": "yghibin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042468061949923421",
+    "in_reply_to_user_id": "2037842553148502017",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042467963232796840",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yghibin 分人分药"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013209398395752448",
+        "conversation_id": "2042364622846771360",
+        "created_at": "2026-04-10T05:01:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T06:01:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042468061949923421"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2037842553148502017",
+              "start": 0,
+              "username": "yghibin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042468061949923421",
+        "in_reply_to_user_id": "2037842553148502017",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042467963232796840",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yghibin 分人分药"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037842553148502017",
+        "conversation_id": "2042364622846771360",
+        "created_at": "2026-04-10T05:01:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T06:01:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042467963232796840"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2013209398395752448",
+              "start": 0,
+              "username": "DesireLovet1qi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042467963232796840",
+        "in_reply_to_user_id": "2013209398395752448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042457714685853699",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DesireLovet1qi 但是OD会上瘾吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-19T11:20:17.000Z",
+        "description": "小咲/09/od 割/药理/餐券 喜欢交朋友 查成分互fo喵！没fo私我呀 来找我玩！想到啥发啥非常喜欢评论",
+        "id": "2013209398395752448",
+        "name": "愛歌",
+        "pinned_tweet_id": "2042011047994044708",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022474411425910784/CCV0vKhw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 139,
+          "like_count": 281,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 279
+        },
+        "username": "DesireLovet1qi",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-28T10:41:58.000Z",
+        "description": "私は日本語ができません。日本語の投稿と返事はすべて私が翻訳ソフトで翻訳しました。本当に申し訳ありません。😔ですが、日本のアニメ文化が好きで日本語を勉強したいです。皆さんと楽しく交流したいです🔥🔥🔥🔥",
+        "id": "2037842553148502017",
+        "name": "Jonas Villager",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037843970378940416/bPBbd3fx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 39,
+          "like_count": 129,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 72
+        },
+        "username": "yghibin",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2013209398395752448",
+    "conversation_id": "2071322405155283416",
+    "created_at": "2026-06-29T14:08:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T15:08:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071596762637471913"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1997644719908884480",
+          "start": 0,
+          "username": "Oz_Garlandd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071596762637471913",
+    "in_reply_to_user_id": "1997644719908884480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071322405155283416",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Oz_Garlandd 这个我也有点想玩了🤤"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1296,
+        "media_key": "3_2071322352936165376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL7QtKYWIAA0adj.jpg",
+        "width": 1170
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2071322353099776001",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL7QtK_WoAE2JFS.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2071322353141764096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL7QtLJXUAAOwe4.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2071322355004051456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL7QtSFXkAAa5Ik.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013209398395752448",
+        "conversation_id": "2071322405155283416",
+        "created_at": "2026-06-29T14:08:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T15:08:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071596762637471913"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1997644719908884480",
+              "start": 0,
+              "username": "Oz_Garlandd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071596762637471913",
+        "in_reply_to_user_id": "1997644719908884480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071322405155283416",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oz_Garlandd 这个我也有点想玩了🤤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071322352936165376",
+            "3_2071322353099776001",
+            "3_2071322353141764096",
+            "3_2071322355004051456"
+          ]
+        },
+        "author_id": "1997644719908884480",
+        "conversation_id": "2071322405155283416",
+        "created_at": "2026-06-28T19:58:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T20:58:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071322405155283416"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tKBM7Sc1ws",
+              "end": 150,
+              "expanded_url": "https://x.com/Oz_Garlandd/status/2071322405155283416/photo/1",
+              "media_key": "3_2071322352936165376",
+              "start": 127,
+              "url": "https://t.co/tKBM7Sc1ws"
+            },
+            {
+              "display_url": "pic.x.com/tKBM7Sc1ws",
+              "end": 150,
+              "expanded_url": "https://x.com/Oz_Garlandd/status/2071322405155283416/photo/1",
+              "media_key": "3_2071322353099776001",
+              "start": 127,
+              "url": "https://t.co/tKBM7Sc1ws"
+            },
+            {
+              "display_url": "pic.x.com/tKBM7Sc1ws",
+              "end": 150,
+              "expanded_url": "https://x.com/Oz_Garlandd/status/2071322405155283416/photo/1",
+              "media_key": "3_2071322353141764096",
+              "start": 127,
+              "url": "https://t.co/tKBM7Sc1ws"
+            },
+            {
+              "display_url": "pic.x.com/tKBM7Sc1ws",
+              "end": 150,
+              "expanded_url": "https://x.com/Oz_Garlandd/status/2071322405155283416/photo/1",
+              "media_key": "3_2071322355004051456",
+              "start": 127,
+              "url": "https://t.co/tKBM7Sc1ws"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071322405155283416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 123,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Day 12\n夜的钢琴曲五&amp;Business Prelude\n当年正是疫情 正上网课\n同时也是我音乐品味启蒙之时\n被这两首狠狠打动直接化身消肿逼()\n不过后面还是开始接触其他派系了\n绝大部分都挺好听的！\n不过偏爱还是新古典&amp;(J)pop https://t.co/tKBM7Sc1ws"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-19T11:20:17.000Z",
+        "description": "小咲/09/o/药理/重焦重抑 简中/English同类交友 查成分互fo喵！^ 没fo私我呀 来找我玩！主页药物均为合法渠道获取 想到啥发啥 上来骂我=你赢了☺️\n🚪52/88/128 赚点钱买药🥲\n粥好友免费扩～\n请理性探讨 提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/desirelovet1qi",
+                "end": 23,
+                "expanded_url": "https://ngl.link/desirelovet1qi",
+                "start": 0,
+                "url": "https://t.co/1k4V17YOY0"
+              }
+            ]
+          }
+        },
+        "id": "2013209398395752448",
+        "location": "^猫猫天国行くよ^",
+        "name": "愛歌",
+        "pinned_tweet_id": "2068551593046446370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043464203944747008/Seln5ql5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 817,
+          "following_count": 438,
+          "like_count": 564,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 662
+        },
+        "url": "https://t.co/1k4V17YOY0",
+        "username": "DesireLovet1qi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟解离大天使😇✟｜本质intj 概率会套皮｜哦哦滴｜艺术美感狂热｜称呼指代任意｜接受所有 认同所有 非必要不吵架🥺｜随缘回fo｜喜欢我就多多与我互动哦🥰｜不会主动维护关系..因为没有精力&能力维护..并不是不喜欢各位！君子之交淡如水嘛~｜超绝喜欢生物化学｜https://t.co/bv14LDsSaV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gar1andd2",
+                "end": 151,
+                "expanded_url": "https://ngl.link/gar1andd2",
+                "start": 128,
+                "url": "https://t.co/bv14LDsSaV"
+              }
+            ]
+          }
+        },
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "pinned_tweet_id": "2062054686677663984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 365,
+          "following_count": 442,
+          "like_count": 30023,
+          "listed_count": 0,
+          "media_count": 290,
+          "tweet_count": 2430
+        },
+        "url": "",
+        "username": "Oz_Garlandd",
+        "verified": false
+      }
+    ]
+  }
+}

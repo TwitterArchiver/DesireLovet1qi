@@ -1,0 +1,338 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070470832564961280",
+        "3_2070470832585850880"
+      ],
+      "media_source_tweet_id": [
+        "2070470859119075502",
+        "2070470859119075502"
+      ]
+    },
+    "author_id": "2013209398395752448",
+    "conversation_id": "2071139314294313217",
+    "created_at": "2026-06-28T07:51:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T08:51:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071139314294313217"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 100,
+          "start": 97,
+          "tag": "女高"
+        },
+        {
+          "end": 104,
+          "start": 101,
+          "tag": "门槛"
+        },
+        {
+          "end": 109,
+          "start": 105,
+          "tag": "门槛哥"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2014869883306266624",
+          "start": 3,
+          "username": "QQdw5201314"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Lt90NY6j8m",
+          "end": 133,
+          "expanded_url": "https://x.com/QQdw5201314/status/2070470859119075502/photo/1",
+          "media_key": "3_2070470832564961280",
+          "start": 110,
+          "url": "https://t.co/Lt90NY6j8m"
+        },
+        {
+          "display_url": "pic.x.com/Lt90NY6j8m",
+          "end": 133,
+          "expanded_url": "https://x.com/QQdw5201314/status/2070470859119075502/photo/1",
+          "media_key": "3_2070470832585850880",
+          "start": 110,
+          "url": "https://t.co/Lt90NY6j8m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071139314294313217",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070470859119075502",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @QQdw5201314: 你好！我是小秋，前世1700fo的大号被封如今我转生来到这里！欢迎宝宝们过门，希望我们还能一直呆在一起吖^ 欢迎互转，抽三个宝宝52，两个13.14，谢谢你们 #女高 #门槛 #门槛哥 https://t.co/Lt90NY6j8m"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2070470832564961280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLvKQJzXgAAHk82.jpg",
+        "width": 1366
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2070470832585850880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLvKQJ4WQAAbPo5.jpg",
+        "width": 799
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070470832564961280",
+            "3_2070470832585850880"
+          ],
+          "media_source_tweet_id": [
+            "2070470859119075502",
+            "2070470859119075502"
+          ]
+        },
+        "author_id": "2013209398395752448",
+        "conversation_id": "2071139314294313217",
+        "created_at": "2026-06-28T07:51:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T08:51:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071139314294313217"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 100,
+              "start": 97,
+              "tag": "女高"
+            },
+            {
+              "end": 104,
+              "start": 101,
+              "tag": "门槛"
+            },
+            {
+              "end": 109,
+              "start": 105,
+              "tag": "门槛哥"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2014869883306266624",
+              "start": 3,
+              "username": "QQdw5201314"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Lt90NY6j8m",
+              "end": 133,
+              "expanded_url": "https://x.com/QQdw5201314/status/2070470859119075502/photo/1",
+              "media_key": "3_2070470832564961280",
+              "start": 110,
+              "url": "https://t.co/Lt90NY6j8m"
+            },
+            {
+              "display_url": "pic.x.com/Lt90NY6j8m",
+              "end": 133,
+              "expanded_url": "https://x.com/QQdw5201314/status/2070470859119075502/photo/1",
+              "media_key": "3_2070470832585850880",
+              "start": 110,
+              "url": "https://t.co/Lt90NY6j8m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071139314294313217",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070470859119075502",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @QQdw5201314: 你好！我是小秋，前世1700fo的大号被封如今我转生来到这里！欢迎宝宝们过门，希望我们还能一直呆在一起吖^ 欢迎互转，抽三个宝宝52，两个13.14，谢谢你们 #女高 #门槛 #门槛哥 https://t.co/Lt90NY6j8m"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070470832564961280",
+            "3_2070470832585850880"
+          ]
+        },
+        "author_id": "2014869883306266624",
+        "conversation_id": "2070470859119075502",
+        "created_at": "2026-06-26T11:34:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T12:34:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070470859119075502"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 83,
+              "start": 80,
+              "tag": "女高"
+            },
+            {
+              "end": 87,
+              "start": 84,
+              "tag": "门槛"
+            },
+            {
+              "end": 92,
+              "start": 88,
+              "tag": "门槛哥"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Lt90NY6j8m",
+              "end": 116,
+              "expanded_url": "https://x.com/QQdw5201314/status/2070470859119075502/photo/1",
+              "media_key": "3_2070470832564961280",
+              "start": 93,
+              "url": "https://t.co/Lt90NY6j8m"
+            },
+            {
+              "display_url": "pic.x.com/Lt90NY6j8m",
+              "end": 116,
+              "expanded_url": "https://x.com/QQdw5201314/status/2070470859119075502/photo/1",
+              "media_key": "3_2070470832585850880",
+              "start": 93,
+              "url": "https://t.co/Lt90NY6j8m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070470859119075502",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 543,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "你好！我是小秋，前世1700fo的大号被封如今我转生来到这里！欢迎宝宝们过门，希望我们还能一直呆在一起吖^ 欢迎互转，抽三个宝宝52，两个13.14，谢谢你们 #女高 #门槛 #门槛哥 https://t.co/Lt90NY6j8m"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-19T11:20:17.000Z",
+        "description": "小咲/09/o/药理/重焦重抑 简中/English同类交友 查成分互fo喵！^ 没fo私我呀 来找我玩！主页药物均为合法渠道获取 想到啥发啥 上来骂我=你赢了☺️\n🚪52/88/128 赚点钱买药🥲\n粥好友免费扩～\n请理性探讨 提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/desirelovet1qi",
+                "end": 23,
+                "expanded_url": "https://ngl.link/desirelovet1qi",
+                "start": 0,
+                "url": "https://t.co/1k4V17YOY0"
+              }
+            ]
+          }
+        },
+        "id": "2013209398395752448",
+        "location": "^猫猫天国行くよ^",
+        "name": "愛歌",
+        "pinned_tweet_id": "2068551593046446370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043464203944747008/Seln5ql5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 812,
+          "following_count": 437,
+          "like_count": 556,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 651
+        },
+        "url": "https://t.co/1k4V17YOY0",
+        "username": "DesireLovet1qi",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-24T01:16:54.000Z",
+        "description": "是非对错我已无心辩驳 88/188/388/520/1314✨（重生）",
+        "id": "2014869883306266624",
+        "name": "少女Q",
+        "pinned_tweet_id": "2070470859119075502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014870056363347968/hfPXuBk2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 33,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 61
+        },
+        "url": "",
+        "username": "QQdw5201314",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2013209398395752448",
+    "conversation_id": "2068551593046446370",
+    "created_at": "2026-06-21T09:27:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T10:27:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068626939292864788"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2068626939292864788",
+    "in_reply_to_user_id": "2013209398395752448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068551593046446370",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你啊离开"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 779,
+        "media_key": "3_2068551582640467969",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLT4tGrbcAE990q.jpg",
+        "width": 1320
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2068551582644649984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLT4tGsbQAAJmfu.jpg",
+        "width": 1538
+      },
+      {
+        "height": 1804,
+        "media_key": "3_2068551582636261376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLT4tGqbQAAeqpD.jpg",
+        "width": 1388
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2068551582904717312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLT4tHqbkAAgg3K.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013209398395752448",
+        "conversation_id": "2068551593046446370",
+        "created_at": "2026-06-21T09:27:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T10:27:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068626939292864788"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068626939292864788",
+        "in_reply_to_user_id": "2013209398395752448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068551593046446370",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你啊离开"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068551582640467969",
+            "3_2068551582644649984",
+            "3_2068551582636261376",
+            "3_2068551582904717312"
+          ]
+        },
+        "author_id": "2013209398395752448",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2068551593046446370",
+        "created_at": "2026-06-21T04:28:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T05:28:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068551593046446370"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vH9SNh2PyL",
+              "end": 46,
+              "expanded_url": "https://x.com/DesireLovet1qi/status/2068551593046446370/photo/1",
+              "media_key": "3_2068551582640467969",
+              "start": 23,
+              "url": "https://t.co/vH9SNh2PyL"
+            },
+            {
+              "display_url": "pic.x.com/vH9SNh2PyL",
+              "end": 46,
+              "expanded_url": "https://x.com/DesireLovet1qi/status/2068551593046446370/photo/1",
+              "media_key": "3_2068551582644649984",
+              "start": 23,
+              "url": "https://t.co/vH9SNh2PyL"
+            },
+            {
+              "display_url": "pic.x.com/vH9SNh2PyL",
+              "end": 46,
+              "expanded_url": "https://x.com/DesireLovet1qi/status/2068551593046446370/photo/1",
+              "media_key": "3_2068551582636261376",
+              "start": 23,
+              "url": "https://t.co/vH9SNh2PyL"
+            },
+            {
+              "display_url": "pic.x.com/vH9SNh2PyL",
+              "end": 46,
+              "expanded_url": "https://x.com/DesireLovet1qi/status/2068551593046446370/photo/1",
+              "media_key": "3_2068551582904717312",
+              "start": 23,
+              "url": "https://t.co/vH9SNh2PyL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068551593046446370",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3052,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "可怜小女孩被骗2k8只得乞讨..🥲\n➕🔝自介 https://t.co/vH9SNh2PyL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-19T11:20:17.000Z",
+        "description": "小咲/09/o/药理/重焦重抑 简中/English同类交友 查成分互fo喵！^ 没fo私我呀 来找我玩！主页药物均为合法渠道获取 想到啥发啥 上来骂我=你赢了☺️请理性探讨 提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/desirelovet1qi",
+                "end": 23,
+                "expanded_url": "https://ngl.link/desirelovet1qi",
+                "start": 0,
+                "url": "https://t.co/1k4V17YOY0"
+              }
+            ]
+          }
+        },
+        "id": "2013209398395752448",
+        "location": "^猫猫天国行くよ^",
+        "name": "愛歌",
+        "pinned_tweet_id": "2068551593046446370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043464203944747008/Seln5ql5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 649,
+          "following_count": 425,
+          "like_count": 537,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 621
+        },
+        "url": "https://t.co/1k4V17YOY0",
+        "username": "DesireLovet1qi",
+        "verified": false
+      }
+    ]
+  }
+}

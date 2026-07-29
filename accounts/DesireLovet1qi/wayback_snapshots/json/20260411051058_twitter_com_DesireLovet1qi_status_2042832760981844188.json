@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2013209398395752448",
+    "conversation_id": "2042813723686129710",
+    "created_at": "2026-04-11T05:10:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T06:10:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042832760981844188"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1946240021696040961",
+          "start": 0,
+          "username": "Noverdose_DBD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042832760981844188",
+    "in_reply_to_user_id": "1946240021696040961",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042816136048251040",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Noverdose_DBD 我同意"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013209398395752448",
+        "conversation_id": "2042813723686129710",
+        "created_at": "2026-04-11T05:10:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T06:10:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042832760981844188"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1946240021696040961",
+              "start": 0,
+              "username": "Noverdose_DBD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042832760981844188",
+        "in_reply_to_user_id": "1946240021696040961",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042816136048251040",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Noverdose_DBD 我同意"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946240021696040961",
+        "conversation_id": "2042813723686129710",
+        "created_at": "2026-04-11T04:04:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T05:04:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042816136048251040"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2013209398395752448",
+              "start": 0,
+              "username": "DesireLovet1qi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042816136048251040",
+        "in_reply_to_user_id": "2013209398395752448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042813723686129710",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DesireLovet1qi 也许你需要的不是药物，是一个有爱的环境"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-19T11:20:17.000Z",
+        "description": "小咲/09/od 割/药理/餐券 喜欢交朋友 查成分互fo喵！没fo私我呀 来找我玩！想到啥发啥非常喜欢评论",
+        "id": "2013209398395752448",
+        "name": "愛歌",
+        "pinned_tweet_id": "2042011047994044708",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022474411425910784/CCV0vKhw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 161,
+          "like_count": 283,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 288
+        },
+        "username": "DesireLovet1qi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-18T16:06:07.000Z",
+        "description": "该页面触犯了中华人民共和国刑法",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Noverdose_DBD",
+                "end": 23,
+                "expanded_url": "http://t.me/Noverdose_DBD",
+                "start": 0,
+                "url": "https://t.co/P1KKvJSoY1"
+              }
+            ]
+          }
+        },
+        "id": "1946240021696040961",
+        "location": "终之空",
+        "name": "违法百科",
+        "pinned_tweet_id": "2034529964557808079",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041593174582308865/8D_qw6Fq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1363,
+          "following_count": 245,
+          "like_count": 983,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 758
+        },
+        "url": "https://t.co/P1KKvJSoY1",
+        "username": "Noverdose_DBD",
+        "verified": false
+      }
+    ]
+  }
+}

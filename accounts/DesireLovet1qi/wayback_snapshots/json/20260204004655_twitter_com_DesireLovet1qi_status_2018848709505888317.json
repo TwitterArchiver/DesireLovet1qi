@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2013209398395752448",
+    "conversation_id": "2018644141492826264",
+    "created_at": "2026-02-04T00:46:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T01:46:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018848709505888317"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 27,
+          "normalized_text": "昂丹司",
+          "probability": 0.6309,
+          "start": 25,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1761208815088001024",
+          "start": 0,
+          "username": "_Bad_Meow_"
+        },
+        {
+          "end": 24,
+          "id": "1974865605204586498",
+          "start": 12,
+          "username": "Krktmk_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018848709505888317",
+    "in_reply_to_user_id": "1761208815088001024",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018647397837246644",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_Bad_Meow_ @Krktmk_8964 昂丹司琼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013209398395752448",
+        "conversation_id": "2018644141492826264",
+        "created_at": "2026-02-04T00:46:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T01:46:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018848709505888317"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 27,
+              "normalized_text": "昂丹司",
+              "probability": 0.6309,
+              "start": 25,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1761208815088001024",
+              "start": 0,
+              "username": "_Bad_Meow_"
+            },
+            {
+              "end": 24,
+              "id": "1974865605204586498",
+              "start": 12,
+              "username": "Krktmk_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018848709505888317",
+        "in_reply_to_user_id": "1761208815088001024",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018647397837246644",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Bad_Meow_ @Krktmk_8964 昂丹司琼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761208815088001024",
+        "conversation_id": "2018644141492826264",
+        "created_at": "2026-02-03T11:26:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T12:26:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018647397837246644"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1974865605204586498",
+              "start": 0,
+              "username": "Krktmk_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018647397837246644",
+        "in_reply_to_user_id": "1974865605204586498",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018646369544913242",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Krktmk_8964 吃晚安该吃什么止吐药，，我吃多潘立酮不管用"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-19T11:20:17.000Z",
+        "description": "割手od啥都发 我是很温良女子想交朋友",
+        "id": "2013209398395752448",
+        "name": "愛歌",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013210516924309504/3Fq2z9qs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 15,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 39
+        },
+        "username": "DesireLovet1qi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-24T01:58:04.000Z",
+        "description": "精神病餐券割手女🔪🩸︱友好不鉴证谢谢！︱可以称呼我为饼干︱休学家里蹲︱OD💊︱同类互fo︱画画︱私信我时只说“你好”不会给予任何回复︱无🚪但给我打零食钱的话我会很喜欢你（用不了支付宝😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cookie88211",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cookie88211",
+                "start": 0,
+                "url": "https://t.co/k9b4PZvg4N"
+              }
+            ]
+          }
+        },
+        "id": "1761208815088001024",
+        "location": "家",
+        "name": "┃☆饼干饼干☆┃",
+        "pinned_tweet_id": "2018454229028143380",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008258914010415105/8V-a0CWi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 332,
+          "following_count": 286,
+          "like_count": 1569,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 1393
+        },
+        "url": "https://t.co/k9b4PZvg4N",
+        "username": "_Bad_Meow_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-05T15:54:07.000Z",
+        "description": "我是天照大神⛩",
+        "id": "1974865605204586498",
+        "location": "克拉斯诺亚尔斯克",
+        "name": "黒木トモコ",
+        "pinned_tweet_id": "2016628139888431137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016867499816693760/cgM-POhS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 753,
+          "following_count": 1450,
+          "like_count": 25031,
+          "listed_count": 2,
+          "media_count": 163,
+          "tweet_count": 2707
+        },
+        "username": "Krktmk_8964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2018506672617193472"
+      ]
+    },
+    "author_id": "2013209398395752448",
+    "conversation_id": "2018506683153109454",
+    "created_at": "2026-02-03T02:07:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T03:07:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2018506683153109454"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/bQPZDOAQwI",
+          "end": 23,
+          "expanded_url": "https://x.com/DesireLovet1qi/status/2018506683153109454/photo/1",
+          "media_key": "3_2018506672617193472",
+          "start": 0,
+          "url": "https://t.co/bQPZDOAQwI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018506683153109454",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/bQPZDOAQwI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 284,
+        "media_key": "3_2018506672617193472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAMtH84agAAV0bJ.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018506672617193472"
+          ]
+        },
+        "author_id": "2013209398395752448",
+        "conversation_id": "2018506683153109454",
+        "created_at": "2026-02-03T02:07:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T03:07:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018506683153109454"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bQPZDOAQwI",
+              "end": 23,
+              "expanded_url": "https://x.com/DesireLovet1qi/status/2018506683153109454/photo/1",
+              "media_key": "3_2018506672617193472",
+              "start": 0,
+              "url": "https://t.co/bQPZDOAQwI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018506683153109454",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/bQPZDOAQwI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-19T11:20:17.000Z",
+        "description": "割手od啥都发 我是很温良女子想交朋友",
+        "id": "2013209398395752448",
+        "name": "愛歌",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013210516924309504/3Fq2z9qs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 12,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 32
+        },
+        "username": "DesireLovet1qi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2036323246178791424",
+        "3_2036323246157807616"
+      ]
+    },
+    "author_id": "2013209398395752448",
+    "conversation_id": "2036323256131788927",
+    "created_at": "2026-03-24T06:04:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T07:04:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2036323256131788927"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/nmMSN9epsj",
+          "end": 30,
+          "expanded_url": "https://x.com/DesireLovet1qi/status/2036323256131788927/photo/1",
+          "media_key": "3_2036323246178791424",
+          "start": 7,
+          "url": "https://t.co/nmMSN9epsj"
+        },
+        {
+          "display_url": "pic.x.com/nmMSN9epsj",
+          "end": 30,
+          "expanded_url": "https://x.com/DesireLovet1qi/status/2036323256131788927/photo/1",
+          "media_key": "3_2036323246157807616",
+          "start": 7,
+          "url": "https://t.co/nmMSN9epsj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036323256131788927",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "还是很喜欢的 https://t.co/nmMSN9epsj"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2036323256131788927].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2036323256131788927",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2036323256131788927"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2036323246178791424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEJ5NBhbcAAgzFi.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2036323246157807616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEJ5NBcbQAAEZim.jpg",
+        "width": 1536
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-19T11:20:17.000Z",
+        "description": "小咲/09/od 割/喜欢交朋友 互fo 来找我玩！想到啥发啥非常喜欢评论 提问箱：https://t.co/1k4V17YOY0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/desirelovet1qi",
+                "end": 65,
+                "expanded_url": "https://ngl.link/desirelovet1qi",
+                "start": 42,
+                "url": "https://t.co/1k4V17YOY0"
+              }
+            ]
+          }
+        },
+        "id": "2013209398395752448",
+        "name": "愛歌",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022474411425910784/CCV0vKhw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 81,
+          "like_count": 238,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 236
+        },
+        "username": "DesireLovet1qi",
+        "verified": false
+      }
+    ]
+  }
+}

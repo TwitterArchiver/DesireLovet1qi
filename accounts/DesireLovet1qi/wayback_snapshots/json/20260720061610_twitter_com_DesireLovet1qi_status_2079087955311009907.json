@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2013209398395752448",
+    "conversation_id": "2078457274486722799",
+    "created_at": "2026-07-20T06:16:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T07:16:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079087955311009907"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1965129075846193152",
+          "start": 0,
+          "username": "zhi_0702"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079087955311009907",
+    "in_reply_to_user_id": "1965129075846193152",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078860053457904076",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhi_0702 右美加巴和普瑞"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013209398395752448",
+        "conversation_id": "2078457274486722799",
+        "created_at": "2026-07-20T06:16:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T07:16:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079087955311009907"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1965129075846193152",
+              "start": 0,
+              "username": "zhi_0702"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079087955311009907",
+        "in_reply_to_user_id": "1965129075846193152",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078860053457904076",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhi_0702 右美加巴和普瑞"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965129075846193152",
+        "conversation_id": "2078457274486722799",
+        "created_at": "2026-07-19T15:10:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T16:10:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078860053457904076"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2013209398395752448",
+              "start": 0,
+              "username": "DesireLovet1qi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078860053457904076",
+        "in_reply_to_user_id": "2013209398395752448",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078457274486722799",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DesireLovet1qi 啥藥！！求渠道"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-19T11:20:17.000Z",
+        "description": "小咲/09/o/药理/重焦重抑 简中/English同类交友 查成分互fo喵！^ 没fo私我呀 来找我玩！主页药物均为合法渠道获取 想到啥发啥 上来骂我=你赢了☺️\n🚪52/88/128/188/288 赚点钱买药🥲\n粥好友免费扩～\n请理性探讨 提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/desirelovet1qi",
+                "end": 23,
+                "expanded_url": "https://ngl.link/desirelovet1qi",
+                "start": 0,
+                "url": "https://t.co/1k4V17Yh8s"
+              }
+            ]
+          }
+        },
+        "id": "2013209398395752448",
+        "location": "^猫猫天国行くよ^",
+        "name": "愛歌",
+        "pinned_tweet_id": "2068551593046446370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043464203944747008/Seln5ql5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 828,
+          "following_count": 444,
+          "like_count": 664,
+          "listed_count": 1,
+          "media_count": 111,
+          "tweet_count": 808
+        },
+        "url": "https://t.co/1k4V17Yh8s",
+        "username": "DesireLovet1qi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-08T19:04:27.000Z",
+        "description": "碎碎念/lesb/紫餐歐弟餐券妹/畫畫oc人/歡迎交流/匿名提問箱https://t.co/cpMSdyKEVY想被看見想交到好朋友……",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zhi68399",
+                "end": 56,
+                "expanded_url": "https://ngl.link/zhi68399",
+                "start": 33,
+                "url": "https://t.co/cpMSdyKEVY"
+              }
+            ]
+          }
+        },
+        "id": "1965129075846193152",
+        "location": "🚪28  僅聊天",
+        "name": "滯²",
+        "pinned_tweet_id": "2060018632479084970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053840204767891456/ZbYQ_j1T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 75,
+          "like_count": 130,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 424
+        },
+        "url": "",
+        "username": "zhi_0702",
+        "verified": false
+      }
+    ]
+  }
+}

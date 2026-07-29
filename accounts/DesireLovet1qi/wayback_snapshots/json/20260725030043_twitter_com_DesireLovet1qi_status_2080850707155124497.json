@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2013209398395752448",
+    "conversation_id": "2080850707155124497",
+    "created_at": "2026-07-25T03:00:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T04:00:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080850707155124497"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2056401506791026689",
+          "start": 3,
+          "username": "entivv14xiRcrd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080850707155124497",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080666117656170870",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @entivv14xiRcrd: 好怀念。在学校的时候。那时候愈美还可以随便买，买完就寄到学校o，然后和群友打一晚上电话，，玩得超级开心 每次o完都感觉好幸福， ，现在在家里o我只会感到恐慌和害怕，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013209398395752448",
+        "conversation_id": "2080850707155124497",
+        "created_at": "2026-07-25T03:00:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T04:00:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080850707155124497"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2056401506791026689",
+              "start": 3,
+              "username": "entivv14xiRcrd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080850707155124497",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080666117656170870",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @entivv14xiRcrd: 好怀念。在学校的时候。那时候愈美还可以随便买，买完就寄到学校o，然后和群友打一晚上电话，，玩得超级开心 每次o完都感觉好幸福， ，现在在家里o我只会感到恐慌和害怕，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2056401506791026689",
+        "conversation_id": "2080666117656170870",
+        "created_at": "2026-07-24T14:47:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T15:47:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080666117656170870"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080666117656170870",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好怀念。在学校的时候。那时候愈美还可以随便买，买完就寄到学校o，然后和群友打一晚上电话，，玩得超级开心 每次o完都感觉好幸福， ，现在在家里o我只会感到恐慌和害怕，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-19T11:20:17.000Z",
+        "description": "小咲/09/o/药理/重焦重抑 简中/English同类交友 查成分互fo喵！^ 没fo私我呀 来找我玩！主页药物均为合法渠道获取 想到啥发啥 上来骂我=你赢了☺️\n🚪52/88/128/188/288 赚点钱买药🥲\n粥好友免费扩～\n请理性探讨 提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/desirelovet1qi",
+                "end": 23,
+                "expanded_url": "https://ngl.link/desirelovet1qi",
+                "start": 0,
+                "url": "https://t.co/1k4V17Yh8s"
+              }
+            ]
+          }
+        },
+        "id": "2013209398395752448",
+        "location": "^猫猫天国行くよ^",
+        "name": "愛歌",
+        "pinned_tweet_id": "2068551593046446370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043464203944747008/Seln5ql5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 864,
+          "following_count": 465,
+          "like_count": 703,
+          "listed_count": 1,
+          "media_count": 119,
+          "tweet_count": 867
+        },
+        "url": "https://t.co/1k4V17Yh8s",
+        "username": "DesireLovet1qi",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-18T15:49:48.000Z",
+        "description": "我喜欢温柔的人 同类来和我互fo呀\n🐼我喜欢熊猫～\n来匿名提问我👇🏻",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/entivv14xirxrd",
+                "end": 23,
+                "expanded_url": "https://ngl.link/entivv14xirxrd",
+                "start": 0,
+                "url": "https://t.co/xm6SjMmQ1w"
+              }
+            ]
+          }
+        },
+        "id": "2056401506791026689",
+        "location": "春",
+        "name": "なみだ",
+        "pinned_tweet_id": "2067093206500884952",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080677795978485760/5amQmbVZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 72,
+          "like_count": 382,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 474
+        },
+        "url": "https://t.co/xm6SjMmQ1w",
+        "username": "entivv14xiRcrd",
+        "verified": false
+      }
+    ]
+  }
+}

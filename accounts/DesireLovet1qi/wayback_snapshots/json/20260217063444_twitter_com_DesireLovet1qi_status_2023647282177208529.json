@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2013209398395752448",
+    "conversation_id": "2023361422265335996",
+    "created_at": "2026-02-17T06:34:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T07:34:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023647282177208529"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1964042844198621187",
+          "start": 0,
+          "username": "bungeihaku8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023647282177208529",
+    "in_reply_to_user_id": "1964042844198621187",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023361422265335996",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bungeihaku8964 金刚烷胺都垃圾成啥了，也就这群傻逼天天毒品毒品的叫"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 62203,
+        "height": 1280,
+        "media_key": "7_2023361376513875968",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2023361376513875968/pu/img/37gY0JvfzmaR7rFi.jpg",
+        "public_metrics": {
+          "view_count": 432
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2023361376513875968/pu/vid/avc1/320x710/0ZQPsbtH3IYljzvV.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2023361376513875968/pu/vid/avc1/480x1066/n-mz9d7eBZR4bqV1.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2023361376513875968/pu/vid/avc1/576x1280/BEKr-SP-cfSIhr7Q.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2023361376513875968/pu/pl/4WLE6kmTLXY5h2YW.m3u8?tag=12"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013209398395752448",
+        "conversation_id": "2023361422265335996",
+        "created_at": "2026-02-17T06:34:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T07:34:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023647282177208529"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1964042844198621187",
+              "start": 0,
+              "username": "bungeihaku8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023647282177208529",
+        "in_reply_to_user_id": "1964042844198621187",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023361422265335996",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bungeihaku8964 金刚烷胺都垃圾成啥了，也就这群傻逼天天毒品毒品的叫"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2023361376513875968"
+          ]
+        },
+        "author_id": "1964042844198621187",
+        "conversation_id": "2023361422265335996",
+        "created_at": "2026-02-16T11:38:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T12:38:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023361422265335996"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xRWDBTht4z",
+              "end": 35,
+              "expanded_url": "https://x.com/bungeihaku8964/status/2023361422265335996/video/1",
+              "media_key": "7_2023361376513875968",
+              "start": 12,
+              "url": "https://t.co/xRWDBTht4z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023361422265335996",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1019,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我去 od圈怎麼那麼壞 https://t.co/xRWDBTht4z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-19T11:20:17.000Z",
+        "description": "小咲/ 碎碎念和一些od相关 无雷我是很温良女子来和我互fo 刷推喜欢评论点赞..",
+        "id": "2013209398395752448",
+        "name": "愛歌",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022474411425910784/CCV0vKhw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 32,
+          "like_count": 97,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 112
+        },
+        "username": "DesireLovet1qi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜民國97年男高｜梗圖➕日常發瘋號｜雙相｜日麻癡｜第二人格頂號ing｜粵拼使用者｜🚪64HK$\n｜小貓咪:@suimikax｜16ちゃん:@x16_46280721",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 53,
+                "username": "suimikax"
+              },
+              {
+                "end": 82,
+                "start": 69,
+                "username": "x16_46280721"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/KunHaku0",
+                "end": 23,
+                "expanded_url": "http://t.me/KunHaku0",
+                "start": 0,
+                "url": "https://t.co/ntbzBOLbQQ"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "Hong Kong and canton インターネット❂",
+        "name": "葉々🍁空白子🍥🍵🍡🍣💤",
+        "pinned_tweet_id": "2021493784887038082",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021474583161995271/frgiGN1D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1181,
+          "following_count": 504,
+          "like_count": 8358,
+          "listed_count": 6,
+          "media_count": 413,
+          "tweet_count": 2055
+        },
+        "url": "https://t.co/ntbzBOLbQQ",
+        "username": "bungeihaku8964",
+        "verified": false
+      }
+    ]
+  }
+}

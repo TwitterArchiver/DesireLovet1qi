@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073602182965030912",
+        "3_2073602182956691456"
+      ]
+    },
+    "author_id": "2013209398395752448",
+    "conversation_id": "2073602191903031485",
+    "created_at": "2026-07-05T02:57:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T03:57:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073602191903031485"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vF2S0cnVqH",
+          "end": 25,
+          "expanded_url": "https://x.com/DesireLovet1qi/status/2073602191903031485/photo/1",
+          "media_key": "3_2073602182965030912",
+          "start": 2,
+          "url": "https://t.co/vF2S0cnVqH"
+        },
+        {
+          "display_url": "pic.x.com/vF2S0cnVqH",
+          "end": 25,
+          "expanded_url": "https://x.com/DesireLovet1qi/status/2073602191903031485/photo/1",
+          "media_key": "3_2073602182956691456",
+          "start": 2,
+          "url": "https://t.co/vF2S0cnVqH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073602191903031485",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "对 https://t.co/vF2S0cnVqH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2073602182965030912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMbqMvEa8AArnYp.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2073602182956691456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMbqMvCbsAAmwRg.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073602182965030912",
+            "3_2073602182956691456"
+          ]
+        },
+        "author_id": "2013209398395752448",
+        "conversation_id": "2073602191903031485",
+        "created_at": "2026-07-05T02:57:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T03:57:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073602191903031485"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vF2S0cnVqH",
+              "end": 25,
+              "expanded_url": "https://x.com/DesireLovet1qi/status/2073602191903031485/photo/1",
+              "media_key": "3_2073602182965030912",
+              "start": 2,
+              "url": "https://t.co/vF2S0cnVqH"
+            },
+            {
+              "display_url": "pic.x.com/vF2S0cnVqH",
+              "end": 25,
+              "expanded_url": "https://x.com/DesireLovet1qi/status/2073602191903031485/photo/1",
+              "media_key": "3_2073602182956691456",
+              "start": 2,
+              "url": "https://t.co/vF2S0cnVqH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073602191903031485",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对 https://t.co/vF2S0cnVqH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-19T11:20:17.000Z",
+        "description": "小咲/09/o/药理/重焦重抑 简中/English同类交友 查成分互fo喵！^ 没fo私我呀 来找我玩！主页药物均为合法渠道获取 想到啥发啥 上来骂我=你赢了☺️\n🚪52/88/128 赚点钱买药🥲\n粥好友免费扩～\n请理性探讨 提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/desirelovet1qi",
+                "end": 23,
+                "expanded_url": "https://ngl.link/desirelovet1qi",
+                "start": 0,
+                "url": "https://t.co/1k4V17YOY0"
+              }
+            ]
+          }
+        },
+        "id": "2013209398395752448",
+        "location": "^猫猫天国行くよ^",
+        "name": "愛歌",
+        "pinned_tweet_id": "2068551593046446370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043464203944747008/Seln5ql5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 818,
+          "following_count": 437,
+          "like_count": 597,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 705
+        },
+        "url": "https://t.co/1k4V17YOY0",
+        "username": "DesireLovet1qi",
+        "verified": false
+      }
+    ]
+  }
+}

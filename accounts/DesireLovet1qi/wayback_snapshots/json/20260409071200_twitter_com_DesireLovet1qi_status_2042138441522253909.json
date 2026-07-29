@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2013209398395752448",
+    "conversation_id": "2042011047994044708",
+    "created_at": "2026-04-09T07:12:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T08:12:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042138441522253909"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1989560154757730304",
+          "start": 0,
+          "username": "withu_til_4ever"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042138441522253909",
+    "in_reply_to_user_id": "1989560154757730304",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042138324605792468",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@withu_til_4ever 互啦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013209398395752448",
+        "conversation_id": "2042011047994044708",
+        "created_at": "2026-04-09T07:12:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T08:12:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042138441522253909"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1989560154757730304",
+              "start": 0,
+              "username": "withu_til_4ever"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042138441522253909",
+        "in_reply_to_user_id": "1989560154757730304",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042138324605792468",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@withu_til_4ever 互啦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989560154757730304",
+        "conversation_id": "2042011047994044708",
+        "created_at": "2026-04-09T07:11:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T08:11:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042138324605792468"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2013209398395752448",
+              "start": 0,
+              "username": "DesireLovet1qi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042138324605792468",
+        "in_reply_to_user_id": "2013209398395752448",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042011047994044708",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DesireLovet1qi bb可以互嘛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-19T11:20:17.000Z",
+        "description": "小咲/09/od 割/喜欢交朋友 互fo 来找我玩！想到啥发啥非常喜欢评论 提问箱：https://t.co/1k4V17YOY0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/desirelovet1qi",
+                "end": 65,
+                "expanded_url": "https://ngl.link/desirelovet1qi",
+                "start": 42,
+                "url": "https://t.co/1k4V17YOY0"
+              }
+            ]
+          }
+        },
+        "id": "2013209398395752448",
+        "name": "愛歌",
+        "pinned_tweet_id": "2042011047994044708",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022474411425910784/CCV0vKhw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 93,
+          "like_count": 268,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 262
+        },
+        "username": "DesireLovet1qi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-15T05:04:48.000Z",
+        "description": "叫我yu/uu｜想和同类妹子互fo聊天｜INFP 19yo 摩羯座 bi｜oded🩸｜晚期偶像厨｜淫追掏四中｜辱我心肝者死",
+        "id": "1989560154757730304",
+        "name": "唉你会觉得我可爱吗",
+        "pinned_tweet_id": "2041687903533691024",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041386043937824769/2uF-6nsG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 42,
+          "like_count": 434,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 331
+        },
+        "username": "withu_til_4ever",
+        "verified": false
+      }
+    ]
+  }
+}

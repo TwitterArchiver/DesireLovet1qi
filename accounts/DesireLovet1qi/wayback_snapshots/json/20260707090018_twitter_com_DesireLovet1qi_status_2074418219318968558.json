@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2013209398395752448",
+    "conversation_id": "2073815407509791050",
+    "created_at": "2026-07-07T09:00:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T10:00:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074418219318968558"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1480066908154179585",
+          "start": 0,
+          "username": "xiangdangheike1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074418219318968558",
+    "in_reply_to_user_id": "1480066908154179585",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074403393502900599",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiangdangheike1 蓝色绿色这种吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013209398395752448",
+        "conversation_id": "2073815407509791050",
+        "created_at": "2026-07-07T09:00:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T10:00:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074418219318968558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1480066908154179585",
+              "start": 0,
+              "username": "xiangdangheike1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074418219318968558",
+        "in_reply_to_user_id": "1480066908154179585",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074403393502900599",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiangdangheike1 蓝色绿色这种吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1480066908154179585",
+        "conversation_id": "2073815407509791050",
+        "created_at": "2026-07-07T08:01:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T09:01:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074403393502900599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2013209398395752448",
+              "start": 0,
+              "username": "DesireLovet1qi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074403393502900599",
+        "in_reply_to_user_id": "2013209398395752448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073815407509791050",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DesireLovet1qi 比如说喜欢什么颜色，喜欢什么符号"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-19T11:20:17.000Z",
+        "description": "小咲/09/o/药理/重焦重抑 简中/English同类交友 查成分互fo喵！^ 没fo私我呀 来找我玩！主页药物均为合法渠道获取 想到啥发啥 上来骂我=你赢了☺️\n🚪52/88/128 赚点钱买药🥲\n粥好友免费扩～\n请理性探讨 提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/desirelovet1qi",
+                "end": 23,
+                "expanded_url": "https://ngl.link/desirelovet1qi",
+                "start": 0,
+                "url": "https://t.co/1k4V17YOY0"
+              }
+            ]
+          }
+        },
+        "id": "2013209398395752448",
+        "location": "^猫猫天国行くよ^",
+        "name": "愛歌",
+        "pinned_tweet_id": "2068551593046446370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043464203944747008/Seln5ql5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 820,
+          "following_count": 436,
+          "like_count": 604,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 722
+        },
+        "url": "https://t.co/1k4V17YOY0",
+        "username": "DesireLovet1qi",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-09T06:40:32.000Z",
+        "description": "黛玉冷笑道：“我就知道，别人不挑剩下的也不给我。”",
+        "id": "1480066908154179585",
+        "location": "地上天国",
+        "name": "bzdqmz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834884489337880577/HKI3gbn8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 111,
+          "like_count": 82,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 42
+        },
+        "url": "",
+        "username": "xiangdangheike1",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2013209398395752448",
+    "conversation_id": "2073806886764490949",
+    "created_at": "2026-07-05T16:44:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T17:44:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073810271672713295"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1437326405755408384",
+          "start": 0,
+          "username": "17mylol"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073810271672713295",
+    "in_reply_to_user_id": "1437326405755408384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073809608540570103",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@17mylol 唉 喜欢的人不喜欢我那就这样吧 接一个对象喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013209398395752448",
+        "conversation_id": "2073806886764490949",
+        "created_at": "2026-07-05T16:44:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T17:44:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073810271672713295"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1437326405755408384",
+              "start": 0,
+              "username": "17mylol"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073810271672713295",
+        "in_reply_to_user_id": "1437326405755408384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073809608540570103",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@17mylol 唉 喜欢的人不喜欢我那就这样吧 接一个对象喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1437326405755408384",
+        "conversation_id": "2073806886764490949",
+        "created_at": "2026-07-05T16:41:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T17:41:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073809608540570103"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2013209398395752448",
+              "start": 0,
+              "username": "DesireLovet1qi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073809608540570103",
+        "in_reply_to_user_id": "2013209398395752448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073806886764490949",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DesireLovet1qi 我也一样在喝酒，我谈了半年多的南梁，因为一段小矛盾分手了，我真哭死，爱的好深"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-19T11:20:17.000Z",
+        "description": "小咲/09/o/药理/重焦重抑 简中/English同类交友 查成分互fo喵！^ 没fo私我呀 来找我玩！主页药物均为合法渠道获取 想到啥发啥 上来骂我=你赢了☺️\n🚪52/88/128 赚点钱买药🥲\n粥好友免费扩～\n请理性探讨 提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/desirelovet1qi",
+                "end": 23,
+                "expanded_url": "https://ngl.link/desirelovet1qi",
+                "start": 0,
+                "url": "https://t.co/1k4V17YOY0"
+              }
+            ]
+          }
+        },
+        "id": "2013209398395752448",
+        "location": "^猫猫天国行くよ^",
+        "name": "愛歌",
+        "pinned_tweet_id": "2068551593046446370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043464203944747008/Seln5ql5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 819,
+          "following_count": 436,
+          "like_count": 602,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 713
+        },
+        "url": "https://t.co/1k4V17YOY0",
+        "username": "DesireLovet1qi",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-13T08:05:06.000Z",
+        "description": "一只成分很复杂的人/喜欢南梁（重度了）/打工人社畜",
+        "id": "1437326405755408384",
+        "location": "第一次见面的地方",
+        "name": "西海岸妙音鸟",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041451917939998720/EzHL331Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 149,
+          "like_count": 246,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 3
+        },
+        "url": "",
+        "username": "17mylol",
+        "verified": false
+      }
+    ]
+  }
+}

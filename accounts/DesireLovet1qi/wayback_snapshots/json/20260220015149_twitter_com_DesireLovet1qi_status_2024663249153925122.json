@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2013209398395752448",
+    "conversation_id": "2024493504123023834",
+    "created_at": "2026-02-20T01:51:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T02:51:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024663249153925122"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1071180020327043074",
+          "start": 0,
+          "username": "Uyghur_Report"
+        },
+        {
+          "end": 20,
+          "id": "1720665183188922368",
+          "start": 15,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024663249153925122",
+    "in_reply_to_user_id": "1071180020327043074",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024493504123023834",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Uyghur_Report @grok 这是真的吗？帮我找一下视频出处"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 37707,
+        "height": 640,
+        "media_key": "13_2024493224090619905",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2024493224090619905/img/ZGI7DBHAPDnfZpYk.jpg",
+        "public_metrics": {
+          "view_count": 3055076
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2024493224090619905/vid/avc1/320x580/uQUConFy3_uZRwx6.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2024493224090619905/vid/avc1/352x640/ZAtyZbofrkI8Ljm9.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2024493224090619905/pl/yX2z6G8ejqiG1wvV.m3u8"
+          }
+        ],
+        "width": 352
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013209398395752448",
+        "conversation_id": "2024493504123023834",
+        "created_at": "2026-02-20T01:51:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T02:51:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024663249153925122"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1071180020327043074",
+              "start": 0,
+              "username": "Uyghur_Report"
+            },
+            {
+              "end": 20,
+              "id": "1720665183188922368",
+              "start": 15,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024663249153925122",
+        "in_reply_to_user_id": "1071180020327043074",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024493504123023834",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Uyghur_Report @grok 这是真的吗？帮我找一下视频出处"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2024493224090619905"
+          ]
+        },
+        "author_id": "1071180020327043074",
+        "conversation_id": "2024493504123023834",
+        "created_at": "2026-02-19T14:37:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T15:37:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024493504123023834"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 186,
+              "start": 173,
+              "tag": "Çinİşkencesi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rna4uy937Y",
+              "end": 210,
+              "expanded_url": "https://x.com/Uyghur_Report/status/2024493504123023834/video/1",
+              "media_key": "13_2024493224090619905",
+              "start": 187,
+              "url": "https://t.co/rna4uy937Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024493504123023834",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8507,
+          "impression_count": 4601514,
+          "like_count": 19754,
+          "quote_count": 340,
+          "reply_count": 850,
+          "retweet_count": 3492
+        },
+        "reply_settings": "everyone",
+        "text": "Çin’in Şençi aksanıyla konuşan Çinli erkekler, Çinli bir kadına elektrikli jop ile işkence ediyor.\n\nKendi kadınlarına bunu yapan toplama kampında neler yapmaz siz düşünün!\n\n#Çinİşkencesi https://t.co/rna4uy937Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-19T11:20:17.000Z",
+        "description": "小咲/09/od 割/同类fo了就回！很想交朋友都可以来和我玩随机爆金币，想到啥发啥非常喜欢评论",
+        "id": "2013209398395752448",
+        "name": "愛歌",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022474411425910784/CCV0vKhw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 48,
+          "like_count": 178,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 143
+        },
+        "username": "DesireLovet1qi",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-07T23:09:53.000Z",
+        "description": "Amacımız; işgal altındaki Doğu Türkistan'da Çin’in Uygur Soykırımını, politik, etnik ve kültürel imhasını Türkiye kamuoyuna duyurmaktır. For Eng: @UyghurReports",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 160,
+                "start": 146,
+                "username": "UyghurReports"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/uyghur_report?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/uyghur_report?igsh=Nzh1dWM3emNmaHR3",
+                "start": 0,
+                "url": "https://t.co/PQdl70UAFV"
+              }
+            ]
+          }
+        },
+        "id": "1071180020327043074",
+        "location": "Doğu Türkistan  ",
+        "name": "Doğu Türkistan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1629799889524670466/QG21u53Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99278,
+          "following_count": 153,
+          "like_count": 26118,
+          "listed_count": 146,
+          "media_count": 7883,
+          "tweet_count": 29851
+        },
+        "url": "https://t.co/PQdl70UAFV",
+        "username": "Uyghur_Report",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "pinned_tweet_id": "1955006865332638036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7993731,
+          "following_count": 3,
+          "like_count": 85,
+          "listed_count": 6125,
+          "media_count": 8349231,
+          "tweet_count": 105693578
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

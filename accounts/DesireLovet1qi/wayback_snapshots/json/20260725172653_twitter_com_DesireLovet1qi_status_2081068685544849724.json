@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2013209398395752448",
+    "conversation_id": "2081068685544849724",
+    "created_at": "2026-07-25T17:26:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T18:26:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081068685544849724"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1596798310785978369",
+          "start": 3,
+          "username": "maybeanormalppl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081068685544849724",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080798230313595285",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @maybeanormalppl: 我现在又肥又丑卖都卖不出价真挺绝望吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013209398395752448",
+        "conversation_id": "2081068685544849724",
+        "created_at": "2026-07-25T17:26:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T18:26:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081068685544849724"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1596798310785978369",
+              "start": 3,
+              "username": "maybeanormalppl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081068685544849724",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080798230313595285",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @maybeanormalppl: 我现在又肥又丑卖都卖不出价真挺绝望吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596798310785978369",
+        "conversation_id": "2080798230313595285",
+        "created_at": "2026-07-24T23:32:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T00:32:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080798230313595285"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080798230313595285",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1828,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我现在又肥又丑卖都卖不出价真挺绝望吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-19T11:20:17.000Z",
+        "description": "小咲/09/o/药理/重焦重抑 简中/English同类交友 查成分互fo喵！^ 没fo私我呀 来找我玩！主页药物均为合法渠道获取 想到啥发啥 上来骂我=你赢了☺️\n🚪52/88/128/188/288 赚点钱买药🥲\n粥好友免费扩～\n请理性探讨 提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/desirelovet1qi",
+                "end": 23,
+                "expanded_url": "https://ngl.link/desirelovet1qi",
+                "start": 0,
+                "url": "https://t.co/1k4V17Yh8s"
+              }
+            ]
+          }
+        },
+        "id": "2013209398395752448",
+        "location": "^猫猫天国行くよ^",
+        "name": "愛歌",
+        "pinned_tweet_id": "2068551593046446370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043464203944747008/Seln5ql5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 880,
+          "following_count": 473,
+          "like_count": 711,
+          "listed_count": 1,
+          "media_count": 121,
+          "tweet_count": 880
+        },
+        "url": "https://t.co/1k4V17Yh8s",
+        "username": "DesireLovet1qi",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-27T09:29:34.000Z",
+        "description": "一只普通人。\n普通话 | 粤语 | English | 日本語 | 自动化专业本科休学中，嵌入式（51、stm32），plc | 恋人：@XI2VANAS",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 68,
+                "username": "XI2VANAS"
+              }
+            ]
+          }
+        },
+        "id": "1596798310785978369",
+        "location": "utopia",
+        "name": "a normal ppl",
+        "pinned_tweet_id": "2069898187507425550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774829944306302976/I1pin9Zp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2443,
+          "following_count": 734,
+          "like_count": 16041,
+          "listed_count": 6,
+          "media_count": 995,
+          "tweet_count": 20925
+        },
+        "url": "",
+        "username": "maybeanormalppl",
+        "verified": true
+      }
+    ]
+  }
+}

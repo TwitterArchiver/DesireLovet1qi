@@ -1,0 +1,482 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2013209398395752448",
+    "conversation_id": "2049857555581776249",
+    "created_at": "2026-04-30T14:25:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T15:25:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049857555581776249"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 74,
+          "start": 71,
+          "tag": "门槛"
+        },
+        {
+          "end": 79,
+          "start": 75,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 84,
+          "start": 80,
+          "tag": "求入门"
+        },
+        {
+          "end": 88,
+          "start": 85,
+          "tag": "线上"
+        },
+        {
+          "end": 94,
+          "start": 89,
+          "tag": "电子女友"
+        },
+        {
+          "end": 98,
+          "start": 95,
+          "tag": "非绿"
+        },
+        {
+          "end": 102,
+          "start": 99,
+          "tag": "线下"
+        },
+        {
+          "end": 108,
+          "start": 103,
+          "tag": "金主爸爸"
+        },
+        {
+          "end": 113,
+          "start": 109,
+          "tag": "求包养"
+        },
+        {
+          "end": 117,
+          "start": 114,
+          "tag": "女大"
+        },
+        {
+          "end": 121,
+          "start": 118,
+          "tag": "反差"
+        },
+        {
+          "end": 125,
+          "start": 122,
+          "tag": "媚男"
+        },
+        {
+          "end": 129,
+          "start": 126,
+          "tag": "半绿"
+        },
+        {
+          "end": 133,
+          "start": 130,
+          "tag": "陪玩"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1950510425042546689",
+          "start": 3,
+          "username": "miaomiaojiangyi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049857555581776249",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 27
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047626611181416540",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @miaomiaojiangyi: 超级缺钱喵！\n喜欢玩（哥哥懂的吧）\n喜欢的哥哥可以入门的\n入门找我领福利哟\n欢迎宝贝互转互fo ～\n#门槛 #门槛妹 #求入门 #线上 #电子女友 #非绿 #线下 #金主爸爸 #求包养 #女大 #反差 #媚男 #半绿 #陪玩 https…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1002,
+        "media_key": "3_2047626597587619840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGqhiq3aEAAS2m5.jpg",
+        "width": 1284
+      },
+      {
+        "height": 1565,
+        "media_key": "3_2047626597583540224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGqhiq2b0AAZcGM.jpg",
+        "width": 1125
+      },
+      {
+        "height": 1568,
+        "media_key": "3_2047626597579255809",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGqhiq1acAEG8id.jpg",
+        "width": 1151
+      },
+      {
+        "height": 1567,
+        "media_key": "3_2047626597600301056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGqhiq6bkAA2F_1.jpg",
+        "width": 1102
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013209398395752448",
+        "conversation_id": "2049857555581776249",
+        "created_at": "2026-04-30T14:25:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T15:25:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049857555581776249"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 74,
+              "start": 71,
+              "tag": "门槛"
+            },
+            {
+              "end": 79,
+              "start": 75,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 84,
+              "start": 80,
+              "tag": "求入门"
+            },
+            {
+              "end": 88,
+              "start": 85,
+              "tag": "线上"
+            },
+            {
+              "end": 94,
+              "start": 89,
+              "tag": "电子女友"
+            },
+            {
+              "end": 98,
+              "start": 95,
+              "tag": "非绿"
+            },
+            {
+              "end": 102,
+              "start": 99,
+              "tag": "线下"
+            },
+            {
+              "end": 108,
+              "start": 103,
+              "tag": "金主爸爸"
+            },
+            {
+              "end": 113,
+              "start": 109,
+              "tag": "求包养"
+            },
+            {
+              "end": 117,
+              "start": 114,
+              "tag": "女大"
+            },
+            {
+              "end": 121,
+              "start": 118,
+              "tag": "反差"
+            },
+            {
+              "end": 125,
+              "start": 122,
+              "tag": "媚男"
+            },
+            {
+              "end": 129,
+              "start": 126,
+              "tag": "半绿"
+            },
+            {
+              "end": 133,
+              "start": 130,
+              "tag": "陪玩"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1950510425042546689",
+              "start": 3,
+              "username": "miaomiaojiangyi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049857555581776249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 27
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047626611181416540",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @miaomiaojiangyi: 超级缺钱喵！\n喜欢玩（哥哥懂的吧）\n喜欢的哥哥可以入门的\n入门找我领福利哟\n欢迎宝贝互转互fo ～\n#门槛 #门槛妹 #求入门 #线上 #电子女友 #非绿 #线下 #金主爸爸 #求包养 #女大 #反差 #媚男 #半绿 #陪玩 https…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047626597587619840",
+            "3_2047626597583540224",
+            "3_2047626597579255809",
+            "3_2047626597600301056"
+          ]
+        },
+        "author_id": "1950510425042546689",
+        "conversation_id": "2047626611181416540",
+        "created_at": "2026-04-24T10:40:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T11:40:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047626611181416540"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 53,
+              "start": 50,
+              "tag": "门槛"
+            },
+            {
+              "end": 58,
+              "start": 54,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 63,
+              "start": 59,
+              "tag": "求入门"
+            },
+            {
+              "end": 67,
+              "start": 64,
+              "tag": "线上"
+            },
+            {
+              "end": 73,
+              "start": 68,
+              "tag": "电子女友"
+            },
+            {
+              "end": 77,
+              "start": 74,
+              "tag": "非绿"
+            },
+            {
+              "end": 81,
+              "start": 78,
+              "tag": "线下"
+            },
+            {
+              "end": 87,
+              "start": 82,
+              "tag": "金主爸爸"
+            },
+            {
+              "end": 92,
+              "start": 88,
+              "tag": "求包养"
+            },
+            {
+              "end": 96,
+              "start": 93,
+              "tag": "女大"
+            },
+            {
+              "end": 100,
+              "start": 97,
+              "tag": "反差"
+            },
+            {
+              "end": 104,
+              "start": 101,
+              "tag": "媚男"
+            },
+            {
+              "end": 108,
+              "start": 105,
+              "tag": "半绿"
+            },
+            {
+              "end": 112,
+              "start": 109,
+              "tag": "陪玩"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5vTvgSPRgn",
+              "end": 136,
+              "expanded_url": "https://x.com/miaomiaojiangyi/status/2047626611181416540/photo/1",
+              "media_key": "3_2047626597587619840",
+              "start": 113,
+              "url": "https://t.co/5vTvgSPRgn"
+            },
+            {
+              "display_url": "pic.x.com/5vTvgSPRgn",
+              "end": 136,
+              "expanded_url": "https://x.com/miaomiaojiangyi/status/2047626611181416540/photo/1",
+              "media_key": "3_2047626597583540224",
+              "start": 113,
+              "url": "https://t.co/5vTvgSPRgn"
+            },
+            {
+              "display_url": "pic.x.com/5vTvgSPRgn",
+              "end": 136,
+              "expanded_url": "https://x.com/miaomiaojiangyi/status/2047626611181416540/photo/1",
+              "media_key": "3_2047626597579255809",
+              "start": 113,
+              "url": "https://t.co/5vTvgSPRgn"
+            },
+            {
+              "display_url": "pic.x.com/5vTvgSPRgn",
+              "end": 136,
+              "expanded_url": "https://x.com/miaomiaojiangyi/status/2047626611181416540/photo/1",
+              "media_key": "3_2047626597600301056",
+              "start": 113,
+              "url": "https://t.co/5vTvgSPRgn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047626611181416540",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3946,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "超级缺钱喵！\n喜欢玩（哥哥懂的吧）\n喜欢的哥哥可以入门的\n入门找我领福利哟\n欢迎宝贝互转互fo ～\n#门槛 #门槛妹 #求入门 #线上 #电子女友 #非绿 #线下 #金主爸爸 #求包养 #女大 #反差 #媚男 #半绿 #陪玩 https://t.co/5vTvgSPRgn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-19T11:20:17.000Z",
+        "description": "小咲/09/od 割/药理/重焦重抑  简中/English同类交友 查成分互fo喵！^ 没fo私我呀 来找我玩！想到啥发啥非常喜欢评论 上来骂我=你赢了恭喜毕业☺️请理性探讨 提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/desirelovet1qi",
+                "end": 23,
+                "expanded_url": "https://ngl.link/desirelovet1qi",
+                "start": 0,
+                "url": "https://t.co/1k4V17YOY0"
+              }
+            ]
+          }
+        },
+        "id": "2013209398395752448",
+        "location": "^猫猫天国行くよ^",
+        "name": "愛歌",
+        "pinned_tweet_id": "2044175216386158879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043464203944747008/Seln5ql5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 438,
+          "following_count": 336,
+          "like_count": 455,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 456
+        },
+        "url": "https://t.co/1k4V17YOY0",
+        "username": "DesireLovet1qi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-30T10:55:04.000Z",
+        "description": "看到都会回复的 坐标20r 喜欢有礼貌的哥哥！",
+        "id": "1950510425042546689",
+        "name": "一只面包猫（要天天开心呀）",
+        "pinned_tweet_id": "2047626611181416540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950511294286864385/Ei_b2r63_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 977,
+          "following_count": 232,
+          "like_count": 216,
+          "listed_count": 2,
+          "media_count": 34,
+          "tweet_count": 845
+        },
+        "username": "miaomiaojiangyi",
+        "verified": false
+      }
+    ]
+  }
+}
