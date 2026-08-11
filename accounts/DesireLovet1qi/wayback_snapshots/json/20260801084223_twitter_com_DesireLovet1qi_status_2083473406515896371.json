@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083473391181582336"
+      ]
+    },
+    "author_id": "2013209398395752448",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2083346208719012132",
+    "created_at": "2026-08-01T08:42:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T09:42:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083473406515896371"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2061347181525946368",
+          "start": 0,
+          "username": "liwenxinjvn8"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sKBXWK0YTw",
+          "end": 44,
+          "expanded_url": "https://x.com/DesireLovet1qi/status/2083473406515896371/photo/1",
+          "media_key": "3_2083473391181582336",
+          "start": 21,
+          "url": "https://t.co/sKBXWK0YTw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083473406515896371",
+    "in_reply_to_user_id": "2061347181525946368",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083453801277583529",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liwenxinjvn8 25抽已抽到 https://t.co/sKBXWK0YTw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 943,
+        "media_key": "3_2083473391181582336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOn8ArRbUAAmuqZ.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083473391181582336"
+          ]
+        },
+        "author_id": "2013209398395752448",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2083346208719012132",
+        "created_at": "2026-08-01T08:42:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T09:42:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083473406515896371"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2061347181525946368",
+              "start": 0,
+              "username": "liwenxinjvn8"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sKBXWK0YTw",
+              "end": 44,
+              "expanded_url": "https://x.com/DesireLovet1qi/status/2083473406515896371/photo/1",
+              "media_key": "3_2083473391181582336",
+              "start": 21,
+              "url": "https://t.co/sKBXWK0YTw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083473406515896371",
+        "in_reply_to_user_id": "2061347181525946368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083453801277583529",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liwenxinjvn8 25抽已抽到 https://t.co/sKBXWK0YTw"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061347181525946368",
+        "conversation_id": "2083346208719012132",
+        "created_at": "2026-08-01T07:24:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T08:24:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083453801277583529"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2013209398395752448",
+              "start": 0,
+              "username": "DesireLovet1qi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083453801277583529",
+        "in_reply_to_user_id": "2013209398395752448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083346208719012132",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DesireLovet1qi 主播抽夏油杰了吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-19T11:20:17.000Z",
+        "description": "小咲/09/o/药理/重焦重抑 简中/English同类交友 查成分互fo喵！^ 没fo私我呀 来找我玩！主页药物均为合法渠道获取 想到啥发啥 上来骂我=你赢了☺️\n🚪52/88/128/188/288 赚点钱买药🥲\n粥好友免费扩～\n请理性探讨 提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/desirelovet1qi",
+                "end": 23,
+                "expanded_url": "https://ngl.link/desirelovet1qi",
+                "start": 0,
+                "url": "https://t.co/1k4V17Yh8s"
+              }
+            ]
+          }
+        },
+        "id": "2013209398395752448",
+        "location": "^猫猫天国行くよ^",
+        "name": "愛歌",
+        "pinned_tweet_id": "2083346208719012132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043464203944747008/Seln5ql5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 939,
+          "following_count": 494,
+          "like_count": 750,
+          "listed_count": 1,
+          "media_count": 127,
+          "tweet_count": 931
+        },
+        "url": "https://t.co/1k4V17Yh8s",
+        "username": "DesireLovet1qi",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-01T07:21:06.000Z",
+        "description": "",
+        "id": "2061347181525946368",
+        "name": "6527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074161523602456576/ekU9Q0v2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 58,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 2
+        },
+        "url": "",
+        "username": "liwenxinjvn8",
+        "verified": false
+      }
+    ]
+  }
+}

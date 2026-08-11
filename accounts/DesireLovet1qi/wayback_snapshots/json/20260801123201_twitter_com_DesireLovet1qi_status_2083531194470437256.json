@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2013209398395752448",
+    "conversation_id": "2083475217943498829",
+    "created_at": "2026-08-01T12:32:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T13:32:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083531194470437256"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1939281134010904576",
+          "start": 0,
+          "username": "emptyblisters"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083531194470437256",
+    "in_reply_to_user_id": "1939281134010904576",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083500877592047618",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@emptyblisters What does it mean?"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013209398395752448",
+        "conversation_id": "2083475217943498829",
+        "created_at": "2026-08-01T12:32:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T13:32:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083531194470437256"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1939281134010904576",
+              "start": 0,
+              "username": "emptyblisters"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083531194470437256",
+        "in_reply_to_user_id": "1939281134010904576",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083500877592047618",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@emptyblisters What does it mean?"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939281134010904576",
+        "conversation_id": "2083475217943498829",
+        "created_at": "2026-08-01T10:31:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T11:31:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083500877592047618"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2013209398395752448",
+              "start": 0,
+              "username": "DesireLovet1qi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083500877592047618",
+        "in_reply_to_user_id": "2013209398395752448",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083475217943498829",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DesireLovet1qi Moots?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-19T11:20:17.000Z",
+        "description": "小咲/09/o/药理/重焦重抑 简中/English同类交友 查成分互fo喵！^ 没fo私我呀 来找我玩！主页药物均为合法渠道获取 想到啥发啥 上来骂我=你赢了☺️\n🚪52/88/128/188/288 赚点钱买药🥲\n粥好友免费扩～\n请理性探讨 提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/desirelovet1qi",
+                "end": 23,
+                "expanded_url": "https://ngl.link/desirelovet1qi",
+                "start": 0,
+                "url": "https://t.co/1k4V17Yh8s"
+              }
+            ]
+          }
+        },
+        "id": "2013209398395752448",
+        "location": "^猫猫天国行くよ^",
+        "name": "愛歌",
+        "pinned_tweet_id": "2083346208719012132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043464203944747008/Seln5ql5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 949,
+          "following_count": 498,
+          "like_count": 752,
+          "listed_count": 1,
+          "media_count": 127,
+          "tweet_count": 939
+        },
+        "url": "https://t.co/1k4V17Yh8s",
+        "username": "DesireLovet1qi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-29T11:13:57.000Z",
+        "description": "I do many drugs, I'm not new here. #drugtwt #shtwt #kleptotwt #ketamine #cocaine #meth  #morphine #opioids #heroin",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 43,
+                "start": 35,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 50,
+                "start": 44,
+                "tag": "shtwt"
+              },
+              {
+                "end": 61,
+                "start": 51,
+                "tag": "kleptotwt"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "tag": "ketamine"
+              },
+              {
+                "end": 80,
+                "start": 72,
+                "tag": "cocaine"
+              },
+              {
+                "end": 86,
+                "start": 81,
+                "tag": "meth"
+              },
+              {
+                "end": 97,
+                "start": 88,
+                "tag": "morphine"
+              },
+              {
+                "end": 106,
+                "start": 98,
+                "tag": "opioids"
+              },
+              {
+                "end": 114,
+                "start": 107,
+                "tag": "heroin"
+              }
+            ]
+          }
+        },
+        "id": "1939281134010904576",
+        "location": "ERA 💉💉",
+        "name": "𝕄𝕆ℝ𝔽𝕀ℕ𝕀𝕋𝔸",
+        "pinned_tweet_id": "1954475974134825316",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043895462378242048/1945YGTA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 886,
+          "following_count": 985,
+          "like_count": 7586,
+          "listed_count": 4,
+          "media_count": 63,
+          "tweet_count": 828
+        },
+        "url": "",
+        "username": "emptyblisters",
+        "verified": false
+      }
+    ]
+  }
+}

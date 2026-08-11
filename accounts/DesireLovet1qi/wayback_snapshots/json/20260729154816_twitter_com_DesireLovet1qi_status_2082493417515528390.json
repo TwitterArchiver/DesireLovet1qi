@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2013209398395752448",
+    "conversation_id": "2082493417515528390",
+    "created_at": "2026-07-29T15:48:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T16:48:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082493417515528390"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1389396065485398018",
+          "start": 3,
+          "username": "Yily_cici"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082493417515528390",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 176
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082043844238123016",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yily_cici: 我对所有人的接受程度belike：\n鬼图：牛逼哪来的\n裸照：牛逼真敢发\n自残：牛逼真敢割\n磕药：牛逼真敢磕\n炫富：牛逼真有钱\n幸福：牛逼真幸福\n福瑞：牛逼真可爱\n文案：牛逼复制了\n穷逼：牛逼我也是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013209398395752448",
+        "conversation_id": "2082493417515528390",
+        "created_at": "2026-07-29T15:48:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T16:48:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082493417515528390"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1389396065485398018",
+              "start": 3,
+              "username": "Yily_cici"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082493417515528390",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 176
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082043844238123016",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yily_cici: 我对所有人的接受程度belike：\n鬼图：牛逼哪来的\n裸照：牛逼真敢发\n自残：牛逼真敢割\n磕药：牛逼真敢磕\n炫富：牛逼真有钱\n幸福：牛逼真幸福\n福瑞：牛逼真可爱\n文案：牛逼复制了\n穷逼：牛逼我也是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1389396065485398018",
+        "conversation_id": "2082043844238123016",
+        "created_at": "2026-07-28T10:01:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T11:01:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082043844238123016"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082043844238123016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 42252,
+          "like_count": 1516,
+          "quote_count": 9,
+          "reply_count": 109,
+          "retweet_count": 176
+        },
+        "reply_settings": "everyone",
+        "text": "我对所有人的接受程度belike：\n鬼图：牛逼哪来的\n裸照：牛逼真敢发\n自残：牛逼真敢割\n磕药：牛逼真敢磕\n炫富：牛逼真有钱\n幸福：牛逼真幸福\n福瑞：牛逼真可爱\n文案：牛逼复制了\n穷逼：牛逼我也是"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-19T11:20:17.000Z",
+        "description": "小咲/09/o/药理/重焦重抑 简中/English同类交友 查成分互fo喵！^ 没fo私我呀 来找我玩！主页药物均为合法渠道获取 想到啥发啥 上来骂我=你赢了☺️\n🚪52/88/128/188/288 赚点钱买药🥲\n粥好友免费扩～\n请理性探讨 提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/desirelovet1qi",
+                "end": 23,
+                "expanded_url": "https://ngl.link/desirelovet1qi",
+                "start": 0,
+                "url": "https://t.co/1k4V17Yh8s"
+              }
+            ]
+          }
+        },
+        "id": "2013209398395752448",
+        "location": "^猫猫天国行くよ^",
+        "name": "愛歌",
+        "pinned_tweet_id": "2068551593046446370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043464203944747008/Seln5ql5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 915,
+          "following_count": 484,
+          "like_count": 744,
+          "listed_count": 1,
+          "media_count": 123,
+          "tweet_count": 915
+        },
+        "url": "https://t.co/1k4V17Yh8s",
+        "username": "DesireLovet1qi",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-04T01:47:03.000Z",
+        "description": "有时候话多有点吵。如果打扰到你了请给我屏蔽掉。对不起。oxo \n owo请礼貌私信 选回 互关可加v",
+        "id": "1389396065485398018",
+        "location": "你的身边。",
+        "name": "窒息的生活。",
+        "pinned_tweet_id": "2081905696757686330",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081497059312721920/vD8ix7nL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 30,
+          "like_count": 1506,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 93
+        },
+        "url": "",
+        "username": "Yily_cici",
+        "verified": false
+      }
+    ]
+  }
+}

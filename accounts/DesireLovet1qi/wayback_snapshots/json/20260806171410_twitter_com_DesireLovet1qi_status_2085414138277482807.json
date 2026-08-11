@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2013209398395752448",
+    "conversation_id": "2085401337479803374",
+    "created_at": "2026-08-06T17:14:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T18:14:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085414138277482807"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1812304729432838144",
+          "start": 0,
+          "username": "huimu420"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085414138277482807",
+    "in_reply_to_user_id": "1812304729432838144",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085414029905056070",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huimu420 呜呜呜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013209398395752448",
+        "conversation_id": "2085401337479803374",
+        "created_at": "2026-08-06T17:14:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T18:14:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085414138277482807"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1812304729432838144",
+              "start": 0,
+              "username": "huimu420"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085414138277482807",
+        "in_reply_to_user_id": "1812304729432838144",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085414029905056070",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huimu420 呜呜呜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1812304729432838144",
+        "conversation_id": "2085401337479803374",
+        "created_at": "2026-08-06T17:13:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T18:13:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085414029905056070"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2013209398395752448",
+              "start": 0,
+              "username": "DesireLovet1qi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085414029905056070",
+        "in_reply_to_user_id": "2013209398395752448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085401337479803374",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DesireLovet1qi 可是药物好难死…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-19T11:20:17.000Z",
+        "description": "小咲/09/o/药理/重焦重抑 简中/English同类交友 查成分互fo喵！^ 没fo私我呀 来找我玩！主页药物均为合法渠道获取 想到啥发啥 上来骂我=你赢了☺️\n🚪52/88/128/188/288 赚点钱买药 我不接线下🥲\n粥好友免费扩～\n请理性探讨 提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/desirelovet1qi",
+                "end": 23,
+                "expanded_url": "https://ngl.link/desirelovet1qi",
+                "start": 0,
+                "url": "https://t.co/1k4V17Yh8s"
+              }
+            ]
+          }
+        },
+        "id": "2013209398395752448",
+        "location": "^猫猫天国行くよ^",
+        "name": "愛歌",
+        "pinned_tweet_id": "2083346208719012132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043464203944747008/Seln5ql5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1001,
+          "following_count": 514,
+          "like_count": 762,
+          "listed_count": 1,
+          "media_count": 129,
+          "tweet_count": 966
+        },
+        "url": "https://t.co/1k4V17Yh8s",
+        "username": "DesireLovet1qi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-14T01:55:01.000Z",
+        "description": "我是回木｜割手od｜负能｜很混乱会自相矛盾\n泛浪漫｜代词喜欢TA｜LGBTQ+全友好｜\n我的爱人是酷拉皮卡♡喜欢黄发神职人员眼镜\n喜欢温柔的人。不喜欢的就b了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huimu4201",
+                "end": 23,
+                "expanded_url": "https://ngl.link/huimu4201",
+                "start": 0,
+                "url": "https://t.co/oipIneyJSB"
+              }
+            ]
+          }
+        },
+        "id": "1812304729432838144",
+        "location": "提问箱",
+        "name": "回木",
+        "pinned_tweet_id": "1998726583951982824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008334036159090688/E-dxw_RT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 878,
+          "following_count": 815,
+          "like_count": 34048,
+          "listed_count": 1,
+          "media_count": 261,
+          "tweet_count": 9208
+        },
+        "url": "https://t.co/oipIneyJSB",
+        "username": "huimu420",
+        "verified": false
+      }
+    ]
+  }
+}

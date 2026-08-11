@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082003906192965632"
+      ],
+      "media_source_tweet_id": [
+        "2082003913738514714"
+      ]
+    },
+    "author_id": "2013209398395752448",
+    "conversation_id": "2082492291286290512",
+    "created_at": "2026-07-29T15:43:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T16:43:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082492291286290512"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2038549797527830529",
+          "start": 3,
+          "username": "agame_i0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EFSyhlA1WP",
+          "end": 51,
+          "expanded_url": "https://x.com/agame_i0/status/2082003913738514714/photo/1",
+          "media_key": "3_2082003906192965632",
+          "start": 28,
+          "url": "https://t.co/EFSyhlA1WP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082492291286290512",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 824
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082003913738514714",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @agame_i0: 大丈夫もう何も怖くないから https://t.co/EFSyhlA1WP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2082003906192965632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOTDhZGbgAAtRt_.jpg",
+        "width": 1603
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082003906192965632"
+          ]
+        },
+        "author_id": "2038549797527830529",
+        "conversation_id": "2082003913738514714",
+        "created_at": "2026-07-28T07:23:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T08:23:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082003913738514714"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EFSyhlA1WP",
+              "end": 37,
+              "expanded_url": "https://x.com/agame_i0/status/2082003913738514714/photo/1",
+              "media_key": "3_2082003906192965632",
+              "start": 14,
+              "url": "https://t.co/EFSyhlA1WP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082003913738514714",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 449,
+          "impression_count": 71061,
+          "like_count": 7690,
+          "quote_count": 23,
+          "reply_count": 14,
+          "retweet_count": 824
+        },
+        "reply_settings": "everyone",
+        "text": "大丈夫もう何も怖くないから https://t.co/EFSyhlA1WP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082003906192965632"
+          ],
+          "media_source_tweet_id": [
+            "2082003913738514714"
+          ]
+        },
+        "author_id": "2013209398395752448",
+        "conversation_id": "2082492291286290512",
+        "created_at": "2026-07-29T15:43:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T16:43:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082492291286290512"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2038549797527830529",
+              "start": 3,
+              "username": "agame_i0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EFSyhlA1WP",
+              "end": 51,
+              "expanded_url": "https://x.com/agame_i0/status/2082003913738514714/photo/1",
+              "media_key": "3_2082003906192965632",
+              "start": 28,
+              "url": "https://t.co/EFSyhlA1WP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082492291286290512",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 824
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082003913738514714",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @agame_i0: 大丈夫もう何も怖くないから https://t.co/EFSyhlA1WP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-19T11:20:17.000Z",
+        "description": "小咲/09/o/药理/重焦重抑 简中/English同类交友 查成分互fo喵！^ 没fo私我呀 来找我玩！主页药物均为合法渠道获取 想到啥发啥 上来骂我=你赢了☺️\n🚪52/88/128/188/288 赚点钱买药🥲\n粥好友免费扩～\n请理性探讨 提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/desirelovet1qi",
+                "end": 23,
+                "expanded_url": "https://ngl.link/desirelovet1qi",
+                "start": 0,
+                "url": "https://t.co/1k4V17Yh8s"
+              }
+            ]
+          }
+        },
+        "id": "2013209398395752448",
+        "location": "^猫猫天国行くよ^",
+        "name": "愛歌",
+        "pinned_tweet_id": "2068551593046446370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043464203944747008/Seln5ql5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 915,
+          "following_count": 484,
+          "like_count": 742,
+          "listed_count": 1,
+          "media_count": 123,
+          "tweet_count": 914
+        },
+        "url": "https://t.co/1k4V17Yh8s",
+        "username": "DesireLovet1qi",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-30T09:32:07.000Z",
+        "description": "サブ@agame__3 イラストはハイライト♡",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "agame__3"
+              }
+            ]
+          }
+        },
+        "id": "2038549797527830529",
+        "name": "めり",
+        "pinned_tweet_id": "2071132937194819952",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076907604127932416/Wmh640ex_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 535,
+          "following_count": 20,
+          "like_count": 898,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 83
+        },
+        "url": "",
+        "username": "agame_i0",
+        "verified": true
+      }
+    ]
+  }
+}

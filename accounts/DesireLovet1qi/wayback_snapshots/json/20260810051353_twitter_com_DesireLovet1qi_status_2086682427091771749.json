@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2013209398395752448",
+    "conversation_id": "2086682427091771749",
+    "created_at": "2026-08-10T05:13:53.000Z",
+    "display_text_range": [
+      0,
+      130
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T06:13:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086682427091771749"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2055376212751470593",
+          "start": 3,
+          "username": "AngelMayLies"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086682427091771749",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085052947214586223",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AngelMayLies: 老板给我五斤忘情古柯碱\n老板给我五斤忘情氯胺酮\n老板给我五斤忘情安非他命\n老板给我五斤忘情阿普唑仑\n老板给我五斤忘情dpt\n老板给我五斤忘情LSD\n老板给我五斤忘情大麻花\n老板给我五斤忘情4homet\n老板给我五斤忘情吗啡针"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013209398395752448",
+        "conversation_id": "2086682427091771749",
+        "created_at": "2026-08-10T05:13:53.000Z",
+        "display_text_range": [
+          0,
+          130
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T06:13:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086682427091771749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2055376212751470593",
+              "start": 3,
+              "username": "AngelMayLies"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086682427091771749",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085052947214586223",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AngelMayLies: 老板给我五斤忘情古柯碱\n老板给我五斤忘情氯胺酮\n老板给我五斤忘情安非他命\n老板给我五斤忘情阿普唑仑\n老板给我五斤忘情dpt\n老板给我五斤忘情LSD\n老板给我五斤忘情大麻花\n老板给我五斤忘情4homet\n老板给我五斤忘情吗啡针"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055376212751470593",
+        "conversation_id": "2085052947214586223",
+        "created_at": "2026-08-05T17:18:55.000Z",
+        "display_text_range": [
+          0,
+          112
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-05T18:18:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085052947214586223"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085052947214586223",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 614,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "老板给我五斤忘情古柯碱\n老板给我五斤忘情氯胺酮\n老板给我五斤忘情安非他命\n老板给我五斤忘情阿普唑仑\n老板给我五斤忘情dpt\n老板给我五斤忘情LSD\n老板给我五斤忘情大麻花\n老板给我五斤忘情4homet\n老板给我五斤忘情吗啡针"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-01-19T11:20:17.000Z",
+        "description": "小咲/09/o/药理/重焦重抑 简中/English同类交友 查成分互fo喵！^ 没fo私我呀 来找我玩！主页药物均为合法渠道获取 想到啥发啥 上来骂我=你赢了☺️\n🚪52/88/128/188/288 赚点钱买药 我不接线下🥲\n粥好友免费扩～\n请理性探讨 提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/desirelovet1qi",
+                "end": 23,
+                "expanded_url": "https://ngl.link/desirelovet1qi",
+                "start": 0,
+                "url": "https://t.co/1k4V17Yh8s"
+              }
+            ]
+          }
+        },
+        "id": "2013209398395752448",
+        "is_identity_verified": false,
+        "location": "^猫猫天国行くよ^",
+        "most_recent_tweet_id": "2086682427091771749",
+        "name": "愛歌",
+        "pinned_tweet_id": "2083346208719012132",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2013209398395752448/1776056737",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043464203944747008/Seln5ql5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1050,
+          "following_count": 533,
+          "like_count": 780,
+          "listed_count": 1,
+          "media_count": 132,
+          "tweet_count": 994
+        },
+        "url": "https://t.co/1k4V17Yh8s",
+        "username": "DesireLovet1qi",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学|⚠#5htwt #drugtwt ⚠️(不经常)|我是Dizzy也可以叫我枭儿| he/them | #dmctwt 🍕| it's fine to stay slay｜同人女被我关注别害怕我就是个乐子",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 49,
+                "tag": "5htwt"
+              },
+              {
+                "end": 64,
+                "start": 56,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "tag": "dmctwt"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "is_identity_verified": false,
+        "location": "Redgrave🩸",
+        "most_recent_tweet_id": "2086663449594241506",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2081763087821209966",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055376212751470593/1785026311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084996014550007808/zOesgzcP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 67,
+          "like_count": 2065,
+          "listed_count": 1,
+          "media_count": 68,
+          "tweet_count": 965
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

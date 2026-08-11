@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085725648023175168"
+      ]
+    },
+    "author_id": "2013209398395752448",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2085725667308544458",
+    "created_at": "2026-08-07T13:52:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T14:52:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085725667308544458"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2074568420574851072",
+          "start": 0,
+          "username": "jinshi778899"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/d4dMLHrKEW",
+          "end": 46,
+          "expanded_url": "https://x.com/DesireLovet1qi/status/2085725667308544458/photo/1",
+          "media_key": "3_2085725648023175168",
+          "start": 23,
+          "url": "https://t.co/d4dMLHrKEW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085725667308544458",
+    "in_reply_to_user_id": "2074568420574851072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@jinshi778899 这个牛逼我不解释 https://t.co/d4dMLHrKEW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2085725648023175168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPH8bR1XwAAzGyq.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085725648023175168"
+          ]
+        },
+        "author_id": "2013209398395752448",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2085725667308544458",
+        "created_at": "2026-08-07T13:52:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T14:52:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085725667308544458"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2074568420574851072",
+              "start": 0,
+              "username": "jinshi778899"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/d4dMLHrKEW",
+              "end": 46,
+              "expanded_url": "https://x.com/DesireLovet1qi/status/2085725667308544458/photo/1",
+              "media_key": "3_2085725648023175168",
+              "start": 23,
+              "url": "https://t.co/d4dMLHrKEW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085725667308544458",
+        "in_reply_to_user_id": "2074568420574851072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@jinshi778899 这个牛逼我不解释 https://t.co/d4dMLHrKEW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-19T11:20:17.000Z",
+        "description": "小咲/09/o/药理/重焦重抑 简中/English同类交友 查成分互fo喵！^ 没fo私我呀 来找我玩！主页药物均为合法渠道获取 想到啥发啥 上来骂我=你赢了☺️\n🚪52/88/128/188/288 赚点钱买药 我不接线下🥲\n粥好友免费扩～\n请理性探讨 提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/desirelovet1qi",
+                "end": 23,
+                "expanded_url": "https://ngl.link/desirelovet1qi",
+                "start": 0,
+                "url": "https://t.co/1k4V17Yh8s"
+              }
+            ]
+          }
+        },
+        "id": "2013209398395752448",
+        "location": "^猫猫天国行くよ^",
+        "name": "愛歌",
+        "pinned_tweet_id": "2083346208719012132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043464203944747008/Seln5ql5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1036,
+          "following_count": 530,
+          "like_count": 769,
+          "listed_count": 1,
+          "media_count": 130,
+          "tweet_count": 978
+        },
+        "url": "https://t.co/1k4V17Yh8s",
+        "username": "DesireLovet1qi",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-07T18:57:55.000Z",
+        "description": "资深老oder 欢迎各种询问 | 🈲政｜出售单方右美沙芬 需要的私 私信常开 请确保了解药理后再服用 备用号@yinshi778899",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 54,
+                "username": "yinshi778899"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/KIKOnb666",
+                "end": 23,
+                "expanded_url": "https://t.me/KIKOnb666",
+                "start": 0,
+                "url": "https://t.co/ZdR23jTRXh"
+              }
+            ]
+          }
+        },
+        "id": "2074568420574851072",
+        "location": "新加坡",
+        "name": "金时（互fo）🍥💻",
+        "pinned_tweet_id": "2082559622620303689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074569945795747840/kOiJ_Z_v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 487,
+          "following_count": 213,
+          "like_count": 249,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 274
+        },
+        "url": "https://t.co/ZdR23jTRXh",
+        "username": "jinshi778899",
+        "verified": true
+      }
+    ]
+  }
+}
