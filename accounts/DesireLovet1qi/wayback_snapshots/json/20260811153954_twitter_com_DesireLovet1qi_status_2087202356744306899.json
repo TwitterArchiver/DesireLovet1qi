@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086467318797021185"
+      ],
+      "media_source_tweet_id": [
+        "2086467326921277502"
+      ]
+    },
+    "author_id": "2013209398395752448",
+    "conversation_id": "2087202356744306899",
+    "created_at": "2026-08-11T15:39:54.000Z",
+    "display_text_range": [
+      0,
+      55
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T16:39:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087202356744306899"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1573704119516176384",
+          "start": 3,
+          "username": "SnozakiSakura"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ma9kNKVm5P",
+          "end": 55,
+          "expanded_url": "https://x.com/SnozakiSakura/status/2086467326921277502/photo/1",
+          "media_key": "3_2086467318797021185",
+          "start": 32,
+          "url": "https://t.co/Ma9kNKVm5P"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087202356744306899",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2086467318797021185"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 470
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086467326921277502",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SnozakiSakura: 好想看两个漂亮姐姐谈恋爱 https://t.co/Ma9kNKVm5P"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2873,
+        "media_key": "3_2086467318797021185",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPSe-MxbsAEaH1G.jpg",
+        "width": 2280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086467318797021185"
+          ]
+        },
+        "author_id": "1573704119516176384",
+        "conversation_id": "2086467326921277502",
+        "created_at": "2026-08-09T14:59:10.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T15:59:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086467326921277502"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ma9kNKVm5P",
+              "end": 36,
+              "expanded_url": "https://x.com/SnozakiSakura/status/2086467326921277502/photo/1",
+              "media_key": "3_2086467318797021185",
+              "start": 13,
+              "url": "https://t.co/Ma9kNKVm5P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086467326921277502",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086467318797021185"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 259,
+          "impression_count": 121157,
+          "like_count": 7098,
+          "quote_count": 10,
+          "reply_count": 134,
+          "retweet_count": 470
+        },
+        "reply_settings": "everyone",
+        "text": "好想看两个漂亮姐姐谈恋爱 https://t.co/Ma9kNKVm5P"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086467318797021185"
+          ],
+          "media_source_tweet_id": [
+            "2086467326921277502"
+          ]
+        },
+        "author_id": "2013209398395752448",
+        "conversation_id": "2087202356744306899",
+        "created_at": "2026-08-11T15:39:54.000Z",
+        "display_text_range": [
+          0,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T16:39:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087202356744306899"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1573704119516176384",
+              "start": 3,
+              "username": "SnozakiSakura"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ma9kNKVm5P",
+              "end": 55,
+              "expanded_url": "https://x.com/SnozakiSakura/status/2086467326921277502/photo/1",
+              "media_key": "3_2086467318797021185",
+              "start": 32,
+              "url": "https://t.co/Ma9kNKVm5P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087202356744306899",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086467318797021185"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 470
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086467326921277502",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SnozakiSakura: 好想看两个漂亮姐姐谈恋爱 https://t.co/Ma9kNKVm5P"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-01-19T11:20:17.000Z",
+        "description": "小咲/09/o/药理/重焦重抑 简中/English同类交友 查成分互fo喵！^ 没fo私我呀 来找我玩！主页药物均为合法渠道获取 想到啥发啥 上来骂我=你赢了☺️\n🚪52/88/128/188/288 赚点钱买药 我不接线下🥲\n粥好友免费扩～\n请理性探讨 提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/desirelovet1qi",
+                "end": 23,
+                "expanded_url": "https://ngl.link/desirelovet1qi",
+                "start": 0,
+                "url": "https://t.co/1k4V17Yh8s"
+              }
+            ]
+          }
+        },
+        "id": "2013209398395752448",
+        "is_identity_verified": false,
+        "location": "^猫猫天国行くよ^",
+        "most_recent_tweet_id": "2087202356744306899",
+        "name": "愛歌",
+        "pinned_tweet_id": "2083346208719012132",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2013209398395752448/1776056737",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043464203944747008/Seln5ql5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1051,
+          "following_count": 529,
+          "like_count": 789,
+          "listed_count": 1,
+          "media_count": 133,
+          "tweet_count": 1008
+        },
+        "url": "https://t.co/1k4V17Yh8s",
+        "username": "DesireLovet1qi",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-09-24T16:01:21.000Z",
+        "description": "私は地雷系女の子です～🌸 | She/Her | 分享段子和有趣的故事 ｜好看的自拍照都在“亮点”里🍧｜Living today with the hope that tomorrow will be a little better🩷💙",
+        "id": "1573704119516176384",
+        "is_identity_verified": true,
+        "location": "魔女岛",
+        "most_recent_tweet_id": "2087190901991100782",
+        "name": "草莓泡芙🍀",
+        "pinned_tweet_id": "2076297327455981834",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1573704119516176384/1664107354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070709599590920192/O5wJU2Nl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97850,
+          "following_count": 2576,
+          "like_count": 7967,
+          "listed_count": 205,
+          "media_count": 886,
+          "tweet_count": 4682
+        },
+        "url": "",
+        "username": "SnozakiSakura",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

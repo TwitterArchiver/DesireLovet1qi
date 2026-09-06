@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2013209398395752448",
+    "conversation_id": "2086768886389817504",
+    "created_at": "2026-08-10T13:31:12.000Z",
+    "display_text_range": [
+      15,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T14:31:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086807580530368763"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1677656989051113472",
+          "start": 0,
+          "username": "qinghanyufeng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086807580530368763",
+    "in_reply_to_user_id": "1677656989051113472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086768886389817504",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qinghanyufeng os：os说得对"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013209398395752448",
+        "conversation_id": "2086768886389817504",
+        "created_at": "2026-08-10T13:31:12.000Z",
+        "display_text_range": [
+          15,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T14:31:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086807580530368763"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1677656989051113472",
+              "start": 0,
+              "username": "qinghanyufeng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086807580530368763",
+        "in_reply_to_user_id": "1677656989051113472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086768886389817504",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qinghanyufeng os：os说得对"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1677656989051113472",
+        "conversation_id": "2086768886389817504",
+        "created_at": "2026-08-10T10:57:27.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T11:57:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086768886389817504"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/DesireLovet1qi…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/DesireLovet1qi/status/2086693807974940769",
+              "start": 15,
+              "url": "https://t.co/ib1J48tOOu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086768886389817504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086693807974940769",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "os：好想和黑长直妈妈谈恋爱 https://t.co/ib1J48tOOu"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-01-19T11:20:17.000Z",
+        "description": "小咲/09/o/药理/重焦重抑 简中/English同类交友 查成分互fo喵！^ 没fo私我呀 来找我玩！主页药物均为合法渠道获取 想到啥发啥 上来骂我=你赢了☺️\n🚪52/88/128/188/288 赚点钱买药 我不接线下🥲\n粥好友免费扩～\n请理性探讨 提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/desirelovet1qi",
+                "end": 23,
+                "expanded_url": "https://ngl.link/desirelovet1qi",
+                "start": 0,
+                "url": "https://t.co/1k4V17Yh8s"
+              }
+            ]
+          }
+        },
+        "id": "2013209398395752448",
+        "is_identity_verified": false,
+        "location": "^猫猫天国行くよ^",
+        "most_recent_tweet_id": "2086807580530368763",
+        "name": "愛歌",
+        "pinned_tweet_id": "2083346208719012132",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2013209398395752448/1776056737",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043464203944747008/Seln5ql5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1052,
+          "following_count": 532,
+          "like_count": 781,
+          "listed_count": 1,
+          "media_count": 133,
+          "tweet_count": 998
+        },
+        "url": "https://t.co/1k4V17Yh8s",
+        "username": "DesireLovet1qi",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-08T12:33:02.000Z",
+        "description": "双相/或许算二周目/精神状态欠佳/疯子/有紫餐倾向（可能掉落血图⚠️）/🚪50/可能有点碍您眼的渣滓",
+        "id": "1677656989051113472",
+        "is_identity_verified": false,
+        "location": "爱人的心底",
+        "most_recent_tweet_id": "2086768886389817504",
+        "name": "清菡",
+        "pinned_tweet_id": "2043002776150773928",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1677656989051113472/1706196109",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043655600731766784/xeWB3CXf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 519,
+          "following_count": 977,
+          "like_count": 7758,
+          "listed_count": 1,
+          "media_count": 108,
+          "tweet_count": 2689
+        },
+        "url": "",
+        "username": "qinghanyufeng",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

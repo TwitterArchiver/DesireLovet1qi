@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2013209398395752448",
+    "conversation_id": "2091225785822859721",
+    "created_at": "2026-08-23T02:58:12.000Z",
+    "display_text_range": [
+      8,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T03:58:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091359321322123681"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1042038055014547457",
+          "start": 0,
+          "username": "EK1672"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091359321322123681",
+    "in_reply_to_user_id": "1042038055014547457",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091225785822859721",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EK1672 药圈没有活着的传奇 要么退出药圈要么退出生物圈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013209398395752448",
+        "conversation_id": "2091225785822859721",
+        "created_at": "2026-08-23T02:58:12.000Z",
+        "display_text_range": [
+          8,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T03:58:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091359321322123681"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1042038055014547457",
+              "start": 0,
+              "username": "EK1672"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091359321322123681",
+        "in_reply_to_user_id": "1042038055014547457",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091225785822859721",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EK1672 药圈没有活着的传奇 要么退出药圈要么退出生物圈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1042038055014547457",
+        "conversation_id": "2091225785822859721",
+        "created_at": "2026-08-22T18:07:35.000Z",
+        "display_text_range": [
+          0,
+          67
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T19:07:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091225785822859721"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2091225785822859721",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "截至目前，我感觉我已经大致把推特💊圈的人看遍了，关注的，没关注的，就反反复复出现的那几个人，难道这群人就是推特中文💊圈的核心群体了吗？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-01-19T11:20:17.000Z",
+        "description": "小咲—别怕我会赛博永生！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/desirelovet1qi",
+                "end": 23,
+                "expanded_url": "https://ngl.link/desirelovet1qi",
+                "start": 0,
+                "url": "https://t.co/1k4V17Yh8s"
+              }
+            ]
+          }
+        },
+        "id": "2013209398395752448",
+        "is_identity_verified": false,
+        "location": "^猫猫天国行くよ^",
+        "most_recent_tweet_id": "2091359321322123681",
+        "name": "愛歌",
+        "pinned_tweet_id": "2083346208719012132",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2013209398395752448/1776056737",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043464203944747008/Seln5ql5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1107,
+          "following_count": 555,
+          "like_count": 832,
+          "listed_count": 1,
+          "media_count": 138,
+          "tweet_count": 1074
+        },
+        "url": "https://t.co/1k4V17Yh8s",
+        "username": "DesireLovet1qi",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-09-18T13:10:07.000Z",
+        "description": "一切皆为艺术，皆可论与赏。我们一起面对美好又残酷的现实吧！",
+        "id": "1042038055014547457",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091344466103951668",
+        "name": "ライル-Lyle",
+        "pinned_tweet_id": "2089197213528502304",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1042299737779695616/eRkk_P0c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 111,
+          "like_count": 505,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 229
+        },
+        "url": "",
+        "username": "EK1672",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2013209398395752448",
+    "conversation_id": "2091367401472639259",
+    "created_at": "2026-08-23T03:30:18.000Z",
+    "display_text_range": [
+      0,
+      92
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T04:30:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091367401472639259"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1876637489529843713",
+          "start": 3,
+          "username": "Everu1yn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091367401472639259",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091208976918880483",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Everu1yn: 可以不要因为想操逼才靠近我好吗，我希望你喜欢的是我的灵魂，我的有趣幽默，认同我的三观和道德标准，而不是因为觉得我现在需要陪伴，需要性才装模作样的闯进我的世界"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013209398395752448",
+        "conversation_id": "2091367401472639259",
+        "created_at": "2026-08-23T03:30:18.000Z",
+        "display_text_range": [
+          0,
+          92
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T04:30:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091367401472639259"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1876637489529843713",
+              "start": 3,
+              "username": "Everu1yn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091367401472639259",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091208976918880483",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Everu1yn: 可以不要因为想操逼才靠近我好吗，我希望你喜欢的是我的灵魂，我的有趣幽默，认同我的三观和道德标准，而不是因为觉得我现在需要陪伴，需要性才装模作样的闯进我的世界"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1876637489529843713",
+        "conversation_id": "2091208976918880483",
+        "created_at": "2026-08-22T17:00:47.000Z",
+        "display_text_range": [
+          0,
+          78
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T18:00:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091208976918880483"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2091208976918880483",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 4480,
+          "like_count": 79,
+          "quote_count": 0,
+          "reply_count": 34,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "可以不要因为想操逼才靠近我好吗，我希望你喜欢的是我的灵魂，我的有趣幽默，认同我的三观和道德标准，而不是因为觉得我现在需要陪伴，需要性才装模作样的闯进我的世界"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-01-19T11:20:17.000Z",
+        "description": "小咲—别怕我会赛博永生！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/desirelovet1qi",
+                "end": 23,
+                "expanded_url": "https://ngl.link/desirelovet1qi",
+                "start": 0,
+                "url": "https://t.co/1k4V17Yh8s"
+              }
+            ]
+          }
+        },
+        "id": "2013209398395752448",
+        "is_identity_verified": false,
+        "location": "^猫猫天国行くよ^",
+        "most_recent_tweet_id": "2091367401472639259",
+        "name": "愛歌",
+        "pinned_tweet_id": "2083346208719012132",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2013209398395752448/1776056737",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043464203944747008/Seln5ql5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1108,
+          "following_count": 555,
+          "like_count": 838,
+          "listed_count": 1,
+          "media_count": 138,
+          "tweet_count": 1078
+        },
+        "url": "https://t.co/1k4V17Yh8s",
+        "username": "DesireLovet1qi",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-07T14:30:29.000Z",
+        "description": "lets see who i can be without you",
+        "id": "1876637489529843713",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091218405668086168",
+        "name": "RUR1NY",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879982065472663552/mxlLXA5s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 674,
+          "following_count": 8,
+          "like_count": 484,
+          "listed_count": 4,
+          "media_count": 1,
+          "tweet_count": 303
+        },
+        "url": "",
+        "username": "Everu1yn",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2013209398395752448",
+    "conversation_id": "2091098463450911177",
+    "created_at": "2026-08-22T09:41:39.000Z",
+    "display_text_range": [
+      0,
+      120
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T10:41:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091098463450911177"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1971864720966873088",
+          "start": 3,
+          "username": "OxOilllllo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091098463450911177",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 138
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090471736794059179",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @OxOilllllo: 谁发明的显化和避谶这种词 我的日常生活已经严重被唯物主义和网络玄学分裂了 每次很沮丧的时候都很想大喊好烂啊想死 但又怕真给我显灵了 搞得我现在连吐槽一地鸡毛都很小心翼翼 恨不得末尾还要给自己升华一下加油鹿小葵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013209398395752448",
+        "conversation_id": "2091098463450911177",
+        "created_at": "2026-08-22T09:41:39.000Z",
+        "display_text_range": [
+          0,
+          120
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T10:41:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091098463450911177"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1971864720966873088",
+              "start": 3,
+              "username": "OxOilllllo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091098463450911177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 138
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090471736794059179",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @OxOilllllo: 谁发明的显化和避谶这种词 我的日常生活已经严重被唯物主义和网络玄学分裂了 每次很沮丧的时候都很想大喊好烂啊想死 但又怕真给我显灵了 搞得我现在连吐槽一地鸡毛都很小心翼翼 恨不得末尾还要给自己升华一下加油鹿小葵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971864720966873088",
+        "conversation_id": "2090471736794059179",
+        "created_at": "2026-08-20T16:11:15.000Z",
+        "display_text_range": [
+          0,
+          104
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T17:11:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090471736794059179"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090471736794059179",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 95307,
+          "like_count": 2303,
+          "quote_count": 24,
+          "reply_count": 171,
+          "retweet_count": 138
+        },
+        "reply_settings": "everyone",
+        "text": "谁发明的显化和避谶这种词 我的日常生活已经严重被唯物主义和网络玄学分裂了 每次很沮丧的时候都很想大喊好烂啊想死 但又怕真给我显灵了 搞得我现在连吐槽一地鸡毛都很小心翼翼 恨不得末尾还要给自己升华一下加油鹿小葵"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-01-19T11:20:17.000Z",
+        "description": "小咲—别怕我会赛博永生！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/desirelovet1qi",
+                "end": 23,
+                "expanded_url": "https://ngl.link/desirelovet1qi",
+                "start": 0,
+                "url": "https://t.co/1k4V17Yh8s"
+              }
+            ]
+          }
+        },
+        "id": "2013209398395752448",
+        "is_identity_verified": false,
+        "location": "^猫猫天国行くよ^",
+        "most_recent_tweet_id": "2091098463450911177",
+        "name": "愛歌",
+        "pinned_tweet_id": "2083346208719012132",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2013209398395752448/1776056737",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043464203944747008/Seln5ql5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1104,
+          "following_count": 555,
+          "like_count": 823,
+          "listed_count": 1,
+          "media_count": 141,
+          "tweet_count": 1066
+        },
+        "url": "https://t.co/1k4V17Yh8s",
+        "username": "DesireLovet1qi",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-27T09:09:30.000Z",
+        "description": "le 不约 当朋友圈发",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dd26387",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dd26387",
+                "start": 0,
+                "url": "https://t.co/dzlaMsYWy4"
+              }
+            ]
+          }
+        },
+        "id": "1971864720966873088",
+        "is_identity_verified": false,
+        "location": "0.6km",
+        "most_recent_tweet_id": "2090826770765537603",
+        "name": "Dd",
+        "pinned_tweet_id": "2075608962326777903",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1971864720966873088/1784359612",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072017799413993472/TZoAo-XH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 418,
+          "following_count": 55,
+          "like_count": 1038,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 529
+        },
+        "url": "https://t.co/dzlaMsYWy4",
+        "username": "OxOilllllo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

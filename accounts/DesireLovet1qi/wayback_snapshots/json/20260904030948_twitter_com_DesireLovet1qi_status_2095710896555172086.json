@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2013209398395752448",
+    "conversation_id": "2095710896555172086",
+    "created_at": "2026-09-04T03:09:48.000Z",
+    "display_text_range": [
+      0,
+      6
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T04:09:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095710896555172086"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/wmtbxsh/status…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/wmtbxsh/status/2095409668122398721",
+          "start": 7,
+          "url": "https://t.co/ku0otdfLKB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095710896555172086",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095409668122398721",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "像割到脂肪层 https://t.co/ku0otdfLKB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1023,
+        "media_key": "3_2095409658668412928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRRj-4vacAAh3z8.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013209398395752448",
+        "conversation_id": "2095710896555172086",
+        "created_at": "2026-09-04T03:09:48.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T04:09:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095710896555172086"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wmtbxsh/status…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/wmtbxsh/status/2095409668122398721",
+              "start": 7,
+              "url": "https://t.co/ku0otdfLKB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095710896555172086",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095409668122398721",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "像割到脂肪层 https://t.co/ku0otdfLKB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095409658668412928"
+          ]
+        },
+        "author_id": "1223407990713114624",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2095409668122398721",
+        "created_at": "2026-09-03T07:12:50.000Z",
+        "display_text_range": [
+          0,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T08:12:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095409668122398721"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mYwaB08XeX",
+              "end": 60,
+              "expanded_url": "https://x.com/wmtbxsh/status/2095409668122398721/photo/1",
+              "media_key": "3_2095409658668412928",
+              "start": 37,
+              "url": "https://t.co/mYwaB08XeX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095409668122398721",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095409658668412928"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 225,
+          "impression_count": 228489,
+          "like_count": 1879,
+          "quote_count": 12,
+          "reply_count": 581,
+          "retweet_count": 57
+        },
+        "reply_settings": "everyone",
+        "text": "之前一直不理解为什么要把逼叫成馒头逼，直到我看到这张图…这也太形象了、、 https://t.co/mYwaB08XeX"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-01-19T11:20:17.000Z",
+        "description": "小咲\n🚪52。只是不想乱加人 互关可以随便找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/desirelovet1qi",
+                "end": 23,
+                "expanded_url": "https://ngl.link/desirelovet1qi",
+                "start": 0,
+                "url": "https://t.co/1k4V17Yh8s"
+              }
+            ]
+          }
+        },
+        "id": "2013209398395752448",
+        "is_identity_verified": false,
+        "location": "^猫猫天国行くよ^",
+        "most_recent_tweet_id": "2095710896555172086",
+        "name": "愛歌",
+        "pinned_tweet_id": "2083346208719012132",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2013209398395752448/1776056737",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043464203944747008/Seln5ql5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1115,
+          "following_count": 548,
+          "like_count": 898,
+          "listed_count": 1,
+          "media_count": 144,
+          "tweet_count": 1138
+        },
+        "url": "https://t.co/1k4V17Yh8s",
+        "username": "DesireLovet1qi",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-02-01T00:49:51.000Z",
+        "description": "读研发疯中💢｜高强度冲浪选手🏄｜日常小号@wjtbxsh｜推广自辨❗️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 20,
+                "username": "wjtbxsh"
+              }
+            ]
+          }
+        },
+        "id": "1223407990713114624",
+        "is_identity_verified": false,
+        "location": "0.52km",
+        "most_recent_tweet_id": "2095675675395158449",
+        "name": "我明天不想说话",
+        "pinned_tweet_id": "2089706612512674252",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1223407990713114624/1734994703",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012531606020390912/jU4-9qGu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64259,
+          "following_count": 621,
+          "like_count": 6546,
+          "listed_count": 137,
+          "media_count": 717,
+          "tweet_count": 3317
+        },
+        "url": "",
+        "username": "wmtbxsh",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2013209398395752448",
+    "conversation_id": "2095186870011588811",
+    "created_at": "2026-09-02T16:27:31.000Z",
+    "display_text_range": [
+      0,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T17:27:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095186870011588811"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2018959137070317568",
+          "start": 3,
+          "username": "02bd025"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095186870011588811",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1865
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094620350776856911",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @02bd025: 死ぬな、とはいうくせに、別に助けてくれるわけでもないの本当に何"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013209398395752448",
+        "conversation_id": "2095186870011588811",
+        "created_at": "2026-09-02T16:27:31.000Z",
+        "display_text_range": [
+          0,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T17:27:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095186870011588811"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2018959137070317568",
+              "start": 3,
+              "username": "02bd025"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095186870011588811",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1865
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094620350776856911",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @02bd025: 死ぬな、とはいうくせに、別に助けてくれるわけでもないの本当に何"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018959137070317568",
+        "conversation_id": "2094620350776856911",
+        "created_at": "2026-09-01T02:56:22.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T03:56:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094620350776856911"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2094620350776856911",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 663,
+          "impression_count": 729581,
+          "like_count": 23016,
+          "quote_count": 319,
+          "reply_count": 215,
+          "retweet_count": 1865
+        },
+        "reply_settings": "everyone",
+        "text": "死ぬな、とはいうくせに、別に助けてくれるわけでもないの本当に何"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-01-19T11:20:17.000Z",
+        "description": "小咲\n🚪52。只是不想乱加人 互关可以随便找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/desirelovet1qi",
+                "end": 23,
+                "expanded_url": "https://ngl.link/desirelovet1qi",
+                "start": 0,
+                "url": "https://t.co/1k4V17Yh8s"
+              }
+            ]
+          }
+        },
+        "id": "2013209398395752448",
+        "is_identity_verified": false,
+        "location": "^猫猫天国行くよ^",
+        "most_recent_tweet_id": "2095186870011588811",
+        "name": "愛歌",
+        "pinned_tweet_id": "2083346208719012132",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2013209398395752448/1776056737",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043464203944747008/Seln5ql5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1107,
+          "following_count": 544,
+          "like_count": 887,
+          "listed_count": 1,
+          "media_count": 144,
+          "tweet_count": 1131
+        },
+        "url": "https://t.co/1k4V17Yh8s",
+        "username": "DesireLovet1qi",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-04T08:05:51.000Z",
+        "description": "足元に幸せはあるけど、足元が崖\n\nDM・マシュマロを募集中！",
+        "id": "2018959137070317568",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094723774105186600",
+        "name": "瀬名",
+        "pinned_tweet_id": "2070061019838427410",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041993542202224641/0yBxCWHz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4264,
+          "following_count": 1295,
+          "like_count": 6983,
+          "listed_count": 32,
+          "media_count": 112,
+          "tweet_count": 4581
+        },
+        "url": "",
+        "username": "02bd025",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

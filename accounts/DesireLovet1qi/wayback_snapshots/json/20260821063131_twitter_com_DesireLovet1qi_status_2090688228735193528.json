@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2013209398395752448",
+    "conversation_id": "2090688228735193528",
+    "created_at": "2026-08-21T06:31:31.000Z",
+    "display_text_range": [
+      0,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T07:31:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090688228735193528"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 31,
+          "id": "1784128762596204544",
+          "start": 21,
+          "username": "flybugqaq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090688228735193528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "following",
+    "text": "我以为你是来送逼的呢 我寻思这逼没人要呢😂@flybugqaq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013209398395752448",
+        "conversation_id": "2090688228735193528",
+        "created_at": "2026-08-21T06:31:31.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T07:31:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090688228735193528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 31,
+              "id": "1784128762596204544",
+              "start": 21,
+              "username": "flybugqaq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090688228735193528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "我以为你是来送逼的呢 我寻思这逼没人要呢😂@flybugqaq"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-01-19T11:20:17.000Z",
+        "description": "小咲—别怕我会赛博永生！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/desirelovet1qi",
+                "end": 23,
+                "expanded_url": "https://ngl.link/desirelovet1qi",
+                "start": 0,
+                "url": "https://t.co/1k4V17Yh8s"
+              }
+            ]
+          }
+        },
+        "id": "2013209398395752448",
+        "is_identity_verified": false,
+        "location": "^猫猫天国行くよ^",
+        "most_recent_tweet_id": "2090688228735193528",
+        "name": "愛歌",
+        "pinned_tweet_id": "2083346208719012132",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2013209398395752448/1776056737",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043464203944747008/Seln5ql5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1084,
+          "following_count": 543,
+          "like_count": 810,
+          "listed_count": 1,
+          "media_count": 141,
+          "tweet_count": 1053
+        },
+        "url": "https://t.co/1k4V17Yh8s",
+        "username": "DesireLovet1qi",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-27T07:53:52.000Z",
+        "description": "鱼的记忆是七秒 我的记忆是一天",
+        "id": "1784128762596204544",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090292355996024977",
+        "name": "唯（需要扩列版）",
+        "pinned_tweet_id": "2012070489011994863",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044459839443898375/7f3RZLTC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 230,
+          "like_count": 877,
+          "listed_count": 1,
+          "media_count": 92,
+          "tweet_count": 314
+        },
+        "url": "",
+        "username": "flybugqaq",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2013209398395752448",
+    "conversation_id": "2091359189197275290",
+    "created_at": "2026-08-23T02:57:40.000Z",
+    "display_text_range": [
+      0,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T03:57:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091359189197275290"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1752957306889990144",
+          "start": 3,
+          "username": "jfeng202211"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091359189197275290",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091132096786087949",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jfeng202211: 人生就是自残自恋自慰自杀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013209398395752448",
+        "conversation_id": "2091359189197275290",
+        "created_at": "2026-08-23T02:57:40.000Z",
+        "display_text_range": [
+          0,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T03:57:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091359189197275290"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1752957306889990144",
+              "start": 3,
+              "username": "jfeng202211"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091359189197275290",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091132096786087949",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jfeng202211: 人生就是自残自恋自慰自杀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752957306889990144",
+        "conversation_id": "2091132096786087949",
+        "created_at": "2026-08-22T11:55:17.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T12:55:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091132096786087949"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2091132096786087949",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1385,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "人生就是自残自恋自慰自杀"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-01-19T11:20:17.000Z",
+        "description": "小咲—别怕我会赛博永生！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/desirelovet1qi",
+                "end": 23,
+                "expanded_url": "https://ngl.link/desirelovet1qi",
+                "start": 0,
+                "url": "https://t.co/1k4V17Yh8s"
+              }
+            ]
+          }
+        },
+        "id": "2013209398395752448",
+        "is_identity_verified": false,
+        "location": "^猫猫天国行くよ^",
+        "most_recent_tweet_id": "2091359189197275290",
+        "name": "愛歌",
+        "pinned_tweet_id": "2083346208719012132",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2013209398395752448/1776056737",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043464203944747008/Seln5ql5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1107,
+          "following_count": 555,
+          "like_count": 832,
+          "listed_count": 1,
+          "media_count": 138,
+          "tweet_count": 1073
+        },
+        "url": "https://t.co/1k4V17Yh8s",
+        "username": "DesireLovet1qi",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-01T07:29:36.000Z",
+        "description": "每天打瓦不撕逼不吵架 专注经营自己的唐氏生活。\n不玩4i。匿名信https://t.co/tWh7nC86wE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ye66023",
+                "end": 55,
+                "expanded_url": "http://ngl.link/ye66023",
+                "start": 32,
+                "url": "https://t.co/tWh7nC86wE"
+              }
+            ]
+          }
+        },
+        "id": "1752957306889990144",
+        "is_identity_verified": false,
+        "location": "距你0.1km",
+        "most_recent_tweet_id": "2091234647363723480",
+        "name": "狗生堪忧",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1752957306889990144/1784484236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078903631655686144/m4NJbiKw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394,
+          "following_count": 79,
+          "like_count": 223,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 185
+        },
+        "url": "",
+        "username": "jfeng202211",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
