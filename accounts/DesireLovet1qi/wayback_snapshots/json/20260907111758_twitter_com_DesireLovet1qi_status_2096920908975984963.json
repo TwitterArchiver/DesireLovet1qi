@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2013209398395752448",
+    "conversation_id": "2096901697352200305",
+    "created_at": "2026-09-07T11:17:58.000Z",
+    "display_text_range": [
+      14,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T12:17:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096920908975984963"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1488754158647738369",
+          "start": 0,
+          "username": "mingquan0326"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096920908975984963",
+    "in_reply_to_user_id": "1488754158647738369",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096901697352200305",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mingquan0326 支持 但是得找帅的几把大的会服务的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013209398395752448",
+        "conversation_id": "2096901697352200305",
+        "created_at": "2026-09-07T11:17:58.000Z",
+        "display_text_range": [
+          14,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T12:17:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096920908975984963"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1488754158647738369",
+              "start": 0,
+              "username": "mingquan0326"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096920908975984963",
+        "in_reply_to_user_id": "1488754158647738369",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096901697352200305",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mingquan0326 支持 但是得找帅的几把大的会服务的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1488754158647738369",
+        "conversation_id": "2096901697352200305",
+        "created_at": "2026-09-07T10:01:37.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T11:01:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096901697352200305"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096901697352200305",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 397,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "完蛋我真的想找固炮了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-01-19T11:20:17.000Z",
+        "description": "小咲 精神状态一般\n🚪52",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/desirelovet1qi",
+                "end": 23,
+                "expanded_url": "https://ngl.link/desirelovet1qi",
+                "start": 0,
+                "url": "https://t.co/1k4V17YOY0"
+              }
+            ]
+          }
+        },
+        "id": "2013209398395752448",
+        "is_identity_verified": false,
+        "location": "^猫猫天国行くよ^",
+        "most_recent_tweet_id": "2096920908975984963",
+        "name": "愛歌",
+        "pinned_tweet_id": "2096877217439707540",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2013209398395752448/1776056737",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043464203944747008/Seln5ql5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1125,
+          "following_count": 547,
+          "like_count": 935,
+          "listed_count": 1,
+          "media_count": 150,
+          "tweet_count": 1183
+        },
+        "url": "https://t.co/1k4V17YOY0",
+        "username": "DesireLovet1qi",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-02-02T06:00:44.000Z",
+        "description": "双向情感障碍/od/自残/穿孔/电吉他/已分手单身",
+        "id": "1488754158647738369",
+        "is_identity_verified": false,
+        "location": "🚪88/128/188/288",
+        "most_recent_tweet_id": "2096907536079176168",
+        "name": "小飒",
+        "pinned_tweet_id": "2096896400382361869",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1488754158647738369/1780744041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069987997697921024/bh8tLu3n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 808,
+          "following_count": 523,
+          "like_count": 1366,
+          "listed_count": 1,
+          "media_count": 67,
+          "tweet_count": 1251
+        },
+        "url": "",
+        "username": "mingquan0326",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

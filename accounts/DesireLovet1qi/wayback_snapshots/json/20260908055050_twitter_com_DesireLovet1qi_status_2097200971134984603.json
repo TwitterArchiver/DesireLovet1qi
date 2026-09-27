@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2097109002329243648"
+      ],
+      "media_source_tweet_id": [
+        "2097109012261294289"
+      ]
+    },
+    "author_id": "2013209398395752448",
+    "conversation_id": "2097200971134984603",
+    "created_at": "2026-09-08T05:50:50.000Z",
+    "display_text_range": [
+      0,
+      50
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T06:50:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097200971134984603"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1937535170049114113",
+          "start": 3,
+          "username": "HatSune_R1n"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rBkviU1jUA",
+          "end": 50,
+          "expanded_url": "https://x.com/HatSune_R1n/status/2097109012261294289/photo/1",
+          "media_key": "3_2097109002329243648",
+          "start": 27,
+          "url": "https://t.co/rBkviU1jUA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097200971134984603",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2097109002329243648"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097109012261294289",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HatSune_R1n: 谁想给若叶睦打点米 https://t.co/rBkviU1jUA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2097109002329243648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRpthtMbwAAjTk-.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097109002329243648"
+          ],
+          "media_source_tweet_id": [
+            "2097109012261294289"
+          ]
+        },
+        "author_id": "2013209398395752448",
+        "conversation_id": "2097200971134984603",
+        "created_at": "2026-09-08T05:50:50.000Z",
+        "display_text_range": [
+          0,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T06:50:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097200971134984603"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1937535170049114113",
+              "start": 3,
+              "username": "HatSune_R1n"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rBkviU1jUA",
+              "end": 50,
+              "expanded_url": "https://x.com/HatSune_R1n/status/2097109012261294289/photo/1",
+              "media_key": "3_2097109002329243648",
+              "start": 27,
+              "url": "https://t.co/rBkviU1jUA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097200971134984603",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097109002329243648"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097109012261294289",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HatSune_R1n: 谁想给若叶睦打点米 https://t.co/rBkviU1jUA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097109002329243648"
+          ]
+        },
+        "author_id": "1937535170049114113",
+        "conversation_id": "2097109012261294289",
+        "created_at": "2026-09-07T23:45:25.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T00:45:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097109012261294289"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rBkviU1jUA",
+              "end": 33,
+              "expanded_url": "https://x.com/HatSune_R1n/status/2097109012261294289/photo/1",
+              "media_key": "3_2097109002329243648",
+              "start": 10,
+              "url": "https://t.co/rBkviU1jUA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097109012261294289",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097109002329243648"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 135,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁想给若叶睦打点米 https://t.co/rBkviU1jUA"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-01-19T11:20:17.000Z",
+        "description": "小咲 精神状态一般\n🚪52纯绿 \n我闺蜜@HatSune_R1n",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 20,
+                "username": "HatSune_R1n"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/desirelovet1qi",
+                "end": 23,
+                "expanded_url": "https://ngl.link/desirelovet1qi",
+                "start": 0,
+                "url": "https://t.co/1k4V17YOY0"
+              }
+            ]
+          }
+        },
+        "id": "2013209398395752448",
+        "is_identity_verified": false,
+        "location": "^猫猫天国行くよ^",
+        "most_recent_tweet_id": "2097200971134984603",
+        "name": "愛歌",
+        "pinned_tweet_id": "2096877217439707540",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2013209398395752448/1776056737",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043464203944747008/Seln5ql5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1430,
+          "following_count": 552,
+          "like_count": 945,
+          "listed_count": 1,
+          "media_count": 154,
+          "tweet_count": 1203
+        },
+        "url": "https://t.co/1k4V17YOY0",
+        "username": "DesireLovet1qi",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-24T15:36:08.000Z",
+        "description": "=橘｜20⬆️｜oder｜双相 ｜社畜 ｜坐标深圳 ｜同类会回fo 欢迎\n交友🚪88仅好友位+朋友圈\n我宝宝@DesireLovet1qi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 54,
+                "username": "DesireLovet1qi"
+              }
+            ]
+          }
+        },
+        "id": "1937535170049114113",
+        "is_identity_verified": false,
+        "location": "距离你5.2km",
+        "most_recent_tweet_id": "2097163041649614872",
+        "name": "M1Kan",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1937535170049114113/1759025304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071775457587118081/EXOfMzBI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 287,
+          "following_count": 138,
+          "like_count": 1217,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 678
+        },
+        "url": "",
+        "username": "HatSune_R1n",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

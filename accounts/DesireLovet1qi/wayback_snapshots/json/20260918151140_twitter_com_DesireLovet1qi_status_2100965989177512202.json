@@ -1,0 +1,390 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2093139959754694656"
+      ],
+      "media_source_tweet_id": [
+        "2093140032685289790"
+      ]
+    },
+    "author_id": "2013209398395752448",
+    "conversation_id": "2100965989177512202",
+    "created_at": "2026-09-18T15:11:40.000Z",
+    "display_text_range": [
+      0,
+      54
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T16:11:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100965989177512202"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2086838732741885952",
+          "start": 3,
+          "username": "Ididnothinglqz"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/k7B9pARDHp",
+          "end": 54,
+          "expanded_url": "https://x.com/hymanjuan4/status/2093140032685289790/video/1",
+          "media_key": "13_2093139959754694656",
+          "start": 31,
+          "url": "https://t.co/k7B9pARDHp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100965989177512202",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2093139959754694656"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 193
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100623652677124500",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ididnothinglqz: 你们最爱的主体性来了 https://t.co/k7B9pARDHp"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 138201,
+        "height": 1280,
+        "media_key": "13_2093139959754694656",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2093139959754694656/img/kIuXpEm6P2Xy3igQ.jpg",
+        "public_metrics": {
+          "view_count": 8572217
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2093139959754694656/vid/avc1/320x564/GK2DgCmibGkJlRq5.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2093139959754694656/vid/avc1/480x848/z0AWdHVjSYJfdgTF.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2093139959754694656/vid/avc1/724x1280/UFRdnag1kFB8MgBG.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2093139959754694656/pl/cAy0jzV4hLEbrYlL.m3u8"
+          }
+        ],
+        "width": 724
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2093139959754694656"
+          ],
+          "media_source_tweet_id": [
+            "2093140032685289790"
+          ]
+        },
+        "author_id": "2013209398395752448",
+        "conversation_id": "2100965989177512202",
+        "created_at": "2026-09-18T15:11:40.000Z",
+        "display_text_range": [
+          0,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T16:11:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100965989177512202"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2086838732741885952",
+              "start": 3,
+              "username": "Ididnothinglqz"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/k7B9pARDHp",
+              "end": 54,
+              "expanded_url": "https://x.com/hymanjuan4/status/2093140032685289790/video/1",
+              "media_key": "13_2093139959754694656",
+              "start": 31,
+              "url": "https://t.co/k7B9pARDHp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100965989177512202",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2093139959754694656"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 193
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100623652677124500",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ididnothinglqz: 你们最爱的主体性来了 https://t.co/k7B9pARDHp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2093139959754694656"
+          ],
+          "media_source_tweet_id": [
+            "2093140032685289790"
+          ]
+        },
+        "author_id": "2086838732741885952",
+        "conversation_id": "2100623652677124500",
+        "created_at": "2026-09-17T16:31:21.000Z",
+        "display_text_range": [
+          0,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T17:31:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100623652677124500"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/k7B9pARDHp",
+              "end": 34,
+              "expanded_url": "https://x.com/hymanjuan4/status/2093140032685289790/video/1",
+              "media_key": "13_2093139959754694656",
+              "start": 11,
+              "url": "https://t.co/k7B9pARDHp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100623652677124500",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2093139959754694656"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1256,
+          "impression_count": 88654,
+          "like_count": 2124,
+          "quote_count": 13,
+          "reply_count": 20,
+          "retweet_count": 193
+        },
+        "reply_settings": "everyone",
+        "text": "你们最爱的主体性来了 https://t.co/k7B9pARDHp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2093139959754694656"
+          ]
+        },
+        "author_id": "2034668638079455232",
+        "conversation_id": "2093140032685289790",
+        "created_at": "2026-08-28T00:54:07.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T01:54:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093140032685289790"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HNS4FV4Xn0",
+              "end": 23,
+              "expanded_url": "https://x.com/hymanjuan4/status/2093140032685289790/video/1",
+              "media_key": "13_2093139959754694656",
+              "start": 0,
+              "url": "https://t.co/HNS4FV4Xn0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093140032685289790",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2093139959754694656"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 39791,
+          "impression_count": 2474242,
+          "like_count": 66933,
+          "quote_count": 183,
+          "reply_count": 272,
+          "retweet_count": 4431
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/HNS4FV4Xn0"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-01-19T11:20:17.000Z",
+        "description": "小咲 精神状态一般\n🚪52纯绿 半绿私 不接非绿没有线下\n我闺蜜@HatSune_R1n\n我妈妈@laijasoon0724_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 32,
+                "username": "HatSune_R1n"
+              },
+              {
+                "end": 63,
+                "start": 48,
+                "username": "laijasoon0724_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/desirelovet1qi",
+                "end": 23,
+                "expanded_url": "https://ngl.link/desirelovet1qi",
+                "start": 0,
+                "url": "https://t.co/1k4V17YOY0"
+              }
+            ]
+          }
+        },
+        "id": "2013209398395752448",
+        "is_identity_verified": false,
+        "location": "^猫猫天国行くよ^",
+        "most_recent_tweet_id": "2100965989177512202",
+        "name": "愛歌",
+        "pinned_tweet_id": "2096877217439707540",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2013209398395752448/1776056737",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043464203944747008/Seln5ql5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1456,
+          "following_count": 549,
+          "like_count": 1025,
+          "listed_count": 1,
+          "media_count": 177,
+          "tweet_count": 1316
+        },
+        "url": "https://t.co/1k4V17YOY0",
+        "username": "DesireLovet1qi",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-10T15:39:27.000Z",
+        "description": "昵称源于操蚂蚁龙 \n原则上可以和所有人沟通\n间歇炒作间歇呢喃间歇魔人\n友左友右友跨友同友女权友基督教，你包容我我包容你，原则上不ban少ban，新注册号除外看黄号除外魔人除外\n前世前前世昵称撒旦子民",
+        "id": "2086838732741885952",
+        "is_identity_verified": false,
+        "location": "美国菏泽曹县",
+        "most_recent_tweet_id": "2100965224056758437",
+        "name": "蚂蚁操龙8964",
+        "pinned_tweet_id": "2092575887237480786",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2086838732741885952/1786377026",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089708250635935744/H9CfsHhV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1563,
+          "following_count": 421,
+          "like_count": 7636,
+          "listed_count": 0,
+          "media_count": 299,
+          "tweet_count": 3582
+        },
+        "url": "",
+        "username": "Ididnothinglqz",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

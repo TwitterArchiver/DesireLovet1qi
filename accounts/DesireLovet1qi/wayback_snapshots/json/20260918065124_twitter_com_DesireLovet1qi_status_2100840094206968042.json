@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2013209398395752448",
+    "conversation_id": "2100840094206968042",
+    "created_at": "2026-09-18T06:51:24.000Z",
+    "display_text_range": [
+      0,
+      46
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T07:51:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100840094206968042"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1895706393317183488",
+          "start": 3,
+          "username": "xybs8964"
+        },
+        {
+          "end": 26,
+          "id": "1581937806435573760",
+          "start": 14,
+          "username": "fadai202202"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100840094206968042",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100222537997382126",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xybs8964: @fadai202202 高情商：不想浪費時間\n低情商：陽痿早洩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013209398395752448",
+        "conversation_id": "2100840094206968042",
+        "created_at": "2026-09-18T06:51:24.000Z",
+        "display_text_range": [
+          0,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T07:51:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100840094206968042"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1895706393317183488",
+              "start": 3,
+              "username": "xybs8964"
+            },
+            {
+              "end": 26,
+              "id": "1581937806435573760",
+              "start": 14,
+              "username": "fadai202202"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100840094206968042",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100222537997382126",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xybs8964: @fadai202202 高情商：不想浪費時間\n低情商：陽痿早洩"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1895706393317183488",
+        "conversation_id": "2100201956153389187",
+        "created_at": "2026-09-16T13:57:27.000Z",
+        "display_text_range": [
+          13,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T14:57:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100222537997382126"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1581937806435573760",
+              "start": 0,
+              "username": "fadai202202"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100222537997382126",
+        "in_reply_to_user_id": "1581937806435573760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 130799,
+          "like_count": 6199,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100201956153389187",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fadai202202 高情商：不想浪費時間\n低情商：陽痿早洩"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-01-19T11:20:17.000Z",
+        "description": "小咲 精神状态一般\n🚪52纯绿 半绿私 不接非绿没有线下\n我闺蜜@HatSune_R1n\n我妈妈@laijasoon0724_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 32,
+                "username": "HatSune_R1n"
+              },
+              {
+                "end": 63,
+                "start": 48,
+                "username": "laijasoon0724_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/desirelovet1qi",
+                "end": 23,
+                "expanded_url": "https://ngl.link/desirelovet1qi",
+                "start": 0,
+                "url": "https://t.co/1k4V17YOY0"
+              }
+            ]
+          }
+        },
+        "id": "2013209398395752448",
+        "is_identity_verified": false,
+        "location": "^猫猫天国行くよ^",
+        "most_recent_tweet_id": "2100840094206968042",
+        "name": "愛歌",
+        "pinned_tweet_id": "2096877217439707540",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2013209398395752448/1776056737",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043464203944747008/Seln5ql5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1452,
+          "following_count": 549,
+          "like_count": 1023,
+          "listed_count": 1,
+          "media_count": 176,
+          "tweet_count": 1312
+        },
+        "url": "https://t.co/1k4V17YOY0",
+        "username": "DesireLovet1qi",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-01T05:23:29.000Z",
+        "description": "傳統劁豬大師，專給滯納豬閹割。\n毛臘肉屠支運動最忠實的粉絲，滯納豬舉報必死全家",
+        "id": "1895706393317183488",
+        "is_identity_verified": false,
+        "location": "北京中南海屠宰場202",
+        "most_recent_tweet_id": "2100787791907188884",
+        "name": "御坂8964號",
+        "pinned_tweet_id": "2099154702261006595",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1895706393317183488/1789316617",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100095921061240832/914XbQKJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 23,
+          "like_count": 574,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 250
+        },
+        "url": "",
+        "username": "xybs8964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-10-17T09:19:10.000Z",
+        "description": "你每次爱我的时候我开心的不行不要不要的",
+        "id": "1581937806435573760",
+        "is_identity_verified": false,
+        "location": "你心里",
+        "most_recent_tweet_id": "2100828360213708864",
+        "name": "呆呆",
+        "pinned_tweet_id": "2048380133195780542",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1581937806435573760/1776524230",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045516948973424640/FnVFzfOY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30916,
+          "following_count": 1,
+          "like_count": 1914,
+          "listed_count": 28,
+          "media_count": 610,
+          "tweet_count": 3127
+        },
+        "url": "",
+        "username": "fadai202202",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

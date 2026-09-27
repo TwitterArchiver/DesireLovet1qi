@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2013209398395752448",
+    "conversation_id": "2096990185108144312",
+    "created_at": "2026-09-07T16:01:55.000Z",
+    "display_text_range": [
+      16,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T17:01:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096992367584989614"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1358454368060665858",
+          "start": 0,
+          "username": "nbplus56015954"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096992367584989614",
+    "in_reply_to_user_id": "1358454368060665858",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096991411753353612",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nbplus56015954 😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013209398395752448",
+        "conversation_id": "2096990185108144312",
+        "created_at": "2026-09-07T16:01:55.000Z",
+        "display_text_range": [
+          16,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T17:01:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096992367584989614"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1358454368060665858",
+              "start": 0,
+              "username": "nbplus56015954"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096992367584989614",
+        "in_reply_to_user_id": "1358454368060665858",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096991411753353612",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nbplus56015954 😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1358454368060665858",
+        "conversation_id": "2096990185108144312",
+        "created_at": "2026-09-07T15:58:07.000Z",
+        "display_text_range": [
+          16,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T16:58:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096991411753353612"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2013209398395752448",
+              "start": 0,
+              "username": "DesireLovet1qi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096991411753353612",
+        "in_reply_to_user_id": "2013209398395752448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096990185108144312",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DesireLovet1qi 已🐍莫辜负"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-01-19T11:20:17.000Z",
+        "description": "小咲 精神状态一般\n🚪52",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/desirelovet1qi",
+                "end": 23,
+                "expanded_url": "https://ngl.link/desirelovet1qi",
+                "start": 0,
+                "url": "https://t.co/1k4V17YOY0"
+              }
+            ]
+          }
+        },
+        "id": "2013209398395752448",
+        "is_identity_verified": false,
+        "location": "^猫猫天国行くよ^",
+        "most_recent_tweet_id": "2096992367584989614",
+        "name": "愛歌",
+        "pinned_tweet_id": "2096877217439707540",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2013209398395752448/1776056737",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043464203944747008/Seln5ql5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1131,
+          "following_count": 548,
+          "like_count": 938,
+          "listed_count": 1,
+          "media_count": 152,
+          "tweet_count": 1188
+        },
+        "url": "https://t.co/1k4V17YOY0",
+        "username": "DesireLovet1qi",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-02-07T16:35:43.000Z",
+        "description": "Break the cycle Rise above Focus on art",
+        "id": "1358454368060665858",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096991411753353612",
+        "name": "接吻时狂嗦对象口腔溃疡被一口咬掉黄牙垢",
+        "pinned_tweet_id": "1864333762563031171",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1358454368060665858/1653071877",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829555806532182016/PGw439Tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 2023,
+          "like_count": 3577,
+          "listed_count": 2,
+          "media_count": 118,
+          "tweet_count": 1448
+        },
+        "url": "",
+        "username": "nbplus56015954",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

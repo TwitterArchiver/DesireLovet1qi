@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2013209398395752448",
+    "conversation_id": "2100115416014352619",
+    "created_at": "2026-09-16T06:51:48.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T07:51:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100115416014352619"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1734992918312800257",
+          "start": 3,
+          "username": "xs_sanso"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100115416014352619",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 41
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099464143183167514",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xs_sanso: 出租地雷\n提供一天伴侣服务,包天520r主要有以下业务\n1、早上叫起床\n2、中午怀疑你出轨\n3、下午对你阴阳怪气\n4、晚上开始冷暴力\n5、十一点过说分手\n6、零点开始拿刀砸门来喊捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013209398395752448",
+        "conversation_id": "2100115416014352619",
+        "created_at": "2026-09-16T06:51:48.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T07:51:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100115416014352619"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1734992918312800257",
+              "start": 3,
+              "username": "xs_sanso"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100115416014352619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 41
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099464143183167514",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xs_sanso: 出租地雷\n提供一天伴侣服务,包天520r主要有以下业务\n1、早上叫起床\n2、中午怀疑你出轨\n3、下午对你阴阳怪气\n4、晚上开始冷暴力\n5、十一点过说分手\n6、零点开始拿刀砸门来喊捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1734992918312800257",
+        "conversation_id": "2099464143183167514",
+        "created_at": "2026-09-14T11:43:52.000Z",
+        "display_text_range": [
+          0,
+          149
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T12:43:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099464143183167514"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2099464143183167514",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 18156,
+          "like_count": 505,
+          "quote_count": 3,
+          "reply_count": 51,
+          "retweet_count": 41
+        },
+        "reply_settings": "everyone",
+        "text": "出租地雷\n提供一天伴侣服务,包天520r主要有以下业务\n1、早上叫起床\n2、中午怀疑你出轨\n3、下午对你阴阳怪气\n4、晚上开始冷暴力\n5、十一点过说分手\n6、零点开始拿刀砸门来喊捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-01-19T11:20:17.000Z",
+        "description": "小咲 精神状态一般\n🚪52纯绿 半绿私 不接非绿没有线下\n我闺蜜@HatSune_R1n",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 32,
+                "username": "HatSune_R1n"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/desirelovet1qi",
+                "end": 23,
+                "expanded_url": "https://ngl.link/desirelovet1qi",
+                "start": 0,
+                "url": "https://t.co/1k4V17YOY0"
+              }
+            ]
+          }
+        },
+        "id": "2013209398395752448",
+        "is_identity_verified": false,
+        "location": "^猫猫天国行くよ^",
+        "most_recent_tweet_id": "2100115416014352619",
+        "name": "愛歌",
+        "pinned_tweet_id": "2096877217439707540",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2013209398395752448/1776056737",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043464203944747008/Seln5ql5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1450,
+          "following_count": 549,
+          "like_count": 1013,
+          "listed_count": 1,
+          "media_count": 175,
+          "tweet_count": 1299
+        },
+        "url": "https://t.co/1k4V17YOY0",
+        "username": "DesireLovet1qi",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-12-13T17:45:28.000Z",
+        "description": "我有精神病 负能量很多 介意的人不要靠近我 没有其他号 匿名提问箱:https://t.co/IQtQodTr01",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xs_sanso",
+                "end": 57,
+                "expanded_url": "https://ngl.link/xs_sanso",
+                "start": 34,
+                "url": "https://t.co/IQtQodTr01"
+              }
+            ]
+          }
+        },
+        "id": "1734992918312800257",
+        "is_identity_verified": false,
+        "location": "离你1.14km",
+        "most_recent_tweet_id": "2099929471193407708",
+        "name": "かがみ_鏡",
+        "pinned_tweet_id": "2056801038179647753",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1734992918312800257/1788799783",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076320963172651008/VYm1cPit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 44,
+          "like_count": 1805,
+          "listed_count": 2,
+          "media_count": 111,
+          "tweet_count": 2067
+        },
+        "url": "",
+        "username": "xs_sanso",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

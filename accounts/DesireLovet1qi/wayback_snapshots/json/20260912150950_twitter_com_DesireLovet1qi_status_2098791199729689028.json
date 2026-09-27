@@ -1,0 +1,386 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2098791191613751296",
+        "3_2098791191835979776",
+        "3_2098791191592804352",
+        "3_2098791191626268672"
+      ]
+    },
+    "author_id": "2013209398395752448",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "2098791199729689028",
+    "created_at": "2026-09-12T15:09:50.000Z",
+    "display_text_range": [
+      0,
+      52
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T16:09:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2098791199729689028"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 39,
+          "start": 34,
+          "tag": "永雏塔菲"
+        },
+        {
+          "end": 43,
+          "start": 40,
+          "tag": "塔菲"
+        },
+        {
+          "end": 52,
+          "start": 44,
+          "tag": "Cosplay"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MBjJHyODhG",
+          "end": 76,
+          "expanded_url": "https://x.com/DesireLovet1qi/status/2098791199729689028/photo/1",
+          "media_key": "3_2098791191613751296",
+          "start": 53,
+          "url": "https://t.co/MBjJHyODhG"
+        },
+        {
+          "display_url": "pic.x.com/MBjJHyODhG",
+          "end": 76,
+          "expanded_url": "https://x.com/DesireLovet1qi/status/2098791199729689028/photo/1",
+          "media_key": "3_2098791191835979776",
+          "start": 53,
+          "url": "https://t.co/MBjJHyODhG"
+        },
+        {
+          "display_url": "pic.x.com/MBjJHyODhG",
+          "end": 76,
+          "expanded_url": "https://x.com/DesireLovet1qi/status/2098791199729689028/photo/1",
+          "media_key": "3_2098791191592804352",
+          "start": 53,
+          "url": "https://t.co/MBjJHyODhG"
+        },
+        {
+          "display_url": "pic.x.com/MBjJHyODhG",
+          "end": 76,
+          "expanded_url": "https://x.com/DesireLovet1qi/status/2098791199729689028/photo/1",
+          "media_key": "3_2098791191626268672",
+          "start": 53,
+          "url": "https://t.co/MBjJHyODhG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098791199729689028",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2098791191613751296"
+      },
+      {
+        "media_key": "3_2098791191835979776"
+      },
+      {
+        "media_key": "3_2098791191592804352"
+      },
+      {
+        "media_key": "3_2098791191626268672"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "依旧和门哥打视频 他又偷摸截图我服了\n起码不截我丑照勉强原谅了。。\n#永雏塔菲 #塔菲 #Cosplay https://t.co/MBjJHyODhG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2098791191613751296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSBneAnbQAAXa3N.jpg",
+        "width": 878
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2098791191835979776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSBneBcaMAAy5ud.jpg",
+        "width": 878
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2098791191592804352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSBneAiboAASynH.jpg",
+        "width": 878
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2098791191626268672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSBneAqaQAAXp_N.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098791191613751296",
+            "3_2098791191835979776",
+            "3_2098791191592804352",
+            "3_2098791191626268672"
+          ]
+        },
+        "author_id": "2013209398395752448",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2098791199729689028",
+        "created_at": "2026-09-12T15:09:50.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T16:09:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098791199729689028"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 39,
+              "start": 34,
+              "tag": "永雏塔菲"
+            },
+            {
+              "end": 43,
+              "start": 40,
+              "tag": "塔菲"
+            },
+            {
+              "end": 52,
+              "start": 44,
+              "tag": "Cosplay"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MBjJHyODhG",
+              "end": 76,
+              "expanded_url": "https://x.com/DesireLovet1qi/status/2098791199729689028/photo/1",
+              "media_key": "3_2098791191613751296",
+              "start": 53,
+              "url": "https://t.co/MBjJHyODhG"
+            },
+            {
+              "display_url": "pic.x.com/MBjJHyODhG",
+              "end": 76,
+              "expanded_url": "https://x.com/DesireLovet1qi/status/2098791199729689028/photo/1",
+              "media_key": "3_2098791191835979776",
+              "start": 53,
+              "url": "https://t.co/MBjJHyODhG"
+            },
+            {
+              "display_url": "pic.x.com/MBjJHyODhG",
+              "end": 76,
+              "expanded_url": "https://x.com/DesireLovet1qi/status/2098791199729689028/photo/1",
+              "media_key": "3_2098791191592804352",
+              "start": 53,
+              "url": "https://t.co/MBjJHyODhG"
+            },
+            {
+              "display_url": "pic.x.com/MBjJHyODhG",
+              "end": 76,
+              "expanded_url": "https://x.com/DesireLovet1qi/status/2098791199729689028/photo/1",
+              "media_key": "3_2098791191626268672",
+              "start": 53,
+              "url": "https://t.co/MBjJHyODhG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098791199729689028",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098791191613751296"
+          },
+          {
+            "media_key": "3_2098791191835979776"
+          },
+          {
+            "media_key": "3_2098791191592804352"
+          },
+          {
+            "media_key": "3_2098791191626268672"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "依旧和门哥打视频 他又偷摸截图我服了\n起码不截我丑照勉强原谅了。。\n#永雏塔菲 #塔菲 #Cosplay https://t.co/MBjJHyODhG"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-01-19T11:20:17.000Z",
+        "description": "小咲 精神状态一般\n🚪52纯绿 半绿私 不接非绿\n我闺蜜@HatSune_R1n",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 28,
+                "username": "HatSune_R1n"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/desirelovet1qi",
+                "end": 23,
+                "expanded_url": "https://ngl.link/desirelovet1qi",
+                "start": 0,
+                "url": "https://t.co/1k4V17Yh8s"
+              }
+            ]
+          }
+        },
+        "id": "2013209398395752448",
+        "is_identity_verified": false,
+        "location": "^猫猫天国行くよ^",
+        "most_recent_tweet_id": "2098791199729689028",
+        "name": "愛歌",
+        "pinned_tweet_id": "2096877217439707540",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2013209398395752448/1776056737",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043464203944747008/Seln5ql5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1446,
+          "following_count": 550,
+          "like_count": 998,
+          "listed_count": 1,
+          "media_count": 167,
+          "tweet_count": 1268
+        },
+        "url": "https://t.co/1k4V17Yh8s",
+        "username": "DesireLovet1qi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
