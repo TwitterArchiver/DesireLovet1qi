@@ -1,11 +1,25 @@
 {
   "name": "愛歌",
   "username": "@DesireLovet1qi",
-  "bio": "小咲\n🚪52。只是不想乱加人 互关可以随便找我玩",
+  "bio": "小咲 精神状态一般\n🚪52纯绿 半绿私 不接非绿没有线下\n我闺蜜@HatSune_R1n\n我妈妈@laijasoon0724_",
   "location": "^猫猫天国行くよ^",
   "link": "https://ngl.link/desirelovet1qi",
   "avatar": "avatar/avatar.jpg",
   "banner": "avatar/1500x500.jpg",
   "pinned": "2068551593046446370",
-  "_avatar_source": "https://pbs.twimg.com/profile_images/2043464203944747008/Seln5ql5_normal.jpg"
+  "_avatar_source": "https://pbs.twimg.com/profile_images/2043464203944747008/Seln5ql5_normal.jpg",
+  "bio_entities": {
+    "mentions": [
+      {
+        "end": 44,
+        "start": 32,
+        "username": "HatSune_R1n"
+      },
+      {
+        "end": 63,
+        "start": 48,
+        "username": "laijasoon0724_"
+      }
+    ]
+  }
 }
